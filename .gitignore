@@ -4,3 +4,4 @@ appsettings.json
 *.db
 node_modules/*
 .angular/*
+/API/etc/*
