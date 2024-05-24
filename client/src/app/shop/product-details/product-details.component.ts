@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
-import { IProduct } from 'src/app/shared/models/product';
+import { IProduct, IShopProduct} from 'src/app/shared/models/product';
 import { ShopService } from '../shop.service';
 import { ActivatedRoute } from '@angular/router';
 import { BreadcrumbService } from 'xng-breadcrumb';
 import { BasketService } from 'src/app/basket/basket.service';
+import { environment } from 'src/environments/environment.development';
 
 @Component({
   selector: 'app-product-details',
@@ -11,7 +12,10 @@ import { BasketService } from 'src/app/basket/basket.service';
   styleUrls: ['./product-details.component.scss']
 })
 export class ProductDetailsComponent implements OnInit {
+  aspNetCoreServerURL = environment.aspNetCoreServerURL;
+
   product: IProduct;
+  shopProduct: IShopProduct;
   quantity = 1;
 
   constructor(private shopService: ShopService, private activateRoute: ActivatedRoute,
@@ -24,7 +28,7 @@ export class ProductDetailsComponent implements OnInit {
   }
 
   addItemToBasket() {
-    this.basketService.addItemToBasket(this.product, this.quantity);
+    this.basketService.addItemToBasket(this.shopProduct, this.quantity);
   }
 
   incrementQuantity() {
@@ -38,9 +42,11 @@ export class ProductDetailsComponent implements OnInit {
   }
 
   loadProduct() {
-    this.shopService.getProduct(+this.activateRoute.snapshot.paramMap.get('id')).subscribe(product => {
-      this.product = product;
-      this.bcService.set('@productDetails', product.name);
+    let currentPath = this.activateRoute.snapshot.routeConfig.path;
+    let currentIdParam = this.activateRoute.snapshot.paramMap.get('id');
+    this.shopService.getShopProduct(currentPath, currentIdParam).subscribe(shopProduct => {
+      this.shopProduct = shopProduct;
+      this.bcService.set('@productDetails', shopProduct.name);
     }, error => {
       console.log(error);
     });

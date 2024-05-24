@@ -1,0 +1,578 @@
+[
+    {
+        "Name": "Ноутбук Gateway GWTN156 (GWTN156-11BK) Black",
+        "Brand": "Gateway",
+        "RAM_Value": "4GB",
+        "Price": "4599",
+        "Image": "LAPTOPS/123_o20l-yb.png",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Extensa 15 EX215-32 Charcoal Black (NX.EGNEU.00C)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "5599",
+        "Image": "LAPTOPS/img90471_1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Extensa 15 EX215-32 Charcoal Black (NX.EGNEU.00D)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "5849",
+        "Image": "LAPTOPS/1_ewjk-2e.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad IP 3 15IAU7 Arctic Grey (82XQ00G7RK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "5849",
+        "Image": "LAPTOPS/Lenovo-IdeaPad-Slim-3-15AMN8-82XQ004LRK--1-.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Extensa 15 EX215-32 Charcoal Black (NX.EGNEU.006)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "5939",
+        "Image": "LAPTOPS/Скриншот_21-11-2023_163449_domq-1p.webp",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15IRU8 Arctic Grey (82XQ00GCRK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "5949",
+        "Image": "LAPTOPS/Lenovo-IdeaPad-Slim-3-15AMN8-82XQ00GCRK--1-.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-510P Pur Silver (NX.KDHEU.006)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "5999",
+        "Image": "LAPTOPS/319650941_egj5-3g.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Extensa 15 EX215-23 Steel Gray (NX.EH3EU.00T)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "5999",
+        "Image": "LAPTOPS/8.png",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук HP 255 G9 Gray (6S6F7EA)",
+        "Brand": "HP",
+        "RAM_Value": "8GB",
+        "Price": "6099",
+        "Image": "LAPTOPS/HP-255-G9-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук HP 255 G9 Gray (6A1A3EA)",
+        "Brand": "HP",
+        "RAM_Value": "8GB",
+        "Price": "6099",
+        "Image": "LAPTOPS/1038192.png",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo V15 G3 Black (82TT009YRM)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "6999",
+        "Image": "LAPTOPS/img_id4934538308596862380.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo V15 G4 Black (82YU00P0RM)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "6999",
+        "Image": "LAPTOPS/Lenovo-V15-G4-AMN-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-24P Pur Silver (NX.KDEEU.004)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "6999",
+        "Image": "LAPTOPS/319650941.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук ASUS VivoBook X1504ZA Quiet Blue (X1504ZA-BQ067)",
+        "Brand": "ASUS",
+        "RAM_Value": "8GB",
+        "Price": "6999",
+        "Image": "LAPTOPS/ASUS-VivoBook-15-X1502ZA,-Blue-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Dell Vostro 3520 (274039331)",
+        "Brand": "Dell",
+        "RAM_Value": "8GB",
+        "Price": "6999",
+        "Image": "LAPTOPS/2036587.dell-vostro-3520-dvos3520i38256ub-p.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15ABR8 Arctic Grey (82XM0086RK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "7199",
+        "Image": "LAPTOPS/1b9ad24e-b2ac-4cfb-9356-96d159267a73_rpik-e2_whfs-o9.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15AMN8 Arctic Grey (82XQ006WPB)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "7299",
+        "Image": "LAPTOPS/unnamed_gs4z-k2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo V15 G2 Black (82KB019DPB)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "7599",
+        "Image": "LAPTOPS/1143.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Extensa 15 EX215-55 Steel Gray (NX.EGYEU.00E)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "7599",
+        "Image": "LAPTOPS/acer-extensa-ex215-55-steel-gray-nxegyeu00f-156-ips-fhd-intel-core-i3-1215u-6xcore-33-44ghz-8gb-1x8gb-free-slot-ddr4-ram-512gb-pcie-nvme-ssdhdd-kit-intel-uhd-graphics-rj-45-wifi-ac-9857901439481.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15IAN8 Arctic Grey (82XB0028RK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "7699",
+        "Image": "LAPTOPS/1b9ad24e-b2ac-4cfb-9356-96d159267a73_rpik-e2_oe47-eq.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-510P Pur Silver (NX.KDHEU.008)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "7699",
+        "Image": "LAPTOPS/319650941_eyfk-47.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Extensa 15 EX215-23 Steel Gray (NX.EH3EU.003)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "7699",
+        "Image": "LAPTOPS/71ixvs8g7PL._SL1500__8udn-bt.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Extensa 15 EX215-55 Steel Gray (NX.EGYEU.00F)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "7799",
+        "Image": "LAPTOPS/acer-extensa-ex215-55-steel-gray-nxegyeu00f-156-ips-fhd-intel-core-i3-1215u-6xcore-33-44ghz-8gb-1x8gb-free-slot-ddr4-ram-512gb-pcie-nvme-ssdhdd-kit-intel-uhd-graphics-rj-45-wifi-ac-9857901439481.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-24P Pure Silver (NX.KDEEU.005)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "7799",
+        "Image": "LAPTOPS/Acer-Aspire-3-A31524PR2B0-NXKDEEU006-1-240131040117-xstore.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15IAN8 Arctic Grey (82XB0022RK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "7899",
+        "Image": "LAPTOPS/1b9ad24e-b2ac-4cfb-9356-96d159267a73_rpik-e2_whfs-o9_u4te-su_519e-wx_32pn-9r_9cgh-vy.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-510P Pur Silver (NX.KDHEU.009)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "7899",
+        "Image": "LAPTOPS/319650941_2hrv-cn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-59 Pure Silver (NX.K6SEU.008)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "7999",
+        "Image": "LAPTOPS/2310990.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Extensa 15 EX215-23 Steel Gray (NX.EH3EU.005)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "7999",
+        "Image": "LAPTOPS/8.png",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15ABR8 Arctic Grey (82XM0087RK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "7999",
+        "Image": "LAPTOPS/1b9ad24e-b2ac-4cfb-9356-96d159267a73_sbr2-uo.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 5 A515-58P Steel Gray (NX.KHJEU.002)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "8159",
+        "Image": "LAPTOPS/1_puc0-zn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15ABR8 Arctic Grey (82XM0088RK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "8599",
+        "Image": "LAPTOPS/1b9ad24e-b2ac-4cfb-9356-96d159267a73_rpik-e2_whfs-o9_u4te-su.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-510P Pur Silver (NX.KDHEU.00A)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "8599",
+        "Image": "LAPTOPS/319650941_sgsr-x9.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15AMN8 Arctic Grey (82XQ007NRK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "8699",
+        "Image": "LAPTOPS/1b9ad24e-b2ac-4cfb-9356-96d159267a73_rpik-e2_whfs-o9_u4te-su_519e-wx.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук ASUS VivoBook X1504ZA-BQ108",
+        "Brand": "ASUS",
+        "RAM_Value": "8GB",
+        "Price": "8699",
+        "Image": "LAPTOPS/ASUS-VivoBook-15-X1502ZA,-Blue-1_4fdi-m0.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-24P Pure Silver (NX.KDEEU.006)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "8699",
+        "Image": "LAPTOPS/img93079_1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15IRU8 Arctic Grey (82X70037RK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "8799",
+        "Image": "LAPTOPS/1b9ad24e-b2ac-4cfb-9356-96d159267a73_rpik-e2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 5 A515-58M Steel Gray (NX.KHGEU.002)",
+        "Brand": "Apple",
+        "RAM_Value": "8GB",
+        "Price": "8799",
+        "Image": "LAPTOPS/356462777_9184-vw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-24P Pure Silver (NX.KDEEU.008)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "8899",
+        "Image": "LAPTOPS/img_id2859368261527694660.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad IP 3 15IAU7 Arctic Grey (82RK00RQRK.12G)",
+        "Brand": "Lenovo",
+        "RAM_Value": "12GB",
+        "Price": "8999",
+        "Image": "LAPTOPS/132155_1_ie5m-0u_rlxs-kn_7aw1-lo_z1zj-m6_oac2-en_2mxw-al.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук ASUS VivoBook Go 15 Black (E1504FA-BQ050)",
+        "Brand": "ASUS",
+        "RAM_Value": "8GB",
+        "Price": "8999",
+        "Image": "LAPTOPS/386815201.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-59 Pure Silver (NX.K6TEU.00Y)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "8999",
+        "Image": "LAPTOPS/1985751_zoom.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-59 Pure Silver (NX.K6TEU.00Z)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "9499",
+        "Image": "LAPTOPS/319650941_sm0h-rn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15IRU8 Arctic Grey (82X70038RK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "9599",
+        "Image": "LAPTOPS/1b9ad24e-b2ac-4cfb-9356-96d159267a73.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-24P Pure Silver (NX.KDEEU.007)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "9699",
+        "Image": "LAPTOPS/img93085_1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15ABR8 Abyss Blue (82XM006YPB)",
+        "Brand": "Lenovo",
+        "RAM_Value": "16GB",
+        "Price": "9799",
+        "Image": "LAPTOPS/375535009.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15ABR8 Arctic Grey (82XM009NPB)",
+        "Brand": "Lenovo",
+        "RAM_Value": "16GB",
+        "Price": "9799",
+        "Image": "LAPTOPS/428156046.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo V15 G4 Black (83FS002JRM)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "10499",
+        "Image": "LAPTOPS/Lenovo-V15-G4-AMN-1_bwpy-87.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo V15 G3 ABA Black (82TV004LRM)",
+        "Brand": "Lenovo",
+        "RAM_Value": "8GB",
+        "Price": "10999",
+        "Image": "LAPTOPS/ych08xxpf323w1w6dw260idenncryd51.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук HP 15-FD0255NW Silver (9R840EA)",
+        "Brand": "HP",
+        "RAM_Value": "16GB",
+        "Price": "10999",
+        "Image": "LAPTOPS/2480742.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo V15 G4 Black (83A100ABRM)",
+        "Brand": "Lenovo",
+        "RAM_Value": "16GB",
+        "Price": "10999",
+        "Image": "LAPTOPS/381947087.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук HP 15s-eq2659nw Silver (584Y2EA)",
+        "Brand": "HP",
+        "RAM_Value": "16GB",
+        "Price": "11499",
+        "Image": "LAPTOPS/hp-15s-eq2659nw-584y2ea-46bee_reference.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Swift 3 SF314-512 Pure Silver (NX.K0EEU.006)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "11999",
+        "Image": "LAPTOPS/1586715_zoom.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Swift 3 SFG14-41 Pure Silver (NX.KG3EU.004)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "12599",
+        "Image": "LAPTOPS/1586715_zoom.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad Slim 3 15ABR8 Abyss Blue (82XM0074PB)",
+        "Brand": "Lenovo",
+        "RAM_Value": "16GB",
+        "Price": "12999",
+        "Image": "LAPTOPS/lenovo-ideapad-slim-3-15abr8-82xm0074pb-2c3fa_reference.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Swift Go 14 Pure Silver (NX.KG3EU.005)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "13699",
+        "Image": "LAPTOPS/img90521_1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 3 A315-59 Pure Silver (NX.K6SEU.00D)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "13769",
+        "Image": "LAPTOPS/319650941_sm0h-rn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук HP 15-DW4005NQ Silver (6M2B4EA)",
+        "Brand": "HP",
+        "RAM_Value": "16GB",
+        "Price": "13999",
+        "Image": "LAPTOPS/c06606404.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 7 A715-76G Black (NH.QMFEX.00A)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "13999",
+        "Image": "LAPTOPS/Acer_20Aspire_207_20A715-76G_20Charcoal_20Black_20A715-76G-59JS_20_NH.QMEEU.002_,_20IPS,_20Full_20HD_20_1080p_,_20No_20OS,_2015.6_20_21_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 5 A517-53 Steel Gray (NX.KQBEU.006)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "13999",
+        "Image": "LAPTOPS/1968955_zoom.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo Gaming 3 15ACH6 Black (82K200QYPB)",
+        "Brand": "Lenovo",
+        "RAM_Value": "16GB",
+        "Price": "14599",
+        "Image": "LAPTOPS/noutbuk__lenovo__gaming__3__15ach6__black__82k200qypb__246626.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Swift 3 SFG14-41 Pure Silver (NX.KG3EU.003)",
+        "Brand": "Acer",
+        "RAM_Value": "8GB",
+        "Price": "14699",
+        "Image": "LAPTOPS/1586715_zoom_f0p8-je.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук HP Victus 15-fb0025nq (6M2S1EA)",
+        "Brand": "HP",
+        "RAM_Value": "16GB",
+        "Price": "14799",
+        "Image": "LAPTOPS/hp-laptop-gaming-hp-victus-15-fa0006nq-cu-procesor-intel-core-i7-12700h-pana-la-4-70-ghz-15-6-full-hd-16gb-512gb-ssd-nvidia-geforce-rtx-3050-4gb-free-dos-silver-1025967.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo IdeaPad IP5 15IAL7 Cloud Gray (82SF00GYRK)",
+        "Brand": "Lenovo",
+        "RAM_Value": "16GB",
+        "Price": "14939",
+        "Image": "LAPTOPS/Lenovo-IdeaPad-5-15IAL7,-Grey-1-230721044333-xstore.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Aspire 5 A515-58M Steel Gray (NX.KHGEU.005)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "15299",
+        "Image": "LAPTOPS/356462777.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo Gaming 3 15ACH6 Black (82K200NDPB)",
+        "Brand": "Lenovo",
+        "RAM_Value": "16GB",
+        "Price": "15999",
+        "Image": "LAPTOPS/noutbuk__lenovo__gaming__3__15ach6__black__82k200ndpb__232904.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Swift Go 14 Pure Silver (NX.KG3EU.002)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "16299",
+        "Image": "LAPTOPS/img90521_1_pop7-00.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Nitro 5 AN515-58 Obsidian Black (NH.QFHEU.001)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "16899",
+        "Image": "LAPTOPS/375592152.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Swift 3 SF314-512 Pure Silver (NX.K0EEU.00G)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "16999",
+        "Image": "LAPTOPS/2311016.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук MSI Gaming GF63 Black (12VE-665XPL)",
+        "Brand": "MSI",
+        "RAM_Value": "16GB",
+        "Price": "17559",
+        "Image": "LAPTOPS/gaming-156-thin-gf63-12ve-fhd-144hz-procesor-intel-core-i5-12450h-12m-cache-up-to-440-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-4050-6gb-no-os-black-a8219a90348ea0c85a21e69c7cf183cc_ho1r-fn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Lenovo Yoga Pro7 14ARP8 Storm Grey (83AU004QRU)",
+        "Brand": "Lenovo",
+        "RAM_Value": "16GB",
+        "Price": "17799",
+        "Image": "LAPTOPS/Yoga_Pro_7_14IRH8_CT2_03.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук Acer Nitro V 15 ANV15-51 Obsidian Black (NH.QNCEU.002)",
+        "Brand": "Acer",
+        "RAM_Value": "16GB",
+        "Price": "17999",
+        "Image": "LAPTOPS/acer-nitro-v-15-anv15-51-non-fingerprint-with-backlit-on-wp-logo-black-01.tif-custom_result.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Ноутбук ASUS TUF Gaming FA506NC Black (FA506NC-HN035)",
+        "Brand": "ASUS",
+        "RAM_Value": "16GB",
+        "Price": "17999",
+        "Image": "LAPTOPS/Laptop-Gaming-ASUS-ROG-TUF-A15-FA506NC-HN035-15.6-inch-FHD-1920-x-1080.jpg",
+        "Description": ""
+    }
+]

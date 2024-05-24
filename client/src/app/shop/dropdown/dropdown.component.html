@@ -1,0 +1,132 @@
+<!-- Первый выпадающий список -->
+<div class="dropdown mb-1" style="width: 100%;">
+    <button class="button btn btn-primary fw-bolder text-uppercase" style="width: 100%;"
+        [class.active]="isFirstMenuActive" (click)="toggleFirstMenu()"
+        [attr.aria-expanded]="isFirstMenuActive ? 'true' : 'false'">
+        Компьютерная техника
+    </button>
+
+    <div class="menu" [attr.aria-hidden]="!isFirstMenuActive ? 'true' : 'false'" [class.active]="isFirstMenuActive">
+
+        <div class="dropdown">
+            <button class="menu-link list-group-item" 
+                [class.active]="isFirstMenuFirstSubcategoryActive" 
+                (click)="toggleFirstMenuFirstSubcategory()"
+                [attr.aria-expanded]="isFirstMenuFirstSubcategoryActive ? 'true' : 'false'">
+                > Комплектующие
+            </button>
+            <div class="menu inner-menu" [attr.aria-hidden]="!isSecondMenuActive ? 'true' : 'false'" [class.active]="isFirstMenuFirstSubcategoryActive">
+                <a *ngFor="let link of firstSubmenuLinks" href="#" class="menu-link list-group-item"
+                    [attr.tabindex]="isFirstMenuFirstSubcategoryActive ? '0' : '-1'"
+                    (click)="handleLinkClick(link.func); $event.preventDefault()">
+                    {{ link.link }}
+                </a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="menu-link list-group-item" 
+                [class.active]="isFirstMenuFirstSubcategoryActive2" 
+                (click)="toggleFirstMenuSecondSubcategory()"
+                [attr.aria-expanded]="isFirstMenuFirstSubcategoryActive2 ? 'true' : 'false'">
+                > Периферия
+            </button>
+            <div class="menu inner-menu" [attr.aria-hidden]="!isSecondMenuActive ? 'true' : 'false'" [class.active]="isFirstMenuFirstSubcategoryActive2">
+                <a *ngFor="let link of secondSubmenuLinks" href="#" class="menu-link list-group-item"
+                    [attr.tabindex]="isFirstMenuFirstSubcategoryActive2 ? '0' : '-1'"
+                    (click)="handleLinkClick(link.func); $event.preventDefault()">
+                    {{ link.link }}
+                </a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="menu-link list-group-item" 
+                [class.active]="isFirstMenuFirstSubcategoryActive3" 
+                (click)="toggleFirstMenuThirdSubcategory()"
+                [attr.aria-expanded]="isFirstMenuFirstSubcategoryActive3 ? 'true' : 'false'">
+                > Ноутбуки, планшеты, эл. книги
+            </button>
+            <div class="menu inner-menu" [attr.aria-hidden]="!isSecondMenuActive ? 'true' : 'false'" [class.active]="isFirstMenuFirstSubcategoryActive3">
+                <a *ngFor="let link of thirdSubmenuLinks" href="#" class="menu-link list-group-item"
+                    [attr.tabindex]="isFirstMenuFirstSubcategoryActive3 ? '0' : '-1'"
+                    (click)="handleLinkClick(link.func); $event.preventDefault()">
+                    {{ link.link }}
+                </a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <a class="menu-link list-group-item" 
+                [class.active]="isFirstMenuFirstSubcategoryActive" 
+                [attr.aria-expanded]="isFirstMenuFirstSubcategoryActive ? 'true' : 'false'"
+                (click)="handleLinkClick(this.displayLinks.func); $event.preventDefault()"
+                style="cursor: pointer;">
+                Дисплеи
+            </a>
+        </div>
+
+    </div>
+
+</div>
+
+<!-- Второй выпадающий список -->
+<div class="dropdown mb-1" style="width: 100%;">
+    <button class="button btn btn-primary fw-bolder text-uppercase" style="width: 100%;"
+        [class.active]="isSecondMenuActive" (click)="toggleSecondMenu()"
+        [attr.aria-expanded]="isSecondMenuActive ? 'true' : 'false'">
+        Телевизоры и электроника
+    </button>
+    <div class="menu" [attr.aria-hidden]="!isSecondMenuActive ? 'true' : 'false'" [class.active]="isSecondMenuActive">
+        <a *ngFor="let link of secondMenuLinks" href="#" class="menu-link list-group-item"
+            [attr.tabindex]="isSecondMenuActive ? '0' : '-1'"
+            (click)="handleLinkClick(link.func); $event.preventDefault()">
+            {{ link.link }}
+        </a>
+    </div>
+</div>
+
+<div class="dropdown mb-1" style="width: 100%;">
+    <button class="button btn btn-primary fw-bolder text-uppercase" style="width: 100%;"
+        [class.active]="isThirdMenuActive" (click)="toggleThirdMenu()"
+        [attr.aria-expanded]="isThirdMenuActive ? 'true' : 'false'">
+        Бытовая техника
+    </button>
+    <div class="menu" [attr.aria-hidden]="!isThirdMenuActive ? 'true' : 'false'" [class.active]="isThirdMenuActive">
+        <a *ngFor="let link of thirdMenuLinks" href="#" class="menu-link list-group-item"
+            [attr.tabindex]="isThirdMenuActive ? '0' : '-1'"
+            (click)="handleLinkClick(link.func); $event.preventDefault()">
+            {{ link.link }}
+        </a>
+    </div>
+</div>
+
+<div class="dropdown mb-1" style="width: 100%;">
+    <button class="button btn btn-primary fw-bolder text-uppercase" style="width: 100%;"
+        [class.active]="isFourthMenuActive" (click)="toggleFourthMenu()"
+        [attr.aria-expanded]="isFourthMenuActive ? 'true' : 'false'">
+        Мебель, текстиль
+    </button>
+    <div class="menu" [attr.aria-hidden]="!isFourthMenuActive ? 'true' : 'false'" [class.active]="isFourthMenuActive">
+        <a *ngFor="let link of fourthMenuLinks" href="#" class="menu-link list-group-item"
+            [attr.tabindex]="isFourthMenuActive ? '0' : '-1'"
+            (click)="handleLinkClick(link.func); $event.preventDefault()">
+            {{ link.link }}
+        </a>
+    </div>
+</div>
+
+<div class="dropdown mb-1" style="width: 100%;">
+    <button class="button btn btn-primary fw-bolder text-uppercase" style="width: 100%;"
+        [class.active]="isFivthMenuActive" (click)="toggleFivthMenu()"
+        [attr.aria-expanded]="isFivthMenuActive ? 'true' : 'false'">
+        Одежда и аксессуары
+    </button>
+    <div class="menu" [attr.aria-hidden]="!isFivthMenuActive ? 'true' : 'false'" [class.active]="isFivthMenuActive">
+        <a *ngFor="let link of fivthMenuLinks" href="#" class="menu-link list-group-item"
+            [attr.tabindex]="isFivthMenuActive ? '0' : '-1'"
+            (click)="handleLinkClick(link.func); $event.preventDefault()">
+            {{ link.link }}
+        </a>
+    </div>
+</div>

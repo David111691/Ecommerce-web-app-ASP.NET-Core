@@ -1,0 +1,45 @@
+.button {
+    inline-size: 100%;
+    padding: 0.5lh 1.5lh;
+    font: inherit;
+    color: currentColor;
+    background-color: #f28482;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover,
+  .button:focus-visible {
+    background-color: #f5cac3;
+  }
+  
+  .menu {
+    position: relative;
+    display: grid;
+    margin-block-start: 0.5lh;
+    background-color: #f28482;
+  
+    overflow: hidden;
+    line-height: 0;
+    color: transparent;
+    transition: line-height 0.5s, color 0.5s;
+  }
+  
+  .menu-item {
+    overflow: hidden;
+  }
+  
+  .menu-link {
+    display: block;
+    padding: 0.5lh 80px;
+  }
+  
+  .menu-link:hover,
+  .menu-link:focus-visible {
+    background-color: #f5cac3;
+  }
+  
+  .button.active ~ .menu {
+    line-height: 1.2;
+    color: currentColor;
+  }

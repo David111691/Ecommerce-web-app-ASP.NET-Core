@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import { BehaviorSubject, map } from 'rxjs';
 import { environment } from 'src/environments/environment.development';
 import { Basket, IBasket, IBasketItem, IBasketTotals } from '../shared/models/basket';
-import { IProduct } from '../shared/models/product';
+import { IProduct, IShopProduct } from '../shared/models/product';
 
 @Injectable({
   providedIn: 'root'
@@ -41,7 +41,7 @@ export class BasketService {
     return this.basketSource.value;
   }
 
-  addItemToBasket(item: IProduct, quantity = 1) {
+  addItemToBasket(item: IShopProduct, quantity = 1) {
     const itemToAdd: IBasketItem = this.mapProductItemToBasketItem(item, quantity);
     const basket = this.getCurrentBasketValue() ?? this.createBasket();
     basket.items = this.addOrUpdateItem(basket.items, itemToAdd, quantity);
@@ -113,15 +113,13 @@ export class BasketService {
     return basket;
   }
 
-  private mapProductItemToBasketItem(item: IProduct, quantity: number): IBasketItem {
+  private mapProductItemToBasketItem(item: IShopProduct, quantity: number): IBasketItem {
     return {
       id: item.id,
       productName: item.name,
       price: item.price,
       quantity: quantity,
-      pictureUrl: item.pictureUrl,
-      brand: item.productBrand,
-      type: item.productType
+      pictureUrl: item.image,
     };
   }
 }

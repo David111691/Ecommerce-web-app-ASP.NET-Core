@@ -1,0 +1,494 @@
+[
+    {
+        "Name": "Посудомоечная машина Korting KDI 60110",
+        "Power": "2100Вт",
+        "Volume": "13",
+        "Price": "3899",
+        "Image": "dishwasher/posudomoechnayamashinakortingkdi60110__12416.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Midea MCFD55320W",
+        "Power": "1380Вт",
+        "Volume": "6",
+        "Price": "4139",
+        "Image": "dishwasher/Screenshot_5_c5lo-p6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Heinner HDW-BI4505IE++",
+        "Volume": "10",
+        "Price": "4199",
+        "Image": "dishwasher/posudomoechnayamashinaheinnerhdwbi4505ie__180038.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Heinner HDW-FS4552WE++",
+        "Volume": "10",
+        "Price": "4199",
+        "Image": "dishwasher/Screenshot_31_30m0-t9.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Heinner HDW-BI6005IE++",
+        "Volume": "12",
+        "Price": "4319",
+        "Image": "dishwasher/posudomoechnayamashinaheinnerhdwbi6005ie__180032.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Midea MCFD55320S",
+        "Power": "1380Вт",
+        "Volume": "6",
+        "Price": "4319",
+        "Image": "dishwasher/Screenshot_1_6uo1-xk.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Heinner HDW-FS6006WE++",
+        "Volume": "12",
+        "Price": "4399",
+        "Image": "dishwasher/posudomoechnayamashinaheinnerhdwfs6006we__179968.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Korting KDI 45140",
+        "Power": "2100Вт",
+        "Volume": "10",
+        "Price": "4799",
+        "Image": "dishwasher/posudomoechnayamashinakortingkdi45140__4914.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Heinner HDW-FS6006DGE++",
+        "Volume": "12",
+        "Price": "4799",
+        "Image": "dishwasher/Screenshot_20_ak1v-qn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Midea MCFD55500W-C",
+        "Power": "1380Вт",
+        "Volume": "6",
+        "Price": "4799",
+        "Image": "dishwasher/1_cvbp-z7.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Toshiba DW-10F1CIS(W)",
+        "Volume": "10",
+        "Price": "5249",
+        "Image": "dishwasher/posudomoechnayamashinatoshibadw10f1cisw__180269.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Korting KDF 45578",
+        "Power": "2100Вт",
+        "Volume": "10",
+        "Price": "5299",
+        "Image": "dishwasher/Screenshot_31_numt-te.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Korting KDF 60578",
+        "Power": "2100Вт",
+        "Volume": "14",
+        "Price": "5399",
+        "Image": "dishwasher/Screenshot_36_fiw0-oi.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Indesit DSIC 3M19",
+        "Power": "1900Вт",
+        "Volume": "10",
+        "Price": "5599",
+        "Image": "dishwasher/11_90af-3d.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GS620E10W",
+        "Power": "1760Вт",
+        "Volume": "14",
+        "Price": "5609",
+        "Image": "dishwasher/posudomoechnayamashinagoreniegs620e10w__212529.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GS520E15W",
+        "Power": "1760Вт",
+        "Volume": "9",
+        "Price": "5699",
+        "Image": "dishwasher/posudomoechnayamashinagoreniegs520e15w__212308.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GS520E15S",
+        "Volume": "9",
+        "Price": "5799",
+        "Image": "dishwasher/posudomoechnayamashinagoreniegs520e15s__211617.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Electrolux ESF5512LOW",
+        "Power": "1950Вт",
+        "Volume": "13",
+        "Price": "5949",
+        "Image": "dishwasher/posudomoechnayamashinaelectroluxesf5512low__210289.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GV520E10",
+        "Power": "1760Вт",
+        "Volume": "11",
+        "Price": "5999",
+        "Image": "dishwasher/posudomoechnayamashinagoreniegv520e10__191429.png",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Heinner HDW-BI4593TE++",
+        "Volume": "10",
+        "Price": "5999",
+        "Image": "dishwasher/Screenshot_14_962x-09.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GV520E10S",
+        "Power": "1760Вт",
+        "Volume": "11",
+        "Price": "6099",
+        "Image": "dishwasher/posudomoechnayamashinagoreniegv520e10s__191425.png",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Korting KDI 45570",
+        "Power": "2100Вт",
+        "Volume": "10",
+        "Price": "6199",
+        "Image": "dishwasher/posudomoechnayamashinakortingkdi45570__9555.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Hisense HV520E40UK",
+        "Power": "1850Вт",
+        "Volume": "11",
+        "Price": "6289",
+        "Image": "dishwasher/Screenshot_91_qdbx-j6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Korting KDI 60570",
+        "Power": "2100Вт",
+        "Volume": "14",
+        "Price": "6299",
+        "Image": "dishwasher/posudomoechnayamashinakortingkdi60570__5120.png",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Whirlpool WSIC 3M27 C",
+        "Power": "1900Вт",
+        "Volume": "10",
+        "Price": "6299",
+        "Image": "dishwasher/posudomoechnayamashinawhirlpoolwsic3m27c__19034.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина WHIRLPOOL W2F HD624 уценка",
+        "Volume": "14",
+        "Price": "6299",
+        "Image": "dishwasher/1_pcs0-uv.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Heinner HDW-BI6093TE++",
+        "Volume": "15",
+        "Price": "6399",
+        "Image": "dishwasher/Screenshot_25_5mkw-dh.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GV620E10",
+        "Power": "1760Вт",
+        "Volume": "14",
+        "Price": "6499",
+        "Image": "dishwasher/posudomoechnayamashinagoreniegv620e10__179498.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Candy CDIH 2D949",
+        "Volume": "9",
+        "Price": "6599",
+        "Image": "dishwasher/5_kwme-ii.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Hotpoint-Ariston H2I HD526 A",
+        "Power": "1900Вт",
+        "Volume": "14",
+        "Price": "6599",
+        "Image": "dishwasher/1_1saw-ki.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Samsung DW50R4040BB/WT",
+        "Power": "1800Вт",
+        "Volume": "9",
+        "Price": "6899",
+        "Image": "dishwasher/posudomoechnayamashinasamsungdw50r4040bbwt__199347.PNG",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина WHIRLPOOL W2F HD624",
+        "Volume": "14",
+        "Price": "6999",
+        "Image": "dishwasher/1_joct-y8.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина WHIRLPOOL WRFC 3C26",
+        "Volume": "14",
+        "Price": "6999",
+        "Image": "dishwasher/1_skyy-qq.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Samsung DW50R4050BB/WT",
+        "Volume": "10",
+        "Price": "7019",
+        "Image": "dishwasher/posudomoechnayamashinasamsungdw50r4050bbwt__38275.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GV561D10",
+        "Power": "1760Вт",
+        "Volume": "11",
+        "Price": "7299",
+        "Image": "dishwasher/posudomoechnayamashinagoreniegv561d10__205554.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина WHIRLPOOL W2F HD624 X",
+        "Power": "2660Вт",
+        "Volume": "14",
+        "Price": "7299",
+        "Image": "dishwasher/Screenshot_8_d4oq-j6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Whirlpool WSFO 3023 PF",
+        "Power": "1900Вт",
+        "Volume": "10",
+        "Price": "7399",
+        "Image": "dishwasher/posudomoechnayamashinawhirlpoolwsfo3023pf__6974.webp",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Hotpoint Ariston HSFO 3T235 WC X",
+        "Power": "1900Вт",
+        "Volume": "10",
+        "Price": "7499",
+        "Image": "dishwasher/posudomoechnayamashinahotpointaristonhsfo3t235wcx__191491.png",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Whirlpool WIC 3C33 PFE",
+        "Power": "1900Вт",
+        "Volume": "14",
+        "Price": "7499",
+        "Image": "dishwasher/posudomoechnayamashinawhirlpoolwic3c33pfe__12233.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Bosch SPV2IKX10E",
+        "Power": "2400Вт",
+        "Volume": "9",
+        "Price": "7649",
+        "Image": "dishwasher/Screenshot_4_eihh-4x.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Samsung DW50R4070BB/WT",
+        "Power": "1800Вт",
+        "Volume": "10",
+        "Price": "7739",
+        "Image": "dishwasher/posudomoechnayamashinasamsungdw50r4070bbwt__199358.PNG",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Whirlpool WIC 3C34 PFE S",
+        "Power": "1900Вт",
+        "Volume": "14",
+        "Price": "7799",
+        "Image": "dishwasher/posudomoechnayamashinawhirlpoolwic3c34pfes__207163.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GS541D10X",
+        "Power": "1760Вт",
+        "Volume": "11",
+        "Price": "7799",
+        "Image": "dishwasher/Screenshot_1_2s2b-fe.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Hotpoint-Ariston HSIO 3O35 WFE",
+        "Power": "1900Вт",
+        "Volume": "10",
+        "Price": "7799",
+        "Image": "dishwasher/Screenshot_104_bkav-qj.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Hotpoint Ariston HFC 3C41 CW X",
+        "Power": "1900Вт",
+        "Volume": "14",
+        "Price": "7899",
+        "Image": "dishwasher/posudomoechnayamashinahotpointaristonhfc3c41cwx__200873.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Electrolux Serie 300 EEA 12100L",
+        "Power": "1950Вт",
+        "Volume": "9",
+        "Price": "7999",
+        "Image": "dishwasher/1_o0bj-ls.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Candy 2D620PBE",
+        "Volume": "16",
+        "Price": "7999",
+        "Image": "dishwasher/5_lrm3-vl.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Samsung DW60M5050BB/WT",
+        "Power": "1800Вт",
+        "Volume": "13",
+        "Price": "8299",
+        "Image": "dishwasher/posudomoechnayamashinasamsungdw60m5050bbwt__191446.png",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Whirlpool WIO 3T133 PLE",
+        "Power": "1900Вт",
+        "Volume": "14",
+        "Price": "8299",
+        "Image": "dishwasher/Screenshot_1_j89f-kt.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GV16D",
+        "Volume": "16",
+        "Price": "8299",
+        "Image": "dishwasher/1_kc30-qh.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина AEG FSE62417P",
+        "Volume": "9",
+        "Price": "8499",
+        "Image": "dishwasher/Screenshot_145_k3mc-gv.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина WHIRLPOOL W7F HS31",
+        "Power": "1900Вт",
+        "Volume": "15",
+        "Price": "8599",
+        "Image": "dishwasher/1_rk6u-et.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Siemens SN43HS41TE",
+        "Volume": "12",
+        "Price": "8924",
+        "Image": "dishwasher/Screenshot_157_4ptf-ks.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Samsung DW60M6050BB/WT",
+        "Power": "2100Вт",
+        "Volume": "14",
+        "Price": "8999",
+        "Image": "dishwasher/1_179j-ww.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина SAMSUNG DW60A6092FW/WT уценка",
+        "Power": "1800Вт",
+        "Volume": "14",
+        "Price": "9519",
+        "Image": "dishwasher/Screenshot_59_dihg-mo.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина BOSCH SMS2ITI04E",
+        "Power": "2400Вт",
+        "Volume": "12",
+        "Price": "9599",
+        "Image": "dishwasher/posudomoechnayamashinaboschsms2iti04e__191445.png",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Samsung DW50R4050FS/WT",
+        "Power": "1800Вт",
+        "Volume": "10",
+        "Price": "9799",
+        "Image": "dishwasher/1_dg3q-q3.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Siemens SR53ES28KE",
+        "Power": "2400Вт",
+        "Volume": "9",
+        "Price": "9944",
+        "Image": "dishwasher/Screenshot_188_fg4w-p3.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Whirlpool W8I HF58 TU",
+        "Power": "1900Вт",
+        "Volume": "14",
+        "Price": "10499",
+        "Image": "dishwasher/1_2xzh-cj.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Gorenje GV693C60XXL",
+        "Volume": "16",
+        "Price": "10999",
+        "Image": "dishwasher/posudomoechnayamashinagoreniegv693c60xxl__276609.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина Bosch SMV4HTX31E",
+        "Power": "2400Вт",
+        "Volume": "12",
+        "Price": "10999",
+        "Image": "dishwasher/Screenshot_225_x4gz-j7.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина SAMSUNG DW60A6092FW/WT",
+        "Power": "1800Вт",
+        "Volume": "14",
+        "Price": "11199",
+        "Image": "dishwasher/Screenshot_59_dihg-mo.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина SAMSUNG DW60A6092FS/WT",
+        "Power": "1800Вт",
+        "Volume": "14",
+        "Price": "11199",
+        "Image": "dishwasher/1_zzg1-5i.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Посудомоечная машина BOSCH SMS4HTI45E",
+        "Volume": "12",
+        "Price": "12899",
+        "Image": "dishwasher/1_od6r-w9.jpg",
+        "Description": ""
+    }
+]

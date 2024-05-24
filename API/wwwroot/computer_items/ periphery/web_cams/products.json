@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "Веб-камера C-Tech CAM-07HD",
+        "Resolution": "1280 × 720",
+        "Price": "199",
+        "Image": "WEBCAMS/veb__kamera__c__tech__cam__07hd__238642.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Веб-камера Sven IC-525 с микроф.",
+        "Resolution": "1280 × 1024",
+        "Price": "329",
+        "Image": "WEBCAMS/veb__kamera__sven__ic__525__s__mikrof__5807.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Веб-камера Sven IC-545 с микроф.",
+        "Resolution": "1280 × 1024",
+        "Price": "329",
+        "Image": "WEBCAMS/veb__kamera__sven__ic__545__s__mikrof__6925.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Веб-камера Sven IC-915 с микроф.",
+        "Resolution": "1280 × 720",
+        "Price": "329",
+        "Image": "WEBCAMS/010-photo-zoom_o588-25.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Веб-камера Logitech C270 HD (960-001063)",
+        "Resolution": "1280 × 720",
+        "Price": "499",
+        "Image": "WEBCAMS/veb__kamera__logitech__c270__hd__960__001063__16069.png",
+        "Description": ""
+    },
+    {
+        "Name": "Веб-камера Logitech C310 HD (960-001065)",
+        "Resolution": "1280 × 720",
+        "Price": "719",
+        "Image": "WEBCAMS/veb__kamera__logitech__c310__hd__960__001065__33739.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Веб-камера Logitech Brio 300 (960-001436)",
+        "Resolution": "1920 × 1080",
+        "Price": "1099",
+        "Image": "WEBCAMS/brio-300-gallery-graphite-1.png",
+        "Description": ""
+    },
+    {
+        "Name": "Веб-камера Logitech Brio 500 (960-001422)",
+        "Resolution": "1920 × 1080",
+        "Price": "1949",
+        "Image": "WEBCAMS/brio-500-gallery-graphite-1.png",
+        "Description": ""
+    }
+]

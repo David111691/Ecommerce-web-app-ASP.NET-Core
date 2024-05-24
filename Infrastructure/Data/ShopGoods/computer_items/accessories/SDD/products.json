@@ -1,0 +1,418 @@
+[
+    {
+        "Name": "SSD 2.5\" Goodram 128GB TLС 'CX400' (SSDPR-CX400-128-G2)",
+        "Price": "399",
+        "Brand": "GOODRAM",
+        "Value": "128 GB",
+        "Image": "SSD/ssd2__5goodram128gbtls__cx400__ssdpr__cx400__128__g2__40258.webp",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Goodram 240GB TLС 'CL100' (SSDPR-CL100-240-G3)",
+        "Price": "419",
+        "Brand": "GOODRAM",
+        "Value": "240 GB",
+        "Image": "SSD/ssd2__5goodram240gbtls__cl100__25738.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Patriot 240GB TLC 'BURST' (PBE240GS25SSDR)",
+        "Price": "419",
+        "Brand": "Patriot",
+        "Value": "240 GB",
+        "Image": "SSD/ssd__2__5patriot240gbtlcburst__pbe240gs25ssdr__201171.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Goodram 256GB TLС 'CX400' (SSDPR-CX400-256-G2)",
+        "Price": "449",
+        "Brand": "GOODRAM",
+        "Value": "256 GB",
+        "Image": "SSD/ssd2__5goodram256gbtls__cx400__40259.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Patriot 256GB TLС 'P210' (P210S256G25)",
+        "Price": "449",
+        "Brand": "Patriot",
+        "Value": "256 GB",
+        "Image": "SSD/ssd__2__5patriot256gbtlsp210__p210s256g25__186608.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram 256GB NVMe 'PX500' (SSDPR-PX500-256-80-G2)",
+        "Price": "479",
+        "Brand": "GOODRAM",
+        "Value": "256 GB",
+        "Image": "SSD/ssd__m__2goodram256gbnvmepx500__ssdpr__px500__256__80__g2__241250.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Gigabyte 240GB TLC 'GP-GSTFS' (GP-GSTFS31240GNTD)",
+        "Price": "499",
+        "Brand": "GIGABYTE",
+        "Value": "240 GB",
+        "Image": "SSD/ssd2__5gigabyte240gbtlcgp__gstfs__gp__gstfs31240gntd__6123.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Crucial 240GB TLC 'BX500' (CT240BX500SSD1)",
+        "Price": "599",
+        "Brand": "CRUCIAL",
+        "Value": "240 GB",
+        "Image": "SSD/ssd2__5crucial240gbtlcbx500__ct240bx500ssd1__34915.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 KIOXIA 500GB NVMe 'Exceria' (LRC10Z500GG8)",
+        "Price": "599",
+        "Brand": "KIOXIA",
+        "Value": "500 GB",
+        "Image": "SSD/ssd__m__2__kioxia__500gb__nvme__exceria__lrc10z500gg8__160712.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Kingston 240GB TLC 'A400' (SA400S37/240G)",
+        "Price": "619",
+        "Brand": "KINGSTON",
+        "Value": "240 GB",
+        "Image": "SSD/ssd2__5kingston240gbtlcsa400s__33670.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Western Digital 240GB TLС 'Green' (WDS240G3G0A)",
+        "Price": "649",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "240 GB",
+        "Image": "SSD/ssd__2__5__western__digital__240gb__tls__green__wds240g3g0a__233774.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram PX600 250GB NVMe (SSDPR-PX600-250-80)",
+        "Price": "649",
+        "Brand": "GOODRAM",
+        "Value": "250 GB",
+        "Image": "SSD/vsdv12e.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Gigabyte 256GB NVMe 'GP-GSM' (GP-GSM2NE3256GNTD)",
+        "Price": "669",
+        "Brand": "GIGABYTE",
+        "Value": "256 GB",
+        "Image": "SSD/ssd__m__2__gigabyte__256gb__tlc__gp__gsm2ne3256gntd__29543.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Kingston 256GB TLC 'KC600' (SKC600/256G)",
+        "Price": "679",
+        "Brand": "KINGSTON",
+        "Value": "256 GB",
+        "Image": "SSD/ssd2__5kingston256gbtlcskc600__5990.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Western Digital 240GB NVMe 'Green' (WDS240G2G0C)",
+        "Price": "679",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "240 GB",
+        "Image": "SSD/ssd__m__2__western__digital__240gbnvmegreen__wds240g2g0c__241266.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Kingston 250GB NVMe NV2 (SNV2S/250G)",
+        "Price": "699",
+        "Brand": "KINGSTON",
+        "Value": "250 GB",
+        "Image": "SSD/ssd__m__2kingston250gbnvmenv2__snv2s__250g__241247.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Goodram 480GB TLС 'CL100' (SSDPR-CL100-480-G3)",
+        "Price": "749",
+        "Brand": "GOODRAM",
+        "Value": "480 GB",
+        "Image": "SSD/ssd__2__5__goodram__480gb__tls__cl100__45031.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Goodram 512GB TLС 'CX400' (SSDPR-CX400-512-G2)",
+        "Price": "779",
+        "Brand": "GOODRAM",
+        "Value": "512 GB",
+        "Image": "SSD/ssd__2__5__goodram__512gb__tls__cx400__31628.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram 512GB NVMe 'PX500' (SSDPR-PX500-512-80-G2)",
+        "Price": "779",
+        "Brand": "GOODRAM",
+        "Value": "512 GB",
+        "Image": "SSD/ssd__m__2goodram512gbnvmepx500__ssdpr__px500__512__80__g2__241244.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" MSI 480GB TLC 'SPATIUM S270' (S78-440E350-P83)",
+        "Price": "789",
+        "Brand": "MSI",
+        "Value": "480 GB",
+        "Image": "SSD/1024_v87t-y1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Kingston 480GB TLC 'A400' (SA400S37/480G)",
+        "Price": "799",
+        "Brand": "KINGSTON",
+        "Value": "480 GB",
+        "Image": "SSD/ssd2__5kingston480gbtlcsa400__35301.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram PX600 500GB NVMe (SSDPR-PX600-500-80)",
+        "Price": "889",
+        "Brand": "GOODRAM",
+        "Value": "500 GB",
+        "Image": "SSD/vsdv12e_iylo-hc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Gigabyte 500GB NVMe AORUS Gen3 (G325E500G)",
+        "Price": "889",
+        "Brand": "GIGABYTE",
+        "Value": "500 GB",
+        "Image": "SSD/a20771fa89763be07bb0b99d43e7c957c07278b222088bbe42ad58ef3e4cd860.jpg.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Kingston 500GB NVMe NV2 (SNV2S/500G)",
+        "Price": "899",
+        "Brand": "KINGSTON",
+        "Value": "500 GB",
+        "Image": "SSD/ssd__m__2kingston500gbnvmenv2__snv2s__500g__241259.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Western Digital 480GB TLС Green (WDS480G3G0A)",
+        "Price": "929",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "480 GB",
+        "Image": "SSD/wd-green-ssd-480gb-front.png.wdthumb.1280.1280.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Samsung 250GB MLC '870 EVO' (MZ-77E250B/EU)",
+        "Price": "959",
+        "Brand": "SAMSUNG",
+        "Value": "250 GB",
+        "Image": "SSD/ssd__2__5samsung250gbmlc870evo__mz__77e250b__eu__201230.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Samsung 250GB NVMe '980' (MZ-V8V250BW)",
+        "Price": "1019",
+        "Brand": "SAMSUNG",
+        "Value": "250 GB",
+        "Image": "SSD/ssd__m__2__samsung__250gb__nvme__980__mz__v8v250bw__150834.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Samsung 250GB NVMe '970 EVO Plus' (MZ-V7S250BW)",
+        "Price": "1089",
+        "Brand": "SAMSUNG",
+        "Value": "250 GB",
+        "Image": "SSD/ssdm__2samsung250gbnvme__970evoplus__13279.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Goodram 960GB TLС 'CL100' (SSDPR-CL100-960-G3)",
+        "Price": "1099",
+        "Brand": "GOODRAM",
+        "Value": "960 GB",
+        "Image": "SSD/ssd2__5goodram960gbtlscl100__37673.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Western Digital 500GB NVMe 'Green' (WDS500G2G0C)",
+        "Price": "1099",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "500 GB",
+        "Image": "SSD/wd-green-sn350-nvme-ssd-500gb-front.png.wdthumb.1280.1280.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Samsung 500GB MLC '870 EVO' (MZ-77E500B/EU)",
+        "Price": "1199",
+        "Brand": "SAMSUNG",
+        "Value": "500 GB",
+        "Image": "SSD/ssd__2__5samsung500gbmlc870evo__mz__77e500b__eu__201267.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Kingston 960GB TLC 'A400' (SA400S37/960G)",
+        "Price": "1299",
+        "Brand": "KINGSTON",
+        "Value": "960 GB",
+        "Image": "SSD/ssd2__5kingston960gbtlcsa400__38557.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Goodram 1TB TLС 'CX400' (SSDPR-CX400-01T-G2)",
+        "Price": "1299",
+        "Brand": "GOODRAM",
+        "Value": "1 TB",
+        "Image": "SSD/ssd__2__5__goodram__1tb__tls__cx400__ssdpr__cx400__01t__g2__186618.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram 1TB NVMe 'PX500' (SSDPR-PX500-01T-80-G2)",
+        "Price": "1389",
+        "Brand": "GOODRAM",
+        "Value": "1 TB",
+        "Image": "SSD/px500-2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Kingston 1TB NVMe NV2 (SNV2S/1000G)",
+        "Price": "1439",
+        "Brand": "KINGSTON",
+        "Value": "1 TB",
+        "Image": "SSD/ktc-product-ssd-snv2s-1000g-1-zm-lg.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Gigabyte 1TB TLC 'GP-GSTFS' (GP-GSTFS31100TNTD)",
+        "Price": "1449",
+        "Brand": "GIGABYTE",
+        "Value": "1 TB",
+        "Image": "SSD/ssd__2__5__gigabyte__1tb__tlc__gp__gstfs__122640.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Western Digital 1TB TLС 'Green' (WDS100T3G0A)",
+        "Price": "1449",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "1 TB",
+        "Image": "SSD/ssd__2__5__western__digital__1tbtlsgreen__wds100t3g0a__233822.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Western Digital 1TB TLС 'Blue' (WDS100T3B0A)",
+        "Price": "1639",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "1 TB",
+        "Image": "SSD/ssd__2__5__western__digital__1tbtlsblue__wds100t3b0a__241121.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Samsung 500GB NVMe '980 PRO' (MZ-V8P500BW)",
+        "Price": "1959",
+        "Brand": "SAMSUNG",
+        "Value": "500 GB",
+        "Image": "SSD/ssdm__2samsung500gbnvme__980pro__10748.png",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Kingston 1TB TLC 'KC600' (SKC600/1024G)",
+        "Price": "1999",
+        "Brand": "KINGSTON",
+        "Value": "1 TB",
+        "Image": "SSD/ssd__2__5kingston1tbtlckc600__skc600__1024g__158952.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram PX600 1TB NVMe (SSDPR-PX600-1K0-80)",
+        "Price": "1999",
+        "Brand": "GOODRAM",
+        "Value": "1 TB",
+        "Image": "SSD/330696648.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram 1TB NVMe 'IRDM' (IRP-SSDPR-P44A-1K0-80)",
+        "Price": "2099",
+        "Brand": "GOODRAM",
+        "Value": "1 TB",
+        "Image": "SSD/ssd__m__2__goodram__1tb__nvme__irdm__irp__ssdpr__p44a__1k0__80__214852.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram 1TB NVMe 'IRDM PRO' (IRP-SSDPR-P44S-1K0-80)",
+        "Price": "2199",
+        "Brand": "GOODRAM",
+        "Value": "1 TB",
+        "Image": "SSD/385505677.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram PX700 1TB NVMe (SSDPR-PX700-01T-80)",
+        "Price": "2199",
+        "Brand": "GOODRAM",
+        "Value": "1 TB",
+        "Image": "SSD/4469906025.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Patriot 2TB TLС 'P210' (P210S2TB25)",
+        "Price": "2249",
+        "Brand": "Patriot",
+        "Value": "2 TB",
+        "Image": "SSD/143544132.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Kingston 1TB NVMe KC3000  (SKC3000S/1024G)",
+        "Price": "2299",
+        "Brand": "KINGSTON",
+        "Value": "1 TB",
+        "Image": "SSD/ktc-product-ssd-kc3000-512gb-1-zm-lg.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Kingston 2TB NVMe NV2 (SNV2S/2000G)",
+        "Price": "2639",
+        "Brand": "KINGSTON",
+        "Value": "2 TB",
+        "Image": "SSD/ktc-product-ssd-snv2s-2000g-1-zm-lg.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD 2.5\" Goodram 2TB TLС 'CX400' (SSDPR-CX400-02T-G2)",
+        "Price": "2699",
+        "Brand": "GOODRAM",
+        "Value": "2 TB",
+        "Image": "SSD/374249344.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram PX600 2TB NVMe (SSDPR-PX600-2K0-80)",
+        "Price": "2899",
+        "Brand": "GOODRAM",
+        "Value": "2 TB",
+        "Image": "SSD/tverdotelnyj-nakopitel-goodram-px600-gen2-2tb-m.2-ssdpr-px600-2k0-80-1280x960.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Western Digital 2TB SATA 'Blue' (WDS200T3B0B)",
+        "Price": "3199",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "2 TB",
+        "Image": "SSD/wd-blue-sa510-sata-m2-2TB-front.png.wdthumb.1280.1280.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram PX700 2TB NVMe (SSDPR-PX700-02T-80)",
+        "Price": "3199",
+        "Brand": "GOODRAM",
+        "Value": "2 TB",
+        "Image": "SSD/4469906025-240304125151-xstore.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "SSD M.2 Goodram 2TB NVMe 'IRDM PRO' (IRP-SSDPR-P44A-2K0-80)",
+        "Price": "3399",
+        "Brand": "GOODRAM",
+        "Value": "2 TB",
+        "Image": "SSD/unnamed_x6an-p1.jpg",
+        "Description": ""
+    }
+]

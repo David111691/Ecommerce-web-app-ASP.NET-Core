@@ -1,0 +1,578 @@
+[
+    {
+        "Name": "Смартфон Samsung Galaxy A04s 3/32GB White",
+        "Display": "6.5\"",
+        "Resolution": "1600 х 720",
+        "Price": "2149",
+        "Image": "phones/uk-galaxy-a04s-a047-sm-a047fzwueub-533588492.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A04s 3/32GB Black",
+        "Display": "6.5\"",
+        "Resolution": "1600 х 720",
+        "Price": "2149",
+        "Image": "phones/sm-a047fzkvsek_1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A04s 3/32GB White",
+        "Display": "6.5\"",
+        "Resolution": "1600 х 720",
+        "Price": "2149",
+        "Image": "phones/uk-galaxy-a04s-a047-sm-a047fzwueub-533588492_n090-pp.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A04s 3/32GB Green",
+        "Display": "6.5\"",
+        "Resolution": "1600 х 720",
+        "Price": "2149",
+        "Image": "phones/289360509.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Motorola Moto E22 4/64GB Crystal Blue",
+        "Display": "6.5\"",
+        "Resolution": "1600 х 720",
+        "Price": "2209",
+        "Image": "phones/319524817.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Motorola Moto E32S 4/64GB Silver",
+        "Display": "6.5\"",
+        "Resolution": "1600 х 720",
+        "Price": "2294",
+        "Image": "phones/Motorola-Moto-E32s-Dual-Sim-464GB-Misty-Silver-536x536.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A04 4/64GB BLACK",
+        "Display": "6.5\"",
+        "Resolution": "1600 х 720",
+        "Price": "2499",
+        "Image": "phones/289280400.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A04 4/64GB CUPRU",
+        "Display": "6.5\"",
+        "Resolution": "1600 х 720",
+        "Price": "2499",
+        "Image": "phones/289280483.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy M13 4/64GB Orange copper",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "2549",
+        "Image": "phones/1_fvq7-ww.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy M13 4/64GB Light Blue",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "2549",
+        "Image": "phones/277025916.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A14 4/64GB Silver",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "2599",
+        "Image": "phones/319561749.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A14 4/64GB Black",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "2599",
+        "Image": "phones/319561614.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A14 4/64GB Green",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "2599",
+        "Image": "phones/319556278.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A14 4/64GB Black",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "2599",
+        "Image": "phones/319561614.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05 4/64Gb SILVER",
+        "Display": "6.7\"",
+        "Resolution": "1600 х 720",
+        "Price": "2599",
+        "Image": "phones/2542176.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05 4/64GB LIGHT GREEN",
+        "Display": "6.7\"",
+        "Resolution": "1600 х 720",
+        "Price": "2599",
+        "Image": "phones/377114333.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05 4/64Gb BLACK",
+        "Display": "6.7\"",
+        "Resolution": "1600 х 720",
+        "Price": "2599",
+        "Image": "phones/377114204.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A14 5G 4/64GB Light Green",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "2999",
+        "Image": "phones/319556278_ngy4-k5.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05s 4/64Gb SILVER",
+        "Display": "6.7\"",
+        "Resolution": "2400 x 1080",
+        "Price": "2999",
+        "Image": "phones/377131662.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05s 4/64Gb BLACK",
+        "Display": "6.7\"",
+        "Resolution": "2400 x 1080",
+        "Price": "2999",
+        "Image": "phones/377127662.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05 4/128Gb BLACK",
+        "Display": "6.7\"",
+        "Resolution": "1600 х 720",
+        "Price": "2999",
+        "Image": "phones/377114204.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05 4/128Gb LIGHT GREEN",
+        "Display": "6.7\"",
+        "Resolution": "1600 х 720",
+        "Price": "2999",
+        "Image": "phones/377114333.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05 4/128Gb SILVER",
+        "Display": "6.7\"",
+        "Resolution": "1600 х 720",
+        "Price": "2999",
+        "Image": "phones/377114204_pzj0-8t.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A14 4/128GB Black",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "3039",
+        "Image": "phones/319561809.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A14 4/128GB Light Green",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "3039",
+        "Image": "phones/319559281.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A14 4/128GB Silver",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "3099",
+        "Image": "phones/319561749_6tjo-3e.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05s 4/128Gb SILVER",
+        "Display": "6.7\"",
+        "Resolution": "2400 x 1080",
+        "Price": "3399",
+        "Image": "phones/377131662_zql0-ro.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05s 4/128Gb BLACK",
+        "Display": "6.7\"",
+        "Resolution": "2400 x 1080",
+        "Price": "3399",
+        "Image": "phones/377120220.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A05s 4/128Gb LIGHT GREEN",
+        "Display": "6.7\"",
+        "Resolution": "2400 x 1080",
+        "Price": "3399",
+        "Image": "phones/377122165.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A23 5G 4/64GB Black",
+        "Display": "6.6\"",
+        "Resolution": "2400 x 1080",
+        "Price": "3599",
+        "Image": "phones/1_ti7z-80.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A23 5G 4/64GB Blue",
+        "Display": "6.6\"",
+        "Resolution": "2400 x 1080",
+        "Price": "3599",
+        "Image": "phones/viedtalrunis-samsung-sm-a236blbueue-1-6335a09e980d1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A23 5G 4/64GB White",
+        "Display": "6.6\"",
+        "Resolution": "2400 x 1080",
+        "Price": "3599",
+        "Image": "phones/samsung-galaxy-a23-sm-a236bzwueue-mobilais-telefons-2-633abb632518d.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A23 5G 4/64GB Black",
+        "Display": "6.6\"",
+        "Resolution": "2400 x 1080",
+        "Price": "3599",
+        "Image": "phones/1_ti7z-80.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A15 4/128GB BLUE",
+        "Display": "6.5\"",
+        "Resolution": "2340 x 1080",
+        "Price": "3799",
+        "Image": "phones/30069976bb.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A15 4/128GB BLUE BLACK",
+        "Display": "6.5\"",
+        "Resolution": "2340 x 1080",
+        "Price": "3799",
+        "Image": "phones/30069975bb.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A15 4/128GB YELLOW",
+        "Display": "6.5\"",
+        "Resolution": "2340 x 1080",
+        "Price": "3799",
+        "Image": "phones/44_4000.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy M33 5G 6/128GB Blue",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "3999",
+        "Image": "phones/263856168.webp",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy M33 5G 6/128GB Green",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "3999",
+        "Image": "phones/263857427.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy M33 5G 6/128GB Brown",
+        "Display": "6.6\"",
+        "Resolution": "2408 x 1080",
+        "Price": "3999",
+        "Image": "phones/263857437.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A24 6/128GB BLACK",
+        "Display": "6.5\"",
+        "Resolution": "1080 x 2340",
+        "Price": "3999",
+        "Image": "phones/enter-samsung-galaxy-a24-235518.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A24 6/128GB DARK RED",
+        "Display": "6.5\"",
+        "Resolution": "1080 x 2340",
+        "Price": "3999",
+        "Image": "phones/enter-samsung-galaxy-a24-235527.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A24 6/128GB LIGHT GREEN",
+        "Display": "6.5\"",
+        "Resolution": "1080 x 2340",
+        "Price": "3999",
+        "Image": "phones/enter-samsung-galaxy-a24-235538.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A25 5G 6/128GB Yellow",
+        "Display": "6.5\"",
+        "Resolution": "2340 x 1080",
+        "Price": "4799",
+        "Image": "phones/405189698.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A25 5G 6/128GB Blue",
+        "Display": "6.5\"",
+        "Resolution": "2340 x 1080",
+        "Price": "4799",
+        "Image": "phones/39_4000.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A25 5G 6/128GB Black/Blue",
+        "Display": "6.5\"",
+        "Resolution": "2340 x 1080",
+        "Price": "4799",
+        "Image": "phones/40_4000.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A25 5G 6/128GB YELLOW",
+        "Display": "6.5\"",
+        "Resolution": "2340 x 1080",
+        "Price": "4999",
+        "Image": "phones/405189698.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A25 5G 6/128GB BLUE",
+        "Display": "6.5\"",
+        "Resolution": "2340 x 1080",
+        "Price": "4999",
+        "Image": "phones/39_4000.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A34 5G 6/128GB SILVER",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "5159",
+        "Image": "phones/319593438_gey2-hc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A34 5G 6/128GB AWESOME VIOLET",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "5159",
+        "Image": "phones/319591485_2k2r-uz.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A34 5G 8/256GB LIME",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "5899",
+        "Image": "phones/319594401.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A34 5G 8/256GB Awesome Graphite",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "5899",
+        "Image": "phones/319587874.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A34 5G 8/256GB Lime",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "5899",
+        "Image": "phones/319594401.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A34 5G 8/256GB Silver",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "5899",
+        "Image": "phones/319593438_gey2-hc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A34 5G 8/256GB Violet",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "5899",
+        "Image": "phones/319591485_2k2r-uz.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A54 5G 6/128GB Lime",
+        "Display": "6.4\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6099",
+        "Image": "phones/img_0_77_4428_8_6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A54 5G 6/128GB Awesome Graphite",
+        "Display": "6.4\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6099",
+        "Image": "phones/319611091_38fj-47.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A54 5G 6/128GB Awesome White",
+        "Display": "6.4\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6099",
+        "Image": "phones/320499894_9rd0-q1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A54 5G 8/128GB Violet",
+        "Display": "6.4\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6199",
+        "Image": "phones/641dcc6f4000b.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A34 5G 8/256GB AWESOME GRAPHITE",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6199",
+        "Image": "phones/319587874.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A54 5G 8/128GB Awesome Graphite",
+        "Display": "6.4\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6199",
+        "Image": "phones/319611091_38fj-47.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A54 5G 8/128GB White",
+        "Display": "6.4\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6199",
+        "Image": "phones/641dcc5464718.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A35 5G 6/128GB AWESOME LILAC",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6299",
+        "Image": "phones/71_4000_03f2-pl.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A35 5G 6/128GB AWESOME NAVY",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6299",
+        "Image": "phones/69_4000_6nus-w0_j0c3-nr.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A35 5G 6/128GB AWESOME ICEBLUE",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6299",
+        "Image": "phones/70_4000_pb6u-ym.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A54 5G 8/256GB Violet",
+        "Display": "6.4\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6759",
+        "Image": "phones/319591485.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A54 5G 8/256GB Awesome Graphite",
+        "Display": "6.4\"",
+        "Resolution": "2340 x 1080",
+        "Price": "6759",
+        "Image": "phones/319611091_38fj-47_54wx-hd.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy S20 FE 5G 6/128GB Lavender",
+        "Display": "6.5\"",
+        "Resolution": "2408 x 1080",
+        "Price": "6999",
+        "Image": "phones/Samsung-Galaxy-S20-FE-Lavender-1-600x1200_s4i3-fq.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A35 5G 8/256GB ICEBLUE",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "7299",
+        "Image": "phones/70_4000.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A35 5G 8/256GB AWESOME NAVY",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "7299",
+        "Image": "phones/69_4000_6nus-w0.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A35 5G 8/256GB AWESOME LILAC",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "7299",
+        "Image": "phones/71_4000.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A55 5G 8/128GB NAVY",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "8099",
+        "Image": "phones/65_4000_ns8v-x2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Смартфон Samsung Galaxy A55 5G 8/128GB ICEBLUE",
+        "Display": "6.6\"",
+        "Resolution": "2340 x 1080",
+        "Price": "8099",
+        "Image": "phones/419951461_orvx-e5.jpg",
+        "Description": ""
+    }
+]

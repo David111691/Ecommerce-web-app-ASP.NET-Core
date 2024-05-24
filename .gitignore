@@ -6,3 +6,7 @@ node_modules/*
 .angular/*
 /API/etc/*
 *.rdb
+*.jpeg
+*.jpg 
+*.png
+*.webp

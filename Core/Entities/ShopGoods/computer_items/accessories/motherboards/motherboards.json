@@ -1,0 +1,472 @@
+[
+    {
+        "Name": "Материнская плата Gigabyte A520M K V2",
+        "Price": "1299",
+        "Brand": "GIGABYTE",
+        "Socket": "AM4",
+        "Image": "motherboards/1000_kiof-ch.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME H510M-K",
+        "Price": "1319",
+        "Brand": "ASUS",
+        "Socket": "LGA1200",
+        "Image": "motherboards/materinskaya__plata__asus__prime__h510m__k__123067.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME H510M-K R2.0",
+        "Price": "1319",
+        "Brand": "ASUS",
+        "Socket": "LGA1200",
+        "Image": "motherboards/318285106.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата MSI B450M-A PRO MAX",
+        "Price": "1329",
+        "Brand": "MSI",
+        "Socket": "AM4",
+        "Image": "motherboards/materinskaya__plata__msi__b450m__a__pro__max__153906.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte A520M H 1.2",
+        "Price": "1339",
+        "Brand": "GIGABYTE",
+        "Socket": "AM4",
+        "Image": "motherboards/1000__1__pzk0-dq.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte A520M S2H",
+        "Price": "1369",
+        "Brand": "GIGABYTE",
+        "Socket": "AM4",
+        "Image": "motherboards/materinskaya__plata__gigabyte__a520m__s2h__ru__253785.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME A520M-K",
+        "Price": "1379",
+        "Brand": "ASUS",
+        "Socket": "AM4",
+        "Image": "motherboards/mat__plata__asus__prime__a520m__k__15820.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME H510M-R-SI",
+        "Price": "1389",
+        "Brand": "ASUS",
+        "Socket": "LGA1200",
+        "Image": "motherboards/materinskaya__plata__asus__prime__h510m__r__si__211940.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte H510M H V2",
+        "Price": "1399",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1200",
+        "Image": "motherboards/xstore.md-GIGABYTE-H510M-H-V2-_5_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte H610M K DDR4",
+        "Price": "1649",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1000__1__xy3o-w4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME H610M-K D4",
+        "Price": "1699",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/materinskaya__plata__asus__prime__h610m__k__d4__198170.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME H610M-R D4-SI",
+        "Price": "1699",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/fwebp__1__7bqw-6s.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte H610M H V2 DDR4",
+        "Price": "1709",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1000_zx8g-yd.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASROCK B550M PHANTOM GAMING 4",
+        "Price": "1799",
+        "Brand": "ASROCK",
+        "Socket": "AM4",
+        "Image": "motherboards/B550M_20Phantom_20Gaming_204_L2__7ofy-ek.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME A620M-K",
+        "Price": "1799",
+        "Brand": "ASUS",
+        "Socket": "AM5",
+        "Image": "motherboards/636ea3cc-13dd-4853-8fbe-1ce0f90a8fbb.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B550M DS3H",
+        "Price": "2029",
+        "Brand": "GIGABYTE",
+        "Socket": "AM4",
+        "Image": "motherboards/mat__plata__gigabyte__b550m__ds3h__40780.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME B550M-A",
+        "Price": "2049",
+        "Brand": "ASUS",
+        "Socket": "AM4",
+        "Image": "motherboards/mat__plata__asus__prime__b550m__a__30426.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME H610M-K",
+        "Price": "2139",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/fwebp_bksk-3m.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B760M DS3H DDR4",
+        "Price": "2199",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1000_l1ie-6s.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte A620M H",
+        "Price": "2199",
+        "Brand": "GIGABYTE",
+        "Socket": "AM5",
+        "Image": "motherboards/img_id499387986739440547.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B760M H DDR4",
+        "Price": "2259",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1000__1__13q8-98.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B550M K",
+        "Price": "2269",
+        "Brand": "GIGABYTE",
+        "Socket": "AM4",
+        "Image": "motherboards/330806535.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B760M GAMING DDR4",
+        "Price": "2279",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/Gigabyte_20B760M_20GAMING_20DDR4,_20Micro-ATX,_20LGA_201700_20_1_.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B650M S2H",
+        "Price": "2299",
+        "Brand": "GIGABYTE",
+        "Socket": "AM5",
+        "Image": "motherboards/1000__1__tuh2-0j.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата MSI PRO B650M-B",
+        "Price": "2299",
+        "Brand": "MSI",
+        "Socket": "AM5",
+        "Image": "motherboards/1024_y0op-a0.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B550M AORUS ELITE 1.3",
+        "Price": "2349",
+        "Brand": "GIGABYTE",
+        "Socket": "AM4",
+        "Image": "motherboards/materinskaya__plata__gigabyte__b550m__aorus__elite__1__2__ru__252854.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B550 GAMING X V2",
+        "Price": "2379",
+        "Brand": "GIGABYTE",
+        "Socket": "AM4",
+        "Image": "motherboards/materinskaya__plata__gigabyte__b550__gaming__x__v2__214903.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B550 GAMING X V2 1.3",
+        "Price": "2379",
+        "Brand": "GIGABYTE",
+        "Socket": "AM4",
+        "Image": "motherboards/1000__2__5e3x-ik.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME B760M-K D4",
+        "Price": "2429",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/Asus_20Prime_20B760M-K_20D4,_20Micro-ATX,_20LGA_201700_20_1_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата MSI B550 GAMING PLUS",
+        "Price": "2449",
+        "Brand": "MSI",
+        "Socket": "AM4",
+        "Image": "motherboards/1024_zkmu-la.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS PRIME B650M-K",
+        "Price": "2639",
+        "Brand": "ASUS",
+        "Socket": "AM5",
+        "Image": "motherboards/w800_xf4p-kv.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата MSI PRO B760M-E DDR4",
+        "Price": "2699",
+        "Brand": "MSI",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1024__1__tvmd-wa.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS TUF GAMING B550M-E",
+        "Price": "2699",
+        "Brand": "ASUS",
+        "Socket": "AM4",
+        "Image": "motherboards/180573900.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B760M GAMING AC DDR4 1.1",
+        "Price": "2779",
+        "Image": "motherboards/306546413.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS TUF GAMING B550M-PLUS",
+        "Price": "2799",
+        "Brand": "ASUS",
+        "Socket": "AM4",
+        "Image": "motherboards/mat__plata__asus__tuf__gaming__b550m__plus__40191.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B760M DS3H",
+        "Price": "2799",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1000_vhz1-hm.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS TUF GAMING B550-PLUS",
+        "Price": "2919",
+        "Brand": "ASUS",
+        "Socket": "AM4",
+        "Image": "motherboards/mat__plata__asus__tuf__gaming__b550__plus__30625.webp",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B760M GAMING X DDR4",
+        "Price": "2949",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/bb322dw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B760 GAMING X DDR4",
+        "Price": "3149",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1000__1__pkpr-wj.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS TUF GAMING B550M-PLUS Wi-Fi II",
+        "Price": "3200",
+        "Brand": "ASUS",
+        "Socket": "AM4",
+        "Image": "motherboards/materinskayaplataasustufgamingb550mpluswifi__264495.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS ROG STRIX B550-A GAMING",
+        "Price": "3289",
+        "Brand": "ASUS",
+        "Socket": "AM4",
+        "Image": "motherboards/715OCwXN0GL._AC_SL1200_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Asus TUF GAMING B760M-PLUS D4",
+        "Price": "3399",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/img_id346023821569457795.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Asus TUF GAMING B760M-PLUS WiFi D4",
+        "Price": "3499",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/123dssad121.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Asus Prime Z690-P D4",
+        "Price": "3599",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/materinskaya__plata__asus__prime__z690__p__d4__245709.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS TUF GAMING B660M-PLUS WIFI",
+        "Price": "3599",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/fwebp_vrfm-6q.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B760 GAMING X",
+        "Price": "3669",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1000_5xdj-q1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS ROG STRIX B550-F GAMING",
+        "Price": "3689",
+        "Brand": "ASUS",
+        "Socket": "AM4",
+        "Image": "motherboards/Asus_20ROG_20Strix_20B550-F_20Gaming_20_1_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte Z690 GAMING X DDR4",
+        "Price": "3824",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/materinskaya__plata__gigabyte__z690__gaming__x__246158.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte B650M GAMING X AX 1.3",
+        "Price": "3889",
+        "Brand": "GIGABYTE",
+        "Socket": "AM5",
+        "Image": "motherboards/9fc2cca2-e455-4441-be6e-20eb34af74b1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS TUF GAMING B650M-PLUS WIFI",
+        "Price": "4099",
+        "Brand": "ASUS",
+        "Socket": "AM5",
+        "Image": "motherboards/w800_gd5c-54.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte Z790 D DDR4",
+        "Price": "4159",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/xstore.md-Placă-de-bază-GIGABYTE-Z790-D-DDR4.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Asus PRIME Z790M-PLUS D4",
+        "Price": "4199",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/Без_названия_csb0-ia.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS STRIX B760-I GAMING WIFI",
+        "Price": "4499",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/h732_p9qw-x3.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Asus PRIME Z790-P D4",
+        "Price": "4699",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/Asus_20Prime_20Z790-P_20D4,_20ATX,_20LGA_201700_20_20_.png",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Asus Prime Z790-P WIFI",
+        "Price": "4749",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/xstore.md-Plac_C4_83-de-baz_C4_83-ASUS-PRIME-Z790-P-WIFI-D4-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата Gigabyte Z790 GAMING X",
+        "Price": "4999",
+        "Brand": "GIGABYTE",
+        "Socket": "LGA1700",
+        "Image": "motherboards/enter-placa-de-baza-gigabyte-z790-gaming-x-ax-16989976.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата MSI Z790 GAMING PLUS Wi-Fi",
+        "Price": "4999",
+        "Brand": "MSI",
+        "Socket": "LGA1700",
+        "Image": "motherboards/1024_625c-h2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS TUF GAMING Z790-PLUS WIFI",
+        "Price": "6159",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/Asus_20TUF_20Gaming_20Z790-PLUS_20WIFI,_20ATX,_20LGA_201700_20_20_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Материнская плата ASUS ROG STRIX Z790-H GAMING WIFI",
+        "Price": "6999",
+        "Brand": "ASUS",
+        "Socket": "LGA1700",
+        "Image": "motherboards/xstore.md-Placa-de-baza-Asus-ROG-STRIX-Z790-H-WIFI-_11_.jpg",
+        "Description": ""
+    }
+]

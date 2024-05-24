@@ -1,0 +1,410 @@
+[
+    {
+        "Name": "Процессор Intel Celeron G5905 BOX",
+        "Price": "889",
+        "Brand": "INTEL",
+        "Cores": "2 (Dual)",
+        "Image": "processors/cpu__intel__celeron__g5905__s1200__box__41289.png",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R3-4100 Box",
+        "Price": "1399",
+        "Brand": "AMD",
+        "Cores": "4 (Quad)",
+        "Image": "processors/processor__amd__ryzen__r3__4100__box__213163.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Pentium G6405 BOX",
+        "Price": "1449",
+        "Brand": "INTEL",
+        "Cores": "2 (Dual)",
+        "Image": "processors/processor__intel__pentium__g6405__box__147440.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i3-10105F BOX",
+        "Price": "1599",
+        "Brand": "INTEL",
+        "Cores": "4 (Quad)",
+        "Image": "processors/processor__intel__core__i3__10105f__box__147177.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R3-3200G BOX",
+        "Price": "1649",
+        "Brand": "AMD",
+        "Cores": "4 (Quad)",
+        "Image": "processors/cpu__amd__sam4__ryzen__r3__3200g__box__18956.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-4500 BOX",
+        "Price": "1679",
+        "Brand": "AMD",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/processor__amd__ryzen__r5__4500__box__ru__233804.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-3600 WOF",
+        "Price": "1779",
+        "Brand": "AMD",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/processor__amd__ryzen__r5__3600__wof__242402.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-3400G BOX",
+        "Price": "1949",
+        "Brand": "AMD",
+        "Cores": "4 (Quad)",
+        "Image": "processors/cpu__amd__sam4__ryzen__r5__3400g__box__35117.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R3-4300G BOX",
+        "Price": "1949",
+        "Brand": "AMD",
+        "Cores": "4 (Quad)",
+        "Image": "processors/processor__amd__ryzen__r3__4300g__box__242401.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i3-12100F BOX",
+        "Price": "1979",
+        "Brand": "INTEL",
+        "Cores": "4 (Quad)",
+        "Image": "processors/processor__intel__core__i3__12100f__box__201163.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i3-10105 BOX",
+        "Price": "2309",
+        "Brand": "INTEL",
+        "Cores": "4 (Quad)",
+        "Image": "processors/processor__intel__core__i3__10105__box__159638.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i3-12100 BOX",
+        "Price": "2479",
+        "Brand": "INTEL",
+        "Cores": "4 (Quad)",
+        "Image": "processors/processor__intel__core__i3__12100__box__201164.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i3-13100F BOX",
+        "Price": "2479",
+        "Brand": "INTEL",
+        "Cores": "4 (Quad)",
+        "Image": "processors/xstore.md-Intel-Core-i3-13100_mqw6-ks_zc8o-25.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-5600G BOX",
+        "Price": "2799",
+        "Brand": "AMD",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/processor__amd__ryzen__r5__5600g__box__159838.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i3-14100F BOX",
+        "Price": "2899",
+        "Brand": "INTEL",
+        "Cores": "4",
+        "Image": "processors/intel_bx8071514100f_ic_i3_14100f_desktop_processor4_1802184.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i3-13100 BOX",
+        "Price": "3059",
+        "Brand": "INTEL",
+        "Cores": "4 (Quad)",
+        "Image": "processors/xstore.md-Intel-Core-i3-13100_mqw6-ks_5i8f-zk.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-12400F BOX",
+        "Price": "3139",
+        "Brand": "INTEL",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/processor__intel__core__i5__12400f__box__197576.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-5600X BOX",
+        "Price": "3499",
+        "Brand": "AMD",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/processor__amd__ryzen__r5__5600x__box__122685.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i3-14100 BOX",
+        "Price": "3559",
+        "Brand": "INTEL",
+        "Cores": "4",
+        "Image": "processors/intel_bx8071514100f_ic_i3_14100f_desktop_processor4_1802184_ud2k-b5.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-12400 BOX",
+        "Price": "3629",
+        "Brand": "INTEL",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/processor__intel__core__i5__12400__box__191188.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R7-5700X WOF",
+        "Price": "4069",
+        "Brand": "AMD",
+        "Cores": "8 (Octa)",
+        "Image": "processors/processor__amd__ryzen__r7__5700x__wox__254224.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R7-5700G BOX",
+        "Price": "4089",
+        "Brand": "AMD",
+        "Cores": "8 (Octa)",
+        "Image": "processors/processor__amd__ryzen__r7__5700g__box__158819.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-8500G BOX",
+        "Price": "4199",
+        "Brand": "AMD",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/2505503-ryzen-5-8500g.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R7-5800X WOF",
+        "Price": "4279",
+        "Brand": "AMD",
+        "Cores": "8 (Octa)",
+        "Image": "processors/processor__amd__ryzen__r7__5800x__box__122684.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-13400F BOX",
+        "Price": "4289",
+        "Brand": "INTEL",
+        "Cores": "10 (Deca)",
+        "Image": "processors/enter-procesor-intel-core-i5-13400-box-198802.png",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-7600 BOX",
+        "Price": "4599",
+        "Brand": "AMD",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/xstore.md--AMD-Ryzen-5-7600X,-Box-230206010941-xstore.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-12500 BOX",
+        "Price": "4689",
+        "Brand": "INTEL",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/processor__intel__core__i5__12500__box__198166.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-14400F BOX",
+        "Price": "4779",
+        "Brand": "INTEL",
+        "Cores": "10",
+        "Image": "processors/intel_bx8071514400f_ic_i5_14400f_desktop_processor10_1802186.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-13400 BOX",
+        "Price": "4929",
+        "Brand": "INTEL",
+        "Cores": "10 (Deca)",
+        "Image": "processors/enter-procesor-intel-core-i5-13400-box-198799.png",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-12600 BOX",
+        "Price": "4994",
+        "Brand": "INTEL",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/processor__intel__core__i5__12600__box__191187.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-7600X BOX",
+        "Price": "5089",
+        "Brand": "AMD",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/51vJLfn5naL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-13500 BOX",
+        "Price": "5179",
+        "Brand": "INTEL",
+        "Cores": "14",
+        "Image": "processors/-xstore.md-Intel-Core-i5-13500-5.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-14400 BOX",
+        "Price": "5399",
+        "Brand": "INTEL",
+        "Cores": "10",
+        "Image": "processors/intel_bx8071514400_ic_i5_14400_desktop_processor10_1802185.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R5-8600G BOX",
+        "Price": "5569",
+        "Brand": "AMD",
+        "Cores": "6 (Hexa)",
+        "Image": "processors/8600g.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-12600K BOX",
+        "Price": "5589",
+        "Brand": "INTEL",
+        "Cores": "10 (Deca)",
+        "Image": "processors/processor__intel__core__i5__12600k__box__191185.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i7-12700F BOX",
+        "Price": "5649",
+        "Brand": "INTEL",
+        "Cores": "12",
+        "Image": "processors/processor__intel__core__i7__12700f__box__212742.jpeg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-13600KF BOX",
+        "Price": "6269",
+        "Brand": "INTEL",
+        "Cores": "14",
+        "Image": "processors/61ZgkI3ZfrL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R7-7700 BOX",
+        "Price": "6529",
+        "Brand": "AMD",
+        "Cores": "8 (Octa)",
+        "Image": "processors/xstore.md-Procesor-AMD-Ryzen-7-7700,-Box.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-13600K BOX",
+        "Price": "6759",
+        "Brand": "INTEL",
+        "Cores": "14",
+        "Image": "processors/en-box-t4-i5k-13th-right-transparent_1080x1080pixels.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R7-7700X BOX",
+        "Price": "6859",
+        "Brand": "AMD",
+        "Cores": "8 (Octa)",
+        "Image": "processors/lkjrewoiuhfrew.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i5-14600K BOX",
+        "Price": "6949",
+        "Brand": "INTEL",
+        "Cores": "14",
+        "Image": "processors/b9f25b12-8cdd-459c-8811-06ae287003ed_7ji1-vm.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i7-12700K BOX",
+        "Price": "7249",
+        "Brand": "INTEL",
+        "Cores": "12",
+        "Image": "processors/processor__intel__core__i7__12700k__box__207066.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i7-13700F BOX",
+        "Price": "7659",
+        "Brand": "INTEL",
+        "Cores": "16",
+        "Image": "processors/url_uploaded_file_1686039013647ee9e5c9632.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R7-8700G BOX",
+        "Price": "7689",
+        "Brand": "AMD",
+        "Cores": "8",
+        "Image": "processors/8700g.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i7-13700KF BOX",
+        "Price": "8149",
+        "Brand": "INTEL",
+        "Cores": "16",
+        "Image": "processors/intel-core-i7-13700kf-box.png",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i7-13700 BOX",
+        "Price": "8599",
+        "Brand": "INTEL",
+        "Cores": "16",
+        "Image": "processors/url_uploaded_file_1686038834647ee93294b73.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i7-13700K BOX",
+        "Price": "8799",
+        "Brand": "INTEL",
+        "Cores": "16",
+        "Image": "processors/LD0005982254.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор AMD Ryzen R9-7900X BOX",
+        "Price": "8909",
+        "Brand": "AMD",
+        "Cores": "12",
+        "Image": "processors/processor__amd__ryzen__r9__7900x__box__245167.png",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i9-13900F BOX",
+        "Price": "11879",
+        "Brand": "INTEL",
+        "Cores": "24",
+        "Image": "processors/xstore.md-Intel-Core-i9-13900K,-Box-230202034442-xstore.png",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i9-14900KF BOX",
+        "Price": "12999",
+        "Brand": "INTEL",
+        "Cores": "24",
+        "Image": "processors/Intel-Core-i9-14900--Box--1-_4ius-sq.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Процессор Intel Core i9-14900 BOX",
+        "Price": "13199",
+        "Brand": "INTEL",
+        "Cores": "24",
+        "Image": "processors/Intel-Core-i9-14900--Box--1-.jpg",
+        "Description": ""
+    }
+]

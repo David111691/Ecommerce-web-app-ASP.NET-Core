@@ -1,0 +1,506 @@
+[
+    {
+        "Name": "Планшет Lenovo TAB M9 (TB-310FU) Wi-Fi 3/32GB Gray (ZAC30123SE*)",
+        "Brand": "Lenovo",
+        "Price": "1699",
+        "Image": "TABLETS/90920935F925D7FBAF2544C28E25ED89.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M8 (4th Gen) (TB-300FU) Wi-Fi 3/32GB Arctic Grey (ZABU0091PL)",
+        "Brand": "Lenovo",
+        "Price": "1999",
+        "Image": "TABLETS/TABLENZABU0091PL-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M8 (4th Gen) (TB-300FU) Wi-Fi 3/32GB Arctic Gre (ZABU0139PL)",
+        "Brand": "Lenovo",
+        "Price": "1999",
+        "Image": "TABLETS/TABLENZABU0091PL-1_eseb-6r.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M9 (TB-310FU) Wi-Fi 3/32GB Gray (ZAC30123SE)",
+        "Brand": "Lenovo",
+        "Price": "2199",
+        "Image": "TABLETS/90920935F925D7FBAF2544C28E25ED89.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M9 (TB-310FU) Wi-Fi 3/32GB Arctic Grey (ZAC30193PL)",
+        "Brand": "Lenovo",
+        "Price": "2199",
+        "Image": "TABLETS/Lenovo-Tab-M9-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M9 (TB-310XU) LTE 3/32GB Arctic Grey (ZAC50172PL)",
+        "Brand": "Lenovo",
+        "Price": "2229",
+        "Image": "TABLETS/90920935F925D7FBAF2544C28E25ED89.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A7 Lite (2021) Wi-Fi 3/32GB Silver (SM-T220NZSAEU)",
+        "Brand": "Samsung",
+        "Price": "2499",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__a7__t220__3__32gb__wifi__silver__203919.png",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A7 Lite (2021) Wi-Fi 3/32GB Gray (SM-T220NZAAEUE)",
+        "Brand": "Samsung",
+        "Price": "2499",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__a7__t220__3__32gb__wifi__gray__sm__t220nzaae__215010.png",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M8 (4th Gen) (TB-300XU) LTE 3/32GB Arctic Gre (ZABV0050PL)",
+        "Brand": "Lenovo",
+        "Price": "2499",
+        "Image": "TABLETS/TABLENZABU0091PL-1_eseb-6r_ioxo-0n.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 (3rd Gen) (TB-328FU) Wi-Fi 3/32GB Storm Grey (ZAAE0047PL)",
+        "Brand": "Lenovo",
+        "Price": "2499",
+        "Image": "TABLETS/12745070_3_f_55dm-37.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M9 (TB-310FU) Wi-Fi 4/64GB Gray (ZAC30194PL)",
+        "Brand": "Lenovo",
+        "Price": "2499",
+        "Image": "TABLETS/90920935F925D7FBAF2544C28E25ED89.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 (3rd Gen) (TB-328FU) Wi-Fi 3/32GB Storm Grey (ZAAE0023SE)",
+        "Brand": "Lenovo",
+        "Price": "2499",
+        "Image": "TABLETS/12745070_3_f_qx0g-ws.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A7 Lite (2021) LTE 3/32GB Silver (SM-T225NZSAEUE)",
+        "Brand": "Samsung",
+        "Price": "2599",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__a7__t225__3__32gb__lte__silver__sm__t225nzsa__215015.png",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A7 Lite (2021) LTE 3/32GB Grey (SM-T225NZAAEUE)",
+        "Brand": "Samsung",
+        "Price": "2599",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__a7__t225__3__32gb__lte__silver__sm__t225nzsaa__241421.png",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 (3rd Gen) (TB-328FU) Wi-Fi 4/64GB Arctic Grey (ZAAE0050PL)",
+        "Brand": "Lenovo",
+        "Price": "2699",
+        "Image": "TABLETS/12745070_3_f.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 (3rd Gen) (TB-328FU) Wi-Fi 4/64GB Storm Grey (ZAAE0000SE)",
+        "Brand": "Lenovo",
+        "Price": "2699",
+        "Image": "TABLETS/12745070_3_f_ifsk-od.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M9 (TB-310XU) LTE 4/64GB Arctic Grey (ZAC50173PL)",
+        "Brand": "Lenovo",
+        "Price": "2899",
+        "Image": "TABLETS/90920935F925D7FBAF2544C28E25ED89.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9 8.7\" Wi-Fi 4/64GB Silver (SM-X110NZSAEUE)",
+        "Brand": "Samsung",
+        "Price": "3099",
+        "Image": "TABLETS/a73ec2f728314af689a192373a2d19f2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9 8.7\" Wi-Fi 4/64GB Navy (SM-X110NDBAEUE)",
+        "Brand": "Samsung",
+        "Price": "3099",
+        "Image": "TABLETS/samsung-galaxy-tab-a9-89e1e_reference.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9 8.7\" Wi-Fi 4/64GB Graphite (SM-X110NZAAEUE)",
+        "Brand": "Samsung",
+        "Price": "3099",
+        "Image": "TABLETS/2107964a9258426ab93e1c24d752ad90.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9 8.7\" Wi-Fi 4/64GB GRAPHITE (SM-X110NZAASEK)",
+        "Brand": "Samsung",
+        "Price": "3099",
+        "Image": "TABLETS/2107964a9258426ab93e1c24d752ad90.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 (3rd Gen) (TB-328XU) LTE 4/64GB Storm Grey (ZAAF0033SE)",
+        "Brand": "Lenovo",
+        "Price": "3299",
+        "Image": "TABLETS/12745070_3_f_k2dr-d1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 (3rd Gen) (TB-328XU) LTE 4/64GB Аrctic Grey (ZAAF0067PL)",
+        "Brand": "Lenovo",
+        "Price": "3299",
+        "Image": "TABLETS/12745070_3_f.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A7 Lite (2021) Wi-Fi 4/64GB Gray (SM-T220NZAFEUB)",
+        "Brand": "Samsung",
+        "Price": "3299",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__a7__t220__3__32gb__wifi__gray__sm__t220nzaae__215010_9rde-n0.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 (3rd Gen) (TB-328XU) LTE 4/64GB Storm Grey (ZAAF0049ES)",
+        "Brand": "Lenovo",
+        "Price": "3299",
+        "Image": "TABLETS/12745070_3_f_k2dr-d1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9 8.7\" LTE 4/64GB GRAPHITE (SM-X115NZAASEK)",
+        "Brand": "Samsung",
+        "Price": "3699",
+        "Image": "TABLETS/Samsung-Galaxy-Tab-A9-X110-Grey-5-240122052215-xstore.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9 8.7\" Wi-Fi 8/128GB GRAPHITE (SM-X110NZAESEK)",
+        "Brand": "Samsung",
+        "Price": "3699",
+        "Image": "TABLETS/Samsung-Galaxy-Tab-A9-X110-Grey-5-240122052215-xstore_nqfm-vw_s0pv-z4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 Plus (3rd Gen) (TB-125FU) Wi-Fi 4/64GB Grey (ZAAJ0145PL)",
+        "Brand": "Lenovo",
+        "Price": "3899",
+        "Image": "TABLETS/planshet__lenovo__tab__m10__plus__tb__125fu__4__64gb__wi__fi__grey__zaai0145pl__241646.png",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 Plus (3rd Gen) (TB-128FU) Wi-Fi 4/64GB Grey (ZAAM0157PL)",
+        "Brand": "Lenovo",
+        "Price": "3999",
+        "Image": "TABLETS/lenovo-tab-m10-plus--3rd-gen--snapdragon-sdm680-10-61--2k-ips-400nits-4-128gb-adreno-610-gpu-wifi-android-storm-gray_y4ye-4i.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 Plus (3rd Gen) (TB-128FU) Wi-Fi 4/128GB Storm Grey (ZAAM0160PL)",
+        "Brand": "Lenovo",
+        "Price": "4399",
+        "Image": "TABLETS/lenovo-tab-m10-plus--3rd-gen--snapdragon-sdm680-10-61--2k-ips-400nits-4-128gb-adreno-610-gpu-wifi-android-storm-gray.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 Plus (3rd Gen) (TB-128FU) Wi-Fi 4/128GB Storm Grey (ZAAM0138SE)",
+        "Brand": "Lenovo",
+        "Price": "4399",
+        "Image": "TABLETS/lenovo-tab-m10-plus--3rd-gen--snapdragon-sdm680-10-61--2k-ips-400nits-4-128gb-adreno-610-gpu-wifi-android-storm-gray.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9 8.7\" LTE 8/128GB GRAPHITE (SM-X115NZAESEK)",
+        "Brand": "Samsung",
+        "Price": "4399",
+        "Image": "TABLETS/Samsung-Galaxy-Tab-A9-X110-Grey-5-240122052215-xstore_nqfm-vw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 Plus (3rd Gen) (TB-128XU) LTE 4/64GB Grey (ZAAN0128PL)",
+        "Brand": "Lenovo",
+        "Price": "4499",
+        "Image": "TABLETS/planshet__lenovo__tab__m10__plus__tb__125fu__4__64gb__wi__fi__grey__zaai0145pl__241646_1wub-4z.png",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9+ 11\" Wi-Fi 4/64GB Graphite (SM-X210NZAAEUE)",
+        "Brand": "Samsung",
+        "Price": "4549",
+        "Image": "TABLETS/enter-tableta-samsung-galaxy-tab-a9-391623.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9+ 11\" Wi-Fi 4/64GB GRAPHITE (SM-X210NZAASEK)",
+        "Brand": "Samsung",
+        "Price": "4549",
+        "Image": "TABLETS/enter-tableta-samsung-galaxy-tab-a9-391623_97pq-yh.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A8 10.5\" LTE 4/64GB Grey (SM-X205NZAEEUE)",
+        "Brand": "Samsung",
+        "Price": "4649",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__a8__x205__4__64gb__lte__grey__sm__x205nzae__200435.jpeg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A8 10.5\" LTE 4/64GB Pink Gold (SM-X205NIDE)",
+        "Brand": "Samsung",
+        "Price": "4649",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__a8__x205__4__64gb__lte__pink__sm__x205nide__200443.webp",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M11 (TB-330FU) Wi-Fi 4/128GB Luna Grey (ZADA0024PL)",
+        "Brand": "Lenovo",
+        "Price": "4699",
+        "Image": "TABLETS/01_tab_m11_tour_front_forward_facing_lte_luna_grey_lock_screen_1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB M10 Plus (3rd Gen) (TB-128XU) LTE 4/128GB Storm Grey (ZAAN0125SE)",
+        "Brand": "Lenovo",
+        "Price": "4899",
+        "Image": "TABLETS/planshet__lenovo__tab__m10__plus__tb__125fu__4__64gb__wi__fi__grey__zaai0145pl__241646_1wub-4z.png",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9+ 11\" 5G 4/64GB GRAPHITE (SM-X216BZAASEK)",
+        "Brand": "Samsung",
+        "Price": "5299",
+        "Image": "TABLETS/enter-tableta-samsung-galaxy-tab-a9-391623_97pq-yh.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9+ 11\" Wi-Fi 8/128GB GRAPHITE (SM-X210NZAESEK)",
+        "Brand": "Samsung",
+        "Price": "5349",
+        "Image": "TABLETS/enter-tableta-samsung-galaxy-tab-a9-391623.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo Yoga Smart Tab (YT-X705L) LTE 4/64GB Iron Grey (ZA530036SE)",
+        "Brand": "Lenovo",
+        "Price": "5599",
+        "Image": "TABLETS/planshet__lenovo__yoga__smart__tab__yt__x705l__4__64gb__lte__iron__grey__za530012pl__197582.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo TAB P11 (TB-350FU) Wi-Fi 4/128GB Storm Grey (ZABF0287GR)",
+        "Brand": "Lenovo",
+        "Price": "5749",
+        "Image": "TABLETS/61g5G2dp5JL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S6 Lite (2022) Wi-Fi 4/64GB Gray (SM-P613NZAAXEO)",
+        "Brand": "Samsung",
+        "Price": "5899",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__s6__lite__p613__4__64gb__wifi__gray__sm__p613nzaaato__ru__253859.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab A9+ 11\" 5G 8/128GB GRAPHITE (SM-X216BZAESEK)",
+        "Brand": "Samsung",
+        "Price": "6199",
+        "Image": "TABLETS/enter-tableta-samsung-galaxy-tab-a9-391623_97pq-yh_oyle-ue.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S6 Lite (2022) LTE 4/64GB Grey (SM-P619NZAASEB)",
+        "Brand": "Samsung",
+        "Price": "6339",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__s6__lite__p619__4__64gb__lte__grey__sm__p619nzaa__253860.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S6 Lite (2022) LTE 4/64GB Blue (SM-P619NZBASEB)",
+        "Brand": "Samsung",
+        "Price": "6339",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__s6__lite__p619__4__64gb__lte__blue__sm__p619nzba__240319.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo Yoga Tab 11 (YT-J706F) Wi-Fi 4/128GB Storm Grey (ZA8W0035PL)",
+        "Brand": "Lenovo",
+        "Price": "6399",
+        "Image": "TABLETS/planshet__lenovo__yoga__tab__11__yt__i706f__4__128gb__wi__fi__storm__grey__za8w0035pl__197612.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Apple iPad 9 2021 10.2\" Wi-Fi 64Gb Space Gray (MK2K3RK/A)",
+        "Brand": "Apple",
+        "Price": "6699",
+        "Image": "TABLETS/ipad__9__2021__10__2__256gb__wi__fi__space__gray__mk2n3__239231.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Apple iPad 9 2021 10.2\" Wi-Fi 64Gb Silver (MK2L3RK/A)",
+        "Brand": "Apple",
+        "Price": "6699",
+        "Image": "TABLETS/210929160033776973__1__69rn-ll.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Lenovo Yoga Tab 11 (YT-J706F) Wi-Fi 8/256GB Storm Grey (ZA8W0110PL)",
+        "Brand": "Lenovo",
+        "Price": "7449",
+        "Image": "TABLETS/planshet__lenovo__yoga__tab__11__yt__i706f__4__128gb__wi__fi__storm__grey__za8w0035pl__197612_8fdm-pf.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S6 Lite (2024) LTE 4/128GB GRAY (SM-P625NZAEEUC)",
+        "Brand": "Samsung",
+        "Price": "7499",
+        "Image": "TABLETS/423303148.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S6 Lite (2022) LTE 4/128GB Grey (SM-P619NZAEPHE)",
+        "Brand": "Samsung",
+        "Price": "7779",
+        "Image": "TABLETS/planshet__samsung__galaxy__tab__s6__lite__p619__4__64gb__lte__grey__sm__p619nzaa__253860.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE Wi-Fi 6/128GB Silver (SM-X510NZSAEUE)",
+        "Brand": "Samsung",
+        "Price": "8449",
+        "Image": "TABLETS/5f5717d42fda4a9ea0c8c640f0bcfbc7.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE Wi-Fi 6/128GB SILVER (SM-X510NZSASEK)",
+        "Brand": "Samsung",
+        "Price": "8449",
+        "Image": "TABLETS/368597160.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE Wi-Fi 6/128GB Grey (SM-X510NZAAEUB)",
+        "Brand": "Samsung",
+        "Price": "8449",
+        "Image": "TABLETS/368597142.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Apple iPad 10 2022 10.9\" Wi-Fi 64Gb Blue (MPQ13RK/A)",
+        "Brand": "Apple",
+        "Price": "8989",
+        "Image": "TABLETS/301660400.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Apple iPad 10 2022 10.9\" Wi-Fi 64Gb Silver (MPQ03RK/A)",
+        "Brand": "Apple",
+        "Price": "8989",
+        "Image": "TABLETS/301654642.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Apple iPad 10 2022 10.9\" Wi-Fi 64Gb Pink (MPQ33RK/A)",
+        "Brand": "Apple",
+        "Price": "8989",
+        "Image": "TABLETS/301654973.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Apple iPad 10 2022 10.9\" Wi-Fi 64Gb Yellow (MPQ23RK/A)",
+        "Brand": "Apple",
+        "Price": "8989",
+        "Image": "TABLETS/301657435.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE Wi-Fi 6/128GB LAVENDER (SM-X510NLIASEK)",
+        "Brand": "Samsung",
+        "Price": "8999",
+        "Image": "TABLETS/368597140.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE Wi-Fi 6/128GB MINT(SM-X510NLGASEK)",
+        "Brand": "Samsung",
+        "Price": "8999",
+        "Image": "TABLETS/a2971107-2253-4d47-bfd5-41ac409fcb7a_3avb-v6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE Wi-Fi 6/128GB DARK GRAY (SM-X510NZAASEK)",
+        "Brand": "Samsung",
+        "Price": "8999",
+        "Image": "TABLETS/368597142.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S7 FE 5G 4/64GB Green (SM-T736BLGAEUE)",
+        "Brand": "Samsung",
+        "Price": "9599",
+        "Image": "TABLETS/908950287CEBD884FA4F45EEA5FC0EB3.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE Wi-Fi 8/256GB Grey (SM-X510NZAEEUE)",
+        "Brand": "Samsung",
+        "Price": "9789",
+        "Image": "TABLETS/368597142.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE LTE 6/128GB Silver (SM-X516BZSAEUB)",
+        "Brand": "Samsung",
+        "Price": "9789",
+        "Image": "TABLETS/5f5717d42fda4a9ea0c8c640f0bcfbc7.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE LTE 6/128GB Mint (SM-X516BLGAEUB)",
+        "Brand": "Samsung",
+        "Price": "9789",
+        "Image": "TABLETS/a2971107-2253-4d47-bfd5-41ac409fcb7a_9phu-we.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE Wi-Fi 8/256GB Lavender (SM-X510NLIEEUB)",
+        "Brand": "Samsung",
+        "Price": "9789",
+        "Image": "TABLETS/Samsung-Galaxy-Tab-S9-FE-_X510_,-Lavender-_1_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Apple iPad 9 2021 10.2\" LTE 64Gb Space Gray (MK473RK/A)",
+        "Brand": "Apple",
+        "Price": "9849",
+        "Image": "TABLETS/ipad__9__2021__10__2__256gb__wi__fi__space__gray__mk2n3__239231.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Apple iPad Mini 6 2021 8.3\" Wi-Fi 64Gb Starlight (MK7P3RK/A)",
+        "Brand": "Apple",
+        "Price": "10399",
+        "Image": "TABLETS/16_3eur-gc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE+ Wi-Fi 8/128GB Silver (SM-X610NZSAEUE)",
+        "Brand": "Samsung",
+        "Price": "11549",
+        "Image": "TABLETS/darwin-tableta-samsung-tab-s9-fe-109-lte-silver-330005.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Планшет Samsung Galaxy Tab S9 FE+ Wi-Fi 8/128GB Grey (SM-X610NZAAEUE)",
+        "Brand": "Samsung",
+        "Price": "11549",
+        "Image": "TABLETS/5fe635c2-8b9f-435b-a7bd-4fcdcd33b868.jpg",
+        "Description": ""
+    }
+]

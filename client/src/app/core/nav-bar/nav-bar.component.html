@@ -1,9 +1,9 @@
 <div class="nav-bar d-flex flex-column flex-md-row align-items-center justify-content-between p-3 mb-4 border-bottom fixed-top">
-    <a routerLink="/"><img src="/assets/images/logo.png" style="max-height: 70px;" alt="logo"></a>
+    <a routerLink="/"><img src="{{aspNetCoreServerURL}}images/products/png-transparent-shop-icon.png" style="max-height: 70px;" alt="logo"></a>
     <nav class="my-2 my-md-0 me-md-3 text-uppercase" style="font-size: larger;">
       <a class="p-2 link-underline-light" [routerLink]="['/']" routerLinkActive="active"
-        [routerLinkActiveOptions]="{exact: true}">Home</a>
-      <a class="p-2 link-underline-light" routerLink="/shop" routerLinkActive="active">Shop</a>
+        [routerLinkActiveOptions]="{exact: true}">Главная</a>
+      <a class="p-2 link-underline-light" routerLink="/shop" routerLinkActive="active">Магазин</a>
       <a class="p-2 link-underline-light" routerLink="/test-error" routerLinkActive="active">Errors</a>
     </nav>
     <div class="d-flex align-items-center">
@@ -11,7 +11,7 @@
             <i class="fa fa-shopping-cart fa-2x me-5 text-dark"></i>
             <div *ngIf="(basket$ | async) as basket" class="cart-no">{{basket.items.length}}</div>
         </a>
-        <a class="btn btn-outline-secondary me-2" href="#">Log in</a>
-        <a class="btn btn-outline-secondary me-3" href="#">Sign up</a>
+        <a class="btn btn-outline-secondary me-2" href="#">Войти</a>
+        <a class="btn btn-outline-secondary me-3" href="#">Регистрация</a>
     </div>
 </div>

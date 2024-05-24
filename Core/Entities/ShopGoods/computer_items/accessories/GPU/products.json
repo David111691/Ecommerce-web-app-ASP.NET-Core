@@ -1,0 +1,310 @@
+[
+    {
+        "Name": "Видеокарта Asus GT 1030 2GB GDDR5 (GT1030-SL-2G-BRK)",
+        "Price": "1399",
+        "Brand": "NVidia",
+        "Value": "2 Гб",
+        "Image": "GPU/v__kartaasusgt10302gbgddr5__gt1030__sl__2g__brk__16444.webp",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte GT 1030 2GB GDDR4 (GV-N1030D4-2GL)",
+        "Price": "1499",
+        "Brand": "NVidia",
+        "Value": "2 Гб",
+        "Image": "GPU/v__kartagigabytegt10302gbgddr4__gv__n1030d4__2gl__153149.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte GT 1030 2GB GDDR5 (GV-N1030D5-2GL)",
+        "Price": "1549",
+        "Brand": "NVidia",
+        "Value": "2 Гб",
+        "Image": "GPU/v__kartagigabytegt10302gbgddr5__31923.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte GT 1030 2GB GDDR5 (GV-N1030OC-2GI)",
+        "Price": "1549",
+        "Brand": "NVidia",
+        "Value": "2 Гб",
+        "Image": "GPU/v__kartagigabytegt10302gbgddr5__ru__26953.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта MSI GT 1030 2GB GDDR4 (GT 1030 2GHD4 LP OC)",
+        "Price": "1549",
+        "Brand": "NVidia",
+        "Value": "2 Гб",
+        "Image": "GPU/v__karta__msi__gt__1030__2gb__gddr4__gt__1030__2ghd4__lp__oc__34031.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта MSI GTX 1650 4GB GDDR6 (GTX 1650 D6 VENT XS V1)",
+        "Price": "3549",
+        "Brand": "NVidia",
+        "Value": "4 Гб",
+        "Image": "GPU/1024_vg98-e2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte GTX 1650 4GB GDDR6 (GV-N1656OC-4GD V2.0)",
+        "Price": "3599",
+        "Brand": "NVidia",
+        "Value": "4 Гб",
+        "Image": "GPU/v__karta__gigabyte__gtx__1650__4gb__gddr6__gv__n1656oc__4gd__v2__0__41844.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte GTX 1650 4GB GDDR6 (GV-N1656D6-4GD 2.0)",
+        "Price": "3649",
+        "Brand": "NVidia",
+        "Value": "4 Гб",
+        "Image": "GPU/v__kartagigabytegtx16504gbgddr6__gv__n1656d6__4gd__2__0__191215.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus GTX 1650 4GB GDDR6 (DUAL-GTX1650-O4GD6-P-V2)",
+        "Price": "3699",
+        "Brand": "NVidia",
+        "Value": "4 Гб",
+        "Image": "GPU/fwebp__1__kvf0-27.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus GTX 1650 4GB GDDR6 (DUAL-GTX1650-O4GD6-P-EVO)",
+        "Price": "3699",
+        "Brand": "NVidia",
+        "Value": "4 Гб",
+        "Image": "GPU/Asus_20GTX_201650_204GB_20GDDR6_20Dual_20EVO_20OC_20_DUAL-GTX1650-O4GD6-P-EVO__20_20_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus RX6600 8GB GDDR6 (Dual-RX6600-8G-V2)",
+        "Price": "5099",
+        "Brand": "Radeon",
+        "Value": "8 Гб",
+        "Image": "GPU/fwebp__1__70hm-4l.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 3050 8GB GDDR6 (GV-N3050WF2OC-8GD)",
+        "Price": "5399",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/1000_sj32-qd.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus RTX 3050 8GB GDDR6 (PH-RTX3050-8G)",
+        "Price": "5449",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/videokartaasusrtx__3050__8gb__gddr6__ph__rtx3050__8g__254717.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 3050 8GB GDDR6 (GV-N3050WF2OCV2-8GD)",
+        "Price": "5499",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/13csd312.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RX6600 8GB GDDR6 (GV-R66EAGLE-8GD)",
+        "Price": "5599",
+        "Brand": "Radeon",
+        "Value": "8 Гб",
+        "Image": "GPU/2000__1__ceye-py.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus RX7600 8GB GDDR6 (DUAL-RX7600-O8G-V2)",
+        "Price": "6549",
+        "Brand": "Radeon",
+        "Value": "8 Гб",
+        "Image": "GPU/339635229.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus RTX 3060 12GB GDDR6 LHR (DUAL-RTX3060-O12G-V2)",
+        "Price": "6759",
+        "Brand": "NVidia",
+        "Value": "12 Гб",
+        "Image": "GPU/videokartaasusrtx__3060__12gb__gddr6__lhr__dual__rtx3060__o12g__v2__254734.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 3060 12GB GDDR6 LHR (GV-N3060WF2OC-12GD)",
+        "Price": "6999",
+        "Value": "12 Гб",
+        "Image": "GPU/videokartagigabytertx__3060__12gb__gddr6__lhr__gv__n3060wf2oc__12gd__241510.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4060 8GB GDDR6 (GV-N4060D6-8GD)",
+        "Price": "7499",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/2000_77l8-2p.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4060 8GB GDDR6 (GV-N4060WF2OC-8GD)",
+        "Price": "7549",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/1000_d3xa-96.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4060 8GB GDDR6 (GV-N4060EAGLE OC-8GD)",
+        "Price": "7619",
+        "Value": "8 Гб",
+        "Image": "GPU/1000_35u2-ky.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта MSI RTX 4060 VENTUS 2X 8GB GDDR6 (RTX4060 VENT 2X 8G OC)",
+        "Price": "7649",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/orig_hcz7-cw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus RTX 4060 8GB GDDR6 (DUAL-RTX4060-O8G)",
+        "Price": "7719",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/354801797.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4060 8GB GDDR6 (GV-N4060GAMING OC-8GD)",
+        "Price": "7799",
+        "Value": "8 Гб",
+        "Image": "GPU/1000_b3t4-td.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4060 8GB GDDR6 (GV-N4060OC-8GL)",
+        "Price": "7799",
+        "Value": "8 Гб",
+        "Image": "GPU/371561376.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus RTX 4060 8GB GDDR6 (DUAL-RTX4060-O8G-WHITE)",
+        "Price": "7949",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/f12312webp.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта RTX 4060 GAMING X 8G GDDR6 (RTX 4060 GAMING X 8G)",
+        "Price": "7999",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/1024__1__kiky-q6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4060 Ti 8GB GDDR6 (GV-N406TEAGLE-8GD)",
+        "Price": "9659",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/1000_7pna-vk.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4060 Ti 8GB GDDR6 (GV-N406TEAGLE OC-8GD)",
+        "Price": "9759",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/1000__1__xzz4-ab.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта MSI RTX 4060 Ti VENTUS 3X 8GB GDDR6 (RTX4060TI VENT 3X 8G OC)",
+        "Price": "9849",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/1024_lxd5-k2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4060 Ti 8GB GDDR6 (GV-N406TGAMING OC-8GD)",
+        "Price": "9959",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/1000__2__c5tp-am.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 3070 8GB GDDR6 LHR (N3070EAGLE OC-8GD 2.0)",
+        "Price": "9999",
+        "Brand": "NVidia",
+        "Value": "8 Гб",
+        "Image": "GPU/videokartagigabytertx__3070__8gb__gddr6__lhr__n3070eagle__oc__8gd__2__0__245983.png",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus RX7800XT 16GB GDDR6 (DUAL-RX7800XT-O16G)",
+        "Price": "12599",
+        "Brand": "Radeon",
+        "Value": "16 Гб",
+        "Image": "GPU/fwebp_0vt4-kn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4070 12GB GDDR6X (GV-N4070WF3OC-12GD)",
+        "Price": "13949",
+        "Brand": "NVidia",
+        "Value": "12 Гб",
+        "Image": "GPU/2cc0a5df-920d-4392-be2a-6b2a1d846107.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Asus RTX 4070 12GB GDDR6X (DUAL-RTX4070-O12G)",
+        "Price": "14339",
+        "Brand": "NVidia",
+        "Value": "12 Гб",
+        "Image": "GPU/327417896.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4070 12GB GDDR6X (GV-N4070EAGLE OCV2-12GD)",
+        "Price": "14549",
+        "Brand": "NVidia",
+        "Value": "12 Гб",
+        "Image": "GPU/2000_9aff-xs.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта MSI RTX 4070 12GB GDDR6X (RTX4070 VENTUS 2X E 12G OC)",
+        "Price": "14559",
+        "Brand": "NVidia",
+        "Value": "12 Гб",
+        "Image": "GPU/347561869.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4070 12GB GDDR6 (GV-N4070GAMING OC-12GD)",
+        "Price": "15339",
+        "Brand": "NVidia",
+        "Value": "12 Гб",
+        "Image": "GPU/1000_iml4-82.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Видеокарта Gigabyte RTX 4070Ti 12GB GDDR6X (GV-N407TWF3OC-12GD)",
+        "Price": "19999",
+        "Brand": "NVidia",
+        "Value": "12 Гб",
+        "Image": "GPU/img_id354002811688952194.webp",
+        "Description": ""
+    }
+]

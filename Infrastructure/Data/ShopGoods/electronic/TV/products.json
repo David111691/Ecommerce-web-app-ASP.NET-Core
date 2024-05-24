@@ -1,0 +1,575 @@
+[
+    {
+        "Name": "телевизор UD 24DW4210",
+        "Display": "24",
+        "Resolution": "1366x768",
+        "Price": "1599",
+        "Image": "TVs/Screenshot_68_7zgl-p7.webp",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор UD 32DW5210",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "1779",
+        "Image": "TVs/Screenshot_68_a5vl-kv.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор UD 24W5210",
+        "Display": "24",
+        "Resolution": "1366x768",
+        "Price": "2099",
+        "Image": "TVs/Screenshot_65_z8al-qr.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор UD 32W5210",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "2299",
+        "Image": "TVs/1_e0mw-5l.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 32A4HA",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "2699",
+        "Image": "TVs/Screenshot_9_514w-5v.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 24HBG5000",
+        "Display": "24",
+        "Resolution": "1366x768",
+        "Price": "2699",
+        "Image": "TVs/Screenshot_50_49pe-36.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 32HBG5000",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "2799",
+        "Image": "TVs/1_ptb8-2k.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 32WGC5000",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "2799",
+        "Image": "TVs/3_incd-rc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 32A4K",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "3099",
+        "Image": "TVs/1_9w77-xn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Аккумулятор Samsung для Freestyle VG-FBB3BA/XC",
+        "Price": "3199",
+        "Image": "TVs/307860005.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE32N4000AUXUA",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "3239",
+        "Image": "TVs/televizorsamsungue32n4000auxua__10792.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 32FBG5000",
+        "Display": "32",
+        "Resolution": "1920x1080",
+        "Price": "3299",
+        "Image": "TVs/Screenshot_4_ioxl-0z.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE32T4500AUXUA",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "3359",
+        "Image": "TVs/televizorsamsungue32t4500auxua__32367.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE32T4510AUXUA",
+        "Display": "32",
+        "Resolution": "1366x768",
+        "Price": "3359",
+        "Image": "TVs/televizorsamsungue32t4510auxua__10698.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор UD 40F5210",
+        "Display": "40",
+        "Resolution": "1920x1080",
+        "Price": "3399",
+        "Image": "TVs/1_pbdp-ap.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE24N4500AUXUA",
+        "Display": "24",
+        "Resolution": "1366x768",
+        "Price": "3489",
+        "Image": "TVs/televizorsamsungue24n4500auxua__24154.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 32FBG5010",
+        "Display": "32",
+        "Resolution": "1920x1080",
+        "Price": "3599",
+        "Image": "TVs/Screenshot_38_x94s-rr.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 40A4K",
+        "Display": "40",
+        "Resolution": "1920x1080",
+        "Price": "3999",
+        "Image": "TVs/1_0spj-vh.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор UD 43U6210",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "4199",
+        "Image": "TVs/1_2tu4-e0.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 42FBG5000",
+        "Display": "43",
+        "Resolution": "1920x1080",
+        "Price": "4199",
+        "Image": "TVs/Screenshot_4_1zft-32.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 43WGC5000",
+        "Display": "43",
+        "Resolution": "1920x1080",
+        "Price": "4399",
+        "Image": "TVs/6_1hpp-vb.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 43UGC6000",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "4499",
+        "Image": "TVs/3_tf3s-ln.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 32A5KQ",
+        "Display": "32",
+        "Resolution": "1920x1080",
+        "Price": "4499",
+        "Image": "TVs/1_x4jf-sc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE32N5000AUXUA",
+        "Display": "32",
+        "Resolution": "1920x1080",
+        "Price": "4599",
+        "Image": "TVs/televizorsamsungue32n5000auxua__13738.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE32T5300AUXUA",
+        "Display": "32",
+        "Resolution": "1920x1080",
+        "Price": "4999",
+        "Image": "TVs/televizorsamsungue32t5300auxua__27188.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор UD 50U6210",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "4999",
+        "Image": "TVs/Screenshot_37_gp1d-9l.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 40A5KQ",
+        "Display": "40",
+        "Resolution": "1920x1080",
+        "Price": "5199",
+        "Image": "TVs/1_5159-lo.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 43A6K",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "5219",
+        "Image": "TVs/1_c3k7-yi.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 43UBG6000",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "5299",
+        "Image": "TVs/Screenshot_45_7vfj-89.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор UD 55U6210",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "5699",
+        "Image": "TVs/Screenshot_37_vxcb-t3.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 50UBC6000",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "5799",
+        "Image": "TVs/Screenshot_25_nc6f-ja.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE43T5300AUXUA",
+        "Display": "43",
+        "Resolution": "1920x1080",
+        "Price": "5899",
+        "Image": "TVs/televizorsamsungue43t5300auxua__30861.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 43UBG6010",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "5999",
+        "Image": "TVs/1_kfr4-pl.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 50UGC6000",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "6119",
+        "Image": "TVs/6_3ro8-du.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE43CU7100UXUA",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "6299",
+        "Image": "TVs/Screenshot_72_0tbb-x4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 50A6K",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "6299",
+        "Image": "TVs/1_codb-yu.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 43E7KQ",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "6299",
+        "Image": "TVs/1_1coy-7w.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 55UGC6000",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "6569",
+        "Image": "TVs/5_tg9q-s8.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 50UBG6000",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "6699",
+        "Image": "TVs/Screenshot_10_k1h8-fd.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 55UBG6000",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "6999",
+        "Image": "TVs/Screenshot_45_1eyg-bz.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 55A6K",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "7019",
+        "Image": "TVs/1_k7es-ix.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Яндекс с Алисой 50 YNDX-00072",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "7189",
+        "Image": "TVs/img_id2058285138964195811.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 50QBG7000",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "7299",
+        "Image": "TVs/1_5yk6-gn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE50CU7100UXUA",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "7499",
+        "Image": "TVs/Screenshot_72_g826-jf.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 50E7KQ",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "7499",
+        "Image": "TVs/1_wv21-b1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 43UR78006LK",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "7899",
+        "Image": "TVs/Screenshot_154_71ae-zp.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор UD 65U6210",
+        "Display": "65",
+        "Resolution": "3840x2160",
+        "Price": "7999",
+        "Image": "TVs/1_5ih1-ir.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 55QBG7000",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "7999",
+        "Image": "TVs/1_taf0-am.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE43BU8500UXUA",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "8054",
+        "Image": "TVs/Screenshot_216_7l4b-vw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Яндекс с Алисой 55 YNDX-00073",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "8189",
+        "Image": "TVs/img_id4560769465887146297.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 50A7KQ",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "8299",
+        "Image": "TVs/1_y0x6-38.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE55CU7100UXUA",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "8499",
+        "Image": "TVs/Screenshot_72_f3d2-su.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 43NANO766QA",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "8819",
+        "Image": "TVs/Screenshot_10_icgm-vb.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 43UR81006LJ",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "8999",
+        "Image": "TVs/Screenshot_167_psu7-n4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 50UR78006LK",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "8999",
+        "Image": "TVs/Screenshot_154_71ae-zp.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE43CU8000UXUA",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "8999",
+        "Image": "TVs/Screenshot_30_e6zm-sf.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 58A6K",
+        "Display": "58",
+        "Resolution": "3840x2160",
+        "Price": "8999",
+        "Image": "TVs/Screenshot_229_f208-j4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 65UGC6000",
+        "Display": "65",
+        "Resolution": "3840x2160",
+        "Price": "9179",
+        "Image": "TVs/2_hw43-hk.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 65UBG6000S",
+        "Display": "65",
+        "Resolution": "3840x2160",
+        "Price": "9349",
+        "Image": "TVs/1_ebev-v5.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 55UQ75006LF",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "9359",
+        "Image": "TVs/1_vcbp-8h.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Blaupunkt 65UBC6000",
+        "Display": "65",
+        "Resolution": "3840x2160",
+        "Price": "9449",
+        "Image": "TVs/Screenshot_71_uzdy-ey.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 65A6BG",
+        "Display": "65",
+        "Resolution": "3840x2160",
+        "Price": "9539",
+        "Image": "TVs/Screenshot_66_yywl-7b.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 55E7KQ",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "9799",
+        "Image": "TVs/1_b63f-az.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Hisense 55A7KQ",
+        "Display": "55",
+        "Price": "9899",
+        "Image": "TVs/1_s37o-so.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE50BU8000UXUA",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "9999",
+        "Image": "TVs/Screenshot_1_pelx-6h.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung QE43Q60CAUXUA",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "9999",
+        "Image": "TVs/Screenshot_15_vuwi-qp.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE43CU8510UXUA",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "9999",
+        "Image": "TVs/Screenshot_8_pv1w-kw_2llf-vv.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор Samsung UE43CU8500UXUA",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "9999",
+        "Image": "TVs/Screenshot_93_ubvg-rx.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 55UR78006LK",
+        "Display": "55",
+        "Resolution": "3840x2160",
+        "Price": "10799",
+        "Image": "TVs/Screenshot_154_71ae-zp_n54e-o2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 50UR81006LJ",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "10799",
+        "Image": "TVs/Screenshot_167_psu7-n4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 43UR91006LA",
+        "Display": "43",
+        "Resolution": "3840x2160",
+        "Price": "10899",
+        "Image": "TVs/Screenshot_31_kegn-c2_20gs-ft_vrww-t6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "телевизор LG 50NANO766QA",
+        "Display": "50",
+        "Resolution": "3840x2160",
+        "Price": "10999",
+        "Image": "TVs/Screenshot_41_1lt1-5u.jpg",
+        "Description": ""
+    }
+]

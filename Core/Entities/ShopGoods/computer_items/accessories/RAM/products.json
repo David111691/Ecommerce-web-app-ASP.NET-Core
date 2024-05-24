@@ -1,0 +1,578 @@
+[
+    {
+        "Name": "DRAM Goodram DDR3 2GB 1600MHz (GR1600D364L11/2G)",
+        "Price": "299",
+        "Brand": "GOODRAM",
+        "Value": "2 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr3__2gb__1600mhz__25983.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Patriot DDR4 4GB 2666MHz (PSD44G266681)",
+        "Price": "299",
+        "Brand": "PATRIOT",
+        "Value": "4 GB",
+        "Image": "RAM/dram__patriot__ddr4__4gb__2666mhz__psd44g266681__153445.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 4GB 2666MHz (GR2666D464L19S/4G)",
+        "Price": "319",
+        "Brand": "GOODRAM",
+        "Value": "4 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr4__4gb__2666mhz__gr2666d464l19s__4g__34181.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 4GB 2666MHz (GR2666S464L19S/4G)",
+        "Price": "339",
+        "Brand": "GOODRAM",
+        "Value": "4 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr4__4gb__2666mhz__29649.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR3 4GB 1600MHz (GR1600D364L11S/4G)",
+        "Price": "369",
+        "Brand": "GOODRAM",
+        "Value": "4 GB",
+        "Image": "RAM/dram__dimm__ddr3__goodram__4gb__1600mhz__gr1600d364l11s__4g__34676.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR3 4GB 1600MHz (F3-1600C11S-4GNT)",
+        "Price": "369",
+        "Brand": "G.SKILL",
+        "Value": "4 GB",
+        "Image": "RAM/153258375310.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR3 4GB 1600MHz (GR1600S364L11S/4G)",
+        "Price": "399",
+        "Brand": "GOODRAM",
+        "Value": "4 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr3__4gb__1600mhz__26512.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR3 4GB 1600MHz (GR1600S3V64L11S/4G)",
+        "Price": "399",
+        "Brand": "GOODRAM",
+        "Value": "4 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr3__4gb__1600mhz__gr1600s3v64l11s__4g__21689.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 4GB 3200MHz (KVR32N22S6/4)",
+        "Price": "399",
+        "Brand": "KINGSTON",
+        "Value": "4 GB",
+        "Image": "RAM/dram__dimm__ddr4__kingston__4gb__3200mhz__kvr32n22s6__4__29154.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR3 4GB 1600MHz (F3-1600C11S-4GSL)",
+        "Price": "399",
+        "Brand": "G.SKILL",
+        "Value": "4 GB",
+        "Image": "RAM/153725894610_xym4-8y.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR3 4GB 1600MHz (F3-1600C9S-4GRSL)",
+        "Price": "399",
+        "Brand": "G.SKILL",
+        "Value": "4 GB",
+        "Image": "RAM/153725894610.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 2666MHz (GR2666S464L19S/8G)",
+        "Price": "419",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr4__8gb__2666mhz__ru__11621.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 8GB 2666MHz (KVR26S19S6/8)",
+        "Price": "429",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__kingston__ddr4__8gb__2666mhz__ru__2__16558.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 3200MHz (GR3200S464L22S/8G)",
+        "Price": "449",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/dram__goodram__ddr4__8gb__3200mhz__gr3200s464l22s__8g__164379.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 8GB 3200MHz (KVR32S22S6/8)",
+        "Price": "469",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/81xsJin165L._SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 3200MHz (GR3200D464L22S/8G)",
+        "Price": "499",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr4__8gb__3200mhz__gr3200d464l22s__8g__123679.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR4 8GB 3200MHz (F4-3200C16S-8GIS)",
+        "Price": "519",
+        "Brand": "G.SKILL",
+        "Value": "8 GB",
+        "Image": "RAM/dram__g__skill__ddr4__8gb__3200mhz__f4__3200c16s__8gis__186647.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Crucial DDR4 8GB 3200MHz (CT8G4DFRA32A)",
+        "Price": "529",
+        "Brand": "CRUCIAL",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__crucial__ddr4__8gb__3200mhz__ru__43833.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 3200MHz (IR-XR3200D464L16SA/8G)",
+        "Price": "529",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr4__8gb__3200mhz__ir__xr3200d464l16sa__8g__123682.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 3200MHz (IR-XB3200D464L16SA/8G)",
+        "Price": "529",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr4__8gb__3200mhz__ir__xb3200d464l16sa__8g__123685.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 3200MHz (IR-XW3200D464L16SA/8G)",
+        "Price": "529",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr4__8gb__3200mhz__ir__xw3200d464l16sa__8g__123688.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 8GB 3200MHz (KVR32N22S6/8)",
+        "Price": "529",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/dram__kingston__ddr4__8gb__3200mhz__kvr32n22s6__8__241314.jpeg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 3200MHz (IR-X3200D464L16SA/8G)",
+        "Price": "529",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/Goodram-IRDM-X-_IR-X3200D464L16SA_8G_.1600xw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 8GB 3200MHz (KF432C16BB/8)",
+        "Price": "539",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/dram__kingston__ddr4__8gb__3200mhz__kf432c16bb__8__241268.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR3 8GB 1600MHz (GR1600D364L11/8G)",
+        "Price": "599",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/dram__dimm__ddr3__goodram__8gb__1600mhz__gr1600d364l11__8g__34674.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR3 8GB 1600MHz (GR1600D3V64L11/8G)",
+        "Price": "599",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr3__8gb__1600mhz__ru__34675.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR3 8GB 1600MHz (F3-1600C11S-8GNT)",
+        "Price": "599",
+        "Brand": "G.SKILL",
+        "Value": "8 GB",
+        "Image": "RAM/153258382510.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 8GB 3200MHz (KF432C16BB2A/8)",
+        "Price": "599",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/61PGj6v9nsL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 3600MHz (IRP-K3600D4V64L18S/8G)",
+        "Price": "654",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/dram__goodram__ddr4__8gb__3200mhz__irp__k3600d4v64l18s__8g__186664.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR3 8GB 1600MHz (GR1600S364L11/8G)",
+        "Price": "669",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modul__pamyati__goodram__ddr3__8gb__1600mhz__34153.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 8GB 3600MHz (KF436C17BWA/8)",
+        "Price": "703",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/ktc-product-memory-beast-ddr4-rgb-se-single-1-zm-lg.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 4000MHz (IRP-W4000D4V64L18S/8G)",
+        "Price": "799",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modulpamyatigoodramddr48gb4000mhz__irp__w4000d4v64l18s__8g__147247.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3200MHz (GR3200S464L22/16G)",
+        "Price": "799",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/dram__goodram__ddr4__16gb__3200mhz__gr3200s464l22__16g__211939.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3200MHz (GR3200S464L22S/16G)",
+        "Price": "799",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/52bcf0d3af30fe7ab3a9f2db9c86dbcdaee7bfb5cb8d7e32cf701a78d792c86d.jpg.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 8GB 4000MHz (IRP-4000D4V64L18S/8G)",
+        "Price": "799",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/dram-irdm-pro-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Samsung DDR5 8GB 4800MHz (M425R1GB4BB0-CQK0L)",
+        "Price": "799",
+        "Brand": "Samsung",
+        "Value": "8 GB",
+        "Image": "RAM/s-l1600.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR3 8GB 1600MHz (GR1600S3V64L11/8G)",
+        "Price": "820",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/dram__goodram__ddr3__8gb__1600mhz__gr1600s3v64l11__8g__186639.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR4 16GB 3200MHz (F4-3200C16S-16GIS)",
+        "Price": "829",
+        "Brand": "G.SKILL",
+        "Value": "16 GB",
+        "Image": "RAM/dram__g__skill__ddr4__16gb__3200mhz__f4__3200c16s__16gis__211988.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR4 16GB 3200MHz (F4-3200C16S-16GVK)",
+        "Price": "829",
+        "Brand": "G.SKILL",
+        "Value": "16 GB",
+        "Image": "RAM/dram__g__skill__ddr4__16gb__3200mhz__f4__3200c16s__16gvk__212001.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3200MHz (GR3200D464L22/16G)",
+        "Price": "849",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/ddr4-dimm-3.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3200MHz (GR3200D464L22S/16G)",
+        "Price": "849",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/cdb5b10889bd2961ef9cbf963a77f62cc5ba7c41b10aef10f4875b75b63bb924.jpg.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR4 16GB (2*8GB) 3600MHz (F4-3600C19D-16GVRB)",
+        "Price": "879",
+        "Brand": "G.SKILL",
+        "Value": "8 GB",
+        "Image": "RAM/dram__g__skill__ddr4__16gb__3600mhz__f4__3600c19d__16gvrb__201273.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR4 16GB (2*8GB) 3600MHz (F4-3600C18D-16GVK)",
+        "Price": "879",
+        "Brand": "G.SKILL",
+        "Value": "8 GB",
+        "Image": "RAM/156283251510.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3200MHz (IR-X3200D464L16A/16G)",
+        "Price": "949",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/modulpamyatigoodramddr416gb3200mhz__ir__x3200d464l16a__16g__147259.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3200MHz (IR-XR3200D464L16A/16G)",
+        "Price": "949",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/modulpamyatigoodramddr416gb3200mhz__ir__xr3200d464l16a__16g__147256.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB 2666MHz (KF426S15IB1/16)",
+        "Price": "949",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/2a403162-7484-441d-b478-00a863e4ec75.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB 2666MHz (KVR26S19D8/16)",
+        "Price": "949",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/81xsJin165L._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB 3200MHz (KF432C16BB1/16)",
+        "Price": "989",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/dram__kingston__ddr4__16gb__3200mhz__kf432c16bb1__16__238492.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB 3200MHz (KF432C16BB/16)",
+        "Price": "989",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/dram__kingston__ddr4__16gb__3200mhz__kf432c16bb__16__245972.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3600MHz (IRP-3600D4V64L17/16G)",
+        "Price": "1089",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/modulpamyatigoodramddr416gb3600mhz__irp__3600d4v64l17__16g__147490.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3600MHz (IRP-K3600D4V64L18/16G)",
+        "Price": "1089",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/modulpamyatigoodramddr416gb3600mhz__irp__k3600d4v64l18__16g__147493.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3600MHz (IRP-C3600D4V64L18/16G)",
+        "Price": "1089",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/dram-1920-irdm-crimson-white-1-1920x960-1-1920x960.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB 3600MHz (IRP-W3600D4V64L17/16G)",
+        "Price": "1099",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/dram__goodram__ddr4__16gb__3600mhz__irp__w3600d4v64l17s__16g__186675.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB 3200MHz (KF432C16BWA/16)",
+        "Price": "1099",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/Kingston_20FURY_20Beast_20RGB_20Special_20Edition,_20DDR4,_20DIMM,_2016_20GB,_203200_20MHz_20_KF432C16BWA16__20_20_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB 3200MHz (KF432C16BB2A/16)",
+        "Price": "1099",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/1570.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB (2x8GB) 3600MHz (IRP-K3600D4V64L18S/16GDC)",
+        "Price": "1169",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modulpamyatigoodramddr416gb__2x8gb__3600mhz__irp__k3600d4v64l18s__16gdc__147263.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR4 16GB (2*8GB) 3200MHz (F4-3200C16D-16GIS)",
+        "Price": "1169",
+        "Brand": "G.SKILL",
+        "Value": "16 GB",
+        "Image": "RAM/dram__g__skill__ddr4__16gb__3200mhz__f4__3200c16d__16gis__201272.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM G.SKILL DDR4 16GB (2*8GB) 3200MHz (F4-3200C16D-16GVGB)",
+        "Price": "1169",
+        "Brand": "G.SKILL",
+        "Value": "8 GB",
+        "Image": "RAM/dram__g__skill__ddr4__16gb__28gb__3200mhz__f4__3200c16d__16gvgb__245635.png",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 16GB (2x8GB) 3200MHz (IR-X3200D464L16SA/16GDC)",
+        "Price": "1199",
+        "Brand": "GOODRAM",
+        "Value": "8 GB",
+        "Image": "RAM/modulpamyatigoodramddr416gb__2x8gb__3200mhz__ir__x3200d464l16sa__16gdc__147488.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR5 16GB 4800MHz (GR4800D564L40S/16G)",
+        "Price": "1199",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/ddr5-dimm-1-1920x960.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB (2*8GB) 3600MHz (KF436C17BBK2/16)",
+        "Price": "1289",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/dram__kingston__ddr4__16gb__28gb__3600mhz__kf436c17bbk2__16__245632.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB (2*8GB) 3600MHz (KF436C17BBAK2/16)",
+        "Price": "1289",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/ktc-beast-ddr4-rgb-dimm-2_front_hr.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB 3600MHz (KF436C18BWA/16)",
+        "Price": "1359",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/dram__kingston__ddr4__16gb__3600mhz__kf436c18bwa__16__245629.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 16GB 3600MHz (KF436C18BB2A/16)",
+        "Price": "1359",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/ktc-product-memory-beast-ddr4-single-1-zm-lg.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR5 16GB 5200MHz (KF552C40BB-16)",
+        "Price": "1499",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/61nNPcOF-BL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR5 16GB (2*8GB) 5200MHz (KF552C40BBK2-16)",
+        "Price": "1549",
+        "Brand": "KINGSTON",
+        "Value": "8 GB",
+        "Image": "RAM/kingston-fury-beast-ddr5-dimm-kitof2-kms-c-550x550.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR5 16GB 5600MHz (KF556C40BB-16)",
+        "Price": "1599",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/16_20GB_20DDR5_205600_20MHz_20Kingston_20FURY_20Beast_20DDR5_20_KF556C40BB-16__20_1_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR5 16GB 6000MHz (KF560C40BB-16)",
+        "Price": "1699",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/61nNPcOF-BL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Goodram DDR4 32GB (2x16GB) 3600MHz (IRP-K3600D4V64L18/32GDC)",
+        "Price": "1899",
+        "Brand": "GOODRAM",
+        "Value": "16 GB",
+        "Image": "RAM/dram__goodram__ddr4__32gb__2x16gb__3600mhz__irp__k3600d4v64l18__32gdc__186683.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 32GB (2*16GB) 3200MHz (KF432C16BBK2/32)",
+        "Price": "1899",
+        "Brand": "KINGSTON",
+        "Value": "16 GB",
+        "Image": "RAM/dram__kingston__ddr4__32gb__216gb__3200mhz__kf432c16bbk2__32__245976.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 32GB 3600MHz (KF436C18RB/32)",
+        "Price": "2299",
+        "Brand": "KINGSTON",
+        "Value": "32 GB",
+        "Image": "RAM/2_720440-2074x656.jpeg",
+        "Description": ""
+    },
+    {
+        "Name": "DRAM Kingston DDR4 32GB 3600MHz (KF436C18BB2A/32)",
+        "Price": "2299",
+        "Brand": "KINGSTON",
+        "Value": "32 GB",
+        "Image": "RAM/61PGj6v9nsL._AC_SL1500__ung2-oo.jpg",
+        "Description": ""
+    }
+]

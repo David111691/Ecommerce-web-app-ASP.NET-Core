@@ -1,0 +1,167 @@
+[
+    {
+        "Name": "HDD 2.5\" Toshiba 500GB 5400rmp 8mb (MQ01ABF050)",
+        "Price": "699",
+        "Brand": "TOSHIBA",
+        "Value": "500 GB",
+        "Image": "HDD/hdd__2__5__toshiba__500gb__5400rmp__8mb__mq01abf050__9944.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 2.5\" Western Digital 500GB 5400rpm 16mb (WD5000LPCX) Blue",
+        "Price": "959",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "500 GB",
+        "Image": "HDD/hdd2__5westerndigital500gb5400rpm16mb__wd5000lpcx__blue__33527.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Toshiba 1TB 7200rpm 64mb (HDWD110UZSVA)",
+        "Price": "959",
+        "Brand": "TOSHIBA",
+        "Value": "1 TB (1000 GB)",
+        "Image": "HDD/hdd3__5toshiba1tb7200rpm64mb__hdwd110uzsva__35079.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 2.5\" Seagate 1TB 5400rmp 128mb (ST1000LM035)",
+        "Price": "999",
+        "Image": "HDD/hdd2__5seagate1tb5400rmp128mb__st1000lm035__25538.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Seagate 1TB 5400rpm 256mb (ST1000VX013)",
+        "Price": "999",
+        "Brand": "SEAGATE",
+        "Value": "1 TB (1000 GB)",
+        "Image": "HDD/7161lsznReL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Seagate 1TB 7200rpm 256mb (ST1000DM014)",
+        "Price": "999",
+        "Brand": "SEAGATE",
+        "Value": "1 TB (1000 GB)",
+        "Image": "HDD/61SUr1VsotL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 2.5\" Western Digital 1TB 5400rpm 128mb (WD10SPZX) Blue",
+        "Price": "1199",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "1 TB (1000 GB)",
+        "Image": "HDD/hdd2__5westerndigital1tb5400rpm128mb__wd10spzx__blue__34188.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Seagate 2TB 7200rpm 256mb (ST2000DM008)",
+        "Price": "1249",
+        "Brand": "SEAGATE",
+        "Value": "2 TB (2000 GB)",
+        "Image": "HDD/hdd3__5seagate2tb7200rpm256mb__st2000dm008__35709.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Western Digital 2TB 5400rpm 64mb (WD20EARZ) Blue",
+        "Price": "1299",
+        "Value": "2 TB (2000 GB)",
+        "Image": "HDD/81yWIjiHIDL.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Toshiba 2TB 7200rpm 256mb (HDWD320UZSVA)",
+        "Price": "1299",
+        "Brand": "TOSHIBA",
+        "Value": "2 TB (2000 GB)",
+        "Image": "HDD/1627441.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Western Digital 2TB 5400rpm 256mb (WD23PURZ) Purple",
+        "Price": "1519",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "2 TB (2000 GB)",
+        "Image": "HDD/719V5my5JRL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 2.5\" Seagate 2TB 5400rpm 128Mb (ST2000LM015) BarraCuda",
+        "Price": "1699",
+        "Brand": "SEAGATE",
+        "Value": "2 TB (2000 GB)",
+        "Image": "HDD/10817971.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Seagate 3TB 5400rpm 256mb (ST3000DM007)",
+        "Price": "1899",
+        "Brand": "SEAGATE",
+        "Value": "3 TB (3000 GB)",
+        "Image": "HDD/hdd3__5seagate3tb5400rpm256mb__st3000dm007__42223.png",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Western Digital 3TB 5400rpm 256mb (WD30EZAX) Blue",
+        "Price": "1959",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "3 TB (3000 GB)",
+        "Image": "HDD/81zLrY4u1YL._AC_SL1500_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Western Digital 3TB 5400rpm 256mb (WD33PURZ) Purple",
+        "Price": "2079",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "3 TB (3000 GB)",
+        "Image": "HDD/90917514287626BAF9B64955A6C8DC36.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Seagate 3TB 5400rpm 256mb (ST3000VX015)",
+        "Price": "2099",
+        "Brand": "SEAGATE",
+        "Value": "3 TB (3000 GB)",
+        "Image": "HDD/Seagate_20SkyHawk_20Surveillance_20_ST3000VX015_,_20HDD_203.5,_203_20TB_20_1_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Seagate 4TB 5400rpm 256mb (ST4000VX016)",
+        "Price": "2149",
+        "Brand": "SEAGATE",
+        "Value": "4 TB (4000 GB)",
+        "Image": "HDD/hdd__3__5__seagate__4tb__5400rpm__256mb__st4000vx016__241073.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Western Digital 4TB 5400rpm 256mb (WD43PURZ) Purple",
+        "Price": "2329",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "4 TB (4000 GB)",
+        "Image": "HDD/wd-purple-surveillance-hard-drive-4tb.png.wdthumb.1280.1280_82nk-8i.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Western Digital 6TB 5400rpm 256mb (WD64PURZ) Purple",
+        "Price": "3129",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "6 TB (6000 GB)",
+        "Image": "HDD/wd-purple-surveillance-hard-drive-6tb.png.wdthumb.1280.1280_fg7v-ou.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Western Digital 8TB 5400rpm 128mb (WD84PURZ) Purple",
+        "Price": "4259",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "8 TB (8000 GB)",
+        "Image": "HDD/61nB4N0IgVL._AC_SL1280_.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "HDD 3.5\" Western Digital 8TB 7200rpm 256mb (WD8001PURP) Purple",
+        "Price": "4699",
+        "Brand": "WESTERN DIGITAL",
+        "Value": "8 TB (8000 GB)",
+        "Image": "HDD/61hsdHey2aL.jpg",
+        "Description": ""
+    }
+]

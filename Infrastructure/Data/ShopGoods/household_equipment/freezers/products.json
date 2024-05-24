@@ -1,0 +1,556 @@
+[
+    {
+        "Name": "холодильник-сумка Teesa TSA5004",
+        "Noise": "35дБ",
+        "Price": "799",
+        "Image": "freezers/1_rkg8-h7.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник-сумка Teesa TSA5001.1",
+        "Noise": "60дБ",
+        "Price": "1104",
+        "Image": "freezers/4_npt4-8u.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Zilan ZLN4759",
+        "Noise": "50дБ",
+        "Price": "1499",
+        "Image": "freezers/1_0iee-1s.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Hisense RR58D4AWF",
+        "Noise": "39дБ",
+        "Price": "1699",
+        "Image": "freezers/holodilnikhisenserr58d4awf__212326.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HMB-41NHBKF+ Уценка",
+        "Noise": "39дБ",
+        "Volume": "41л",
+        "Price": "1869",
+        "Image": "freezers/holodilnikheinnerhmb41nhbkfucenka__211775.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HMB-N45F+",
+        "Noise": "39дБ",
+        "Price": "1899",
+        "Image": "freezers/Screenshot_116_w79r-2d.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HMB-41NHBKF+",
+        "Noise": "39дБ",
+        "Price": "1979",
+        "Image": "freezers/holodilnikheinnerhmb41nhbkf__211764.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HMB-41NHSF+",
+        "Noise": "39дБ",
+        "Price": "2159",
+        "Image": "freezers/holodilnikheinnerhmb41nhsf__211762.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Zilan ZLN4681 для вина",
+        "Price": "2239",
+        "Image": "freezers/holodilnikzilanzln4681dlyavina__214562.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник CAMRY CR 8062",
+        "Price": "2464",
+        "Image": "freezers/holodilnikcamrycr8062__211752.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Винный холодильник Zilan ZLN4682",
+        "Volume": "33л",
+        "Price": "2519",
+        "Image": "freezers/Screenshot_74_odx5-xn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник ZANUSSI ZXAN3EW0",
+        "Noise": "40дБ",
+        "Price": "3299",
+        "Image": "freezers/1_vg3y-op.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-205SWDF+ уценка",
+        "Noise": "40дБ",
+        "Volume": "205л",
+        "Price": "3654",
+        "Image": "freezers/3_x7t5-jb.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V122F+",
+        "Noise": "40дБ",
+        "Price": "3699",
+        "Image": "freezers/1_grw6-th.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Hisense RT267D4ADF",
+        "Noise": "40дБ",
+        "Volume": "206л",
+        "Price": "3799",
+        "Image": "freezers/holodilnikhisensert267d4adf__146743.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Hisense RT267D4AWE",
+        "Noise": "40дБ",
+        "Volume": "206л",
+        "Price": "3799",
+        "Image": "freezers/Screenshot_90_2gsg-ok.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-205SWDF+",
+        "Noise": "40дБ",
+        "Volume": "205л",
+        "Price": "3869",
+        "Image": "freezers/holodilnikheinnerhf205swdf__199569.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-205WDF+",
+        "Noise": "40дБ",
+        "Volume": "206л",
+        "Price": "3869",
+        "Image": "freezers/Screenshot_5_p8dq-u9.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V213F+",
+        "Noise": "41дБ",
+        "Volume": "213л",
+        "Price": "3899",
+        "Image": "freezers/holodilnikheinnerhfv213f__195327.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-H2206XE++",
+        "Noise": "40дБ",
+        "Volume": "206л",
+        "Price": "3899",
+        "Image": "freezers/Screenshot_3_cfxt-vm.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-H2206SF+",
+        "Noise": "40дБ",
+        "Volume": "206л",
+        "Price": "3999",
+        "Image": "freezers/1_qbtl-vw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V250SF+",
+        "Noise": "41дБ",
+        "Price": "4079",
+        "Image": "freezers/1_w9zz-4q.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Candy CWCEL 210/N для вина",
+        "Noise": "39дБ",
+        "Volume": "73л",
+        "Price": "4199",
+        "Image": "freezers/Screenshot_14_md15-uq.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-N250F+",
+        "Noise": "41дБ",
+        "Price": "4229",
+        "Image": "freezers/holodilnikheinnerhfn250f__164987.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V240SE++",
+        "Noise": "40дБ",
+        "Volume": "242л",
+        "Price": "4229",
+        "Image": "freezers/1_4cfz-cn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V250F+ Уценка1",
+        "Noise": "42дБ",
+        "Price": "4229",
+        "Image": "freezers/2_co6d-1u.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-N250SF+",
+        "Noise": "40дБ",
+        "Volume": "242л",
+        "Price": "4319",
+        "Image": "freezers/Screenshot_1_a2og-cb.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Hisense RB224D4BBF",
+        "Noise": "39дБ",
+        "Price": "4499",
+        "Image": "freezers/holodilnikhisenserb224d4bbf__162358.PNG",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V240F+",
+        "Noise": "40дБ",
+        "Volume": "240л",
+        "Price": "4499",
+        "Image": "freezers/holodilnikheinnerhfv240f__195417.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V242E++",
+        "Noise": "40дБ",
+        "Volume": "243л",
+        "Price": "4499",
+        "Image": "freezers/1_dseq-8q.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V240SF+",
+        "Noise": "40дБ",
+        "Volume": "240л",
+        "Price": "4599",
+        "Image": "freezers/1_ifel-i5.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V250F+",
+        "Noise": "42дБ",
+        "Price": "4699",
+        "Image": "freezers/holodilnikheinnerhfv250f__164980.png",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V268BKF+ уценка 1",
+        "Noise": "40дБ",
+        "Volume": "268л",
+        "Price": "4769",
+        "Image": "freezers/1_04tk-oo.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V286BKF+",
+        "Noise": "40дБ",
+        "Volume": "288л",
+        "Price": "4844",
+        "Image": "freezers/holodilnikheinnerhcv286bkf__206744.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Hisense RB291D4CWF",
+        "Noise": "39дБ",
+        "Volume": "230л",
+        "Price": "4949",
+        "Image": "freezers/holodilnikhisenserb291d4cwf__146930.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Hisense RB291D4CDF",
+        "Noise": "39дБ",
+        "Volume": "225л",
+        "Price": "4949",
+        "Image": "freezers/holodilnikhisenserb291d4cdf__151926.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-HM260XWDF+",
+        "Noise": "40дБ",
+        "Volume": "260л",
+        "Price": "5129",
+        "Image": "freezers/Screenshot_27_kx59-nc.webp",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-N269F+",
+        "Noise": "39дБ",
+        "Volume": "269л",
+        "Price": "5199",
+        "Image": "freezers/holodilnikheinnerhcn269f__195976.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V268F+",
+        "Noise": "39дБ",
+        "Volume": "268л",
+        "Price": "5199",
+        "Image": "freezers/holodilnikheinnerhcv268f__206740.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V270WDF+",
+        "Noise": "40дБ",
+        "Volume": "270л",
+        "Price": "5299",
+        "Image": "freezers/holodilnikheinnerhcv270wdf__196023.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V268BKF+",
+        "Noise": "40дБ",
+        "Volume": "268л",
+        "Price": "5299",
+        "Image": "freezers/holodilnikheinnerhcv268bkf__204218.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V268E++",
+        "Noise": "40дБ",
+        "Volume": "268л",
+        "Price": "5299",
+        "Image": "freezers/holodilnikheinnerhcv268e__204220.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V286SF+",
+        "Noise": "40дБ",
+        "Volume": "288л",
+        "Price": "5299",
+        "Image": "freezers/holodilnikheinnerhcv286sf__204216.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-HM262XF+",
+        "Noise": "40дБ",
+        "Volume": "262л",
+        "Price": "5299",
+        "Image": "freezers/Screenshot_11_s5y4-l0.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Candy CWC 154 EEL/N для вина Уценка",
+        "Noise": "41дБ",
+        "Price": "5309",
+        "Image": "freezers/2_lsae-ft.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V268SF+",
+        "Noise": "40дБ",
+        "Volume": "268л",
+        "Price": "5399",
+        "Image": "freezers/holodilnikheinnerhcv268sf__204222.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-VS268SF+",
+        "Noise": "40дБ",
+        "Volume": "268л",
+        "Price": "5399",
+        "Image": "freezers/1_9qa6-y6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-HS268WDF+",
+        "Noise": "39дБ",
+        "Volume": "268л",
+        "Price": "5399",
+        "Image": "freezers/Screenshot_9_xa16-8h.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V286F+",
+        "Noise": "40дБ",
+        "Volume": "286л",
+        "Price": "5499",
+        "Image": "freezers/holodilnikheinnerhcv286f__196049.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V286E++",
+        "Noise": "40дБ",
+        "Volume": "286л",
+        "Price": "5599",
+        "Image": "freezers/holodilnikheinnerhcv286e__205081.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-HS269SE++",
+        "Noise": "39дБ",
+        "Volume": "269л",
+        "Price": "5599",
+        "Image": "freezers/Screenshot_7_dkrl-lo.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Indesit LI6 S1E W",
+        "Noise": "39дБ",
+        "Volume": "272л",
+        "Price": "5699",
+        "Image": "freezers/holodilnikindesitli6s1ew__211561.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Indesit LI7 S1E W",
+        "Noise": "39дБ",
+        "Volume": "308л",
+        "Price": "5759",
+        "Image": "freezers/holodilnikindesitli7s1ew__211149.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Hisense RB343D4DDE",
+        "Noise": "39дБ",
+        "Volume": "264л",
+        "Price": "5899",
+        "Image": "freezers/holodilnikhisenserb343d4dde__150271.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Candy CWC 154 EEL/N для вина",
+        "Noise": "41дБ",
+        "Price": "5899",
+        "Image": "freezers/Screenshot_92_hzo5-wx.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V401NFWF+ уценка",
+        "Noise": "41дБ",
+        "Volume": "389л",
+        "Price": "6034",
+        "Image": "freezers/holodilnikheinnerhfv401nfwfucenka__209228.png",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Indesit LI8 S1E W",
+        "Noise": "40дБ",
+        "Volume": "303л",
+        "Price": "6119",
+        "Image": "freezers/holodilnikindesitli8s1ew__206954.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Candy CCE3T618FW",
+        "Noise": "39дБ",
+        "Volume": "342л",
+        "Price": "6374",
+        "Image": "freezers/Screenshot_33_xb60-o9.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V401NFBKF+",
+        "Noise": "41дБ",
+        "Price": "6389",
+        "Image": "freezers/1_qnb2-39.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HC-V336E++",
+        "Noise": "39дБ",
+        "Volume": "336л",
+        "Price": "6399",
+        "Image": "freezers/holodilnikheinnerhcv336e__207364.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Indesit LI7 SN1E W",
+        "Noise": "40дБ",
+        "Volume": "295л",
+        "Price": "6479",
+        "Image": "freezers/holodilnikindesitli7sn1ew__206942.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HCNF-V291BKWDF+",
+        "Noise": "41дБ",
+        "Volume": "294л",
+        "Price": "6569",
+        "Image": "freezers/1_4t1e-lv.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HCNF-V291WDF+",
+        "Noise": "41дБ",
+        "Volume": "294л",
+        "Price": "6569",
+        "Image": "freezers/1_l2cu-ms.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Indesit LI7 S1E S",
+        "Noise": "39дБ",
+        "Volume": "308л",
+        "Price": "6599",
+        "Image": "freezers/holodilnikindesitli7s1es__206939.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Indesit LI9 S1E W",
+        "Noise": "39дБ",
+        "Volume": "372л",
+        "Price": "6699",
+        "Image": "freezers/holodilnikindesitli9s1ew__211124.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Candy CCE3T618FS",
+        "Noise": "39дБ",
+        "Volume": "342л",
+        "Price": "6749",
+        "Image": "freezers/Screenshot_91_09oy-ec.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Indesit LI9 S1E S",
+        "Noise": "39дБ",
+        "Volume": "372л",
+        "Price": "6799",
+        "Image": "freezers/Screenshot_15_wg64-ue.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HCNF-V291F+",
+        "Noise": "41дБ",
+        "Volume": "295л",
+        "Price": "6899",
+        "Image": "freezers/holodilnikheinnerhcnfv291f__195973.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HCNF-V291BKF+",
+        "Noise": "41дБ",
+        "Volume": "294л",
+        "Price": "6899",
+        "Image": "freezers/holodilnikheinnerhcnfv291bkf__211350.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HF-V401NFSF+",
+        "Noise": "41дБ",
+        "Volume": "390л",
+        "Price": "6999",
+        "Image": "freezers/holodilnikheinnerhfv401nfsf__211517.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Heinner HCNF-V291E++",
+        "Noise": "42дБ",
+        "Volume": "294л",
+        "Price": "6999",
+        "Image": "freezers/holodilnikheinnerhcnfv291e__212869.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "холодильник Indesit LI8 SN2E W",
+        "Noise": "40дБ",
+        "Volume": "328л",
+        "Price": "7019",
+        "Image": "freezers/Screenshot_175_dorv-bd.jpg",
+        "Description": ""
+    }
+]

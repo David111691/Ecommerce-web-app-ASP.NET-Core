@@ -6,13 +6,15 @@ import { SharedModule } from '../shared/shared.module';
 import { ProductDetailsComponent } from './product-details/product-details.component';
 import { RouterModule } from '@angular/router';
 import { ShopRoutingModule } from './shop-routing.module';
+import { DropdownComponent } from './dropdown/dropdown.component';
 
 
 @NgModule({
   declarations: [
     ShopComponent,
     ProductItemComponent,
-    ProductDetailsComponent
+    ProductDetailsComponent,
+    DropdownComponent
   ],
   imports: [
     CommonModule,

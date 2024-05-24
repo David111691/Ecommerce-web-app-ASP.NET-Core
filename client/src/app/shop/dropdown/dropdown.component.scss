@@ -1,0 +1,53 @@
+.menu {
+    position: relative;
+    display: grid;
+    overflow: hidden;
+    line-height: 0;
+    color: transparent;
+    transition: line-height 0.5s, color 0.5s;
+}
+
+.menu-item {
+    overflow: hidden;
+}
+
+.menu-link {
+    display: block;
+    width: 100%;
+    text-align: start;
+    padding: 0.5lh 40px;
+}
+
+.menu-link:hover,
+.menu-link:focus-visible {
+    background-color: #59b9df;
+}
+
+.menu-link.comp-category {
+    background-color: #6d6f77;
+}
+
+.menu-link.comp-category:hover {
+    background-color: #3c3d42;
+}
+
+.menu.active {
+    line-height: 1.2;
+    color: currentColor;
+}
+
+button {
+    font-weight: normal;
+}
+
+button.menu-link.active {
+    background-color: #59b9df;
+}
+
+div.inner-menu.active a {
+    background-color: #a0daf1;
+}
+
+div.inner-menu.active a:hover  {
+    background-color: #bbe8fa;
+}

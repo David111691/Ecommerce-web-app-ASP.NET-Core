@@ -1,0 +1,562 @@
+[
+    {
+        "Name": "пылесос Gorenje VCEA24GPRA",
+        "Power": "700Вт",
+        "Value": "3л",
+        "Price": "2499",
+        "Image": "vacuum-cleaners/1_nquy-t8.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VCC8836V36/SBW",
+        "Power": "2200Вт",
+        "Value": "2л",
+        "Price": "2599",
+        "Image": "vacuum-cleaners/pylesossamsungvcc8836v36sbw__12372.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher WD 4 1.628-204.0",
+        "Power": "1000Вт",
+        "Value": "20л",
+        "Price": "2599",
+        "Image": "vacuum-cleaners/pylesoskarcherwd416282040__200206.PNG",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Hisense HVC6134W",
+        "Power": "110Вт",
+        "Value": "0.5л",
+        "Price": "2699",
+        "Image": "vacuum-cleaners/pylesoshisensehvc6134w__185347.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос FRAM FSVC-M28.8BR",
+        "Power": "420Вт",
+        "Value": "0.65л",
+        "Price": "2849",
+        "Image": "vacuum-cleaners/Screenshot_42_uvda-uw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VC24GHNJGBK/UK",
+        "Value": "3л",
+        "Price": "2859",
+        "Image": "vacuum-cleaners/pylesossamsungvc24ghnigbkuk__3627.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Samsung VR05R5050WK/UK",
+        "Power": "55Вт",
+        "Value": "0.2л",
+        "Price": "2999",
+        "Image": "vacuum-cleaners/pylesossamsungvr05r5050wkev__17632.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Gorenje SVC252FMBK",
+        "Power": "172Вт",
+        "Value": "0.5л",
+        "Price": "3199",
+        "Image": "vacuum-cleaners/1_nlxx-z3.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher T10/1 1.527-150.0 профессион.",
+        "Power": "800Вт",
+        "Value": "10л",
+        "Price": "3299",
+        "Image": "vacuum-cleaners/pylesoskarchert10115271500profession__29771.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Heinner HSVC-M18WH",
+        "Power": "180Вт",
+        "Value": "0.6л",
+        "Price": "3299",
+        "Image": "vacuum-cleaners/1_z1w0-yj.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher WD 4 P V-20/5/22 1.628-270.0",
+        "Power": "1000Вт",
+        "Value": "20л",
+        "Price": "3299",
+        "Image": "vacuum-cleaners/1_bkj0-un.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VC15K4169HD/UK",
+        "Power": "1500Вт",
+        "Value": "1.5л",
+        "Price": "3499",
+        "Image": "vacuum-cleaners/pylesossamsungvc15k4169hduk__23178.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher WD 5 1.628-350.0",
+        "Power": "1100Вт",
+        "Value": "25л",
+        "Price": "3499",
+        "Image": "vacuum-cleaners/1_wd9k-d8.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот для мытья окон Mamibot W110-P",
+        "Price": "3499",
+        "Image": "vacuum-cleaners/1_7lwm-ap.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher VC 4s 1.198-282.0",
+        "Value": "0.3л",
+        "Price": "3599",
+        "Image": "vacuum-cleaners/pylesoskarchervc4s11982820__186888.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Ecovacs DEEBOT 605EU",
+        "Power": "25Вт",
+        "Value": "0.52л",
+        "Price": "3599",
+        "Image": "vacuum-cleaners/pylesosecovacsdeebot605eu__196657.png",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher VC 4 Cordless Premium myHome 1.198-640.0",
+        "Power": "140Вт",
+        "Value": "0.65л",
+        "Price": "3999",
+        "Image": "vacuum-cleaners/pylesoskarchervc4cordlesspremiummyhome11986400__207895.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос 1.081-130.0 SE 4001 моющий",
+        "Power": "1400Вт",
+        "Value": "4л",
+        "Price": "4099",
+        "Image": "vacuum-cleaners/pylesosmoyuschiyse400110811300__140539.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Polaris PVCR 3200",
+        "Value": "0.5л",
+        "Price": "4409",
+        "Image": "vacuum-cleaners/pylesospolarispvcr3200__16341.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот для мытья окон Mamibot W120-T (черно-синий)",
+        "Power": "75Вт",
+        "Price": "4499",
+        "Image": "vacuum-cleaners/Screenshot_91_t2ct-0h.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот для мытья окон Mamibot W120-T (бело-синий)",
+        "Power": "75Вт",
+        "Price": "4499",
+        "Image": "vacuum-cleaners/Screenshot_238_3aj9-ct.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher DS 6 *EU 1.195-220.0",
+        "Power": "650Вт",
+        "Value": "2л",
+        "Price": "4589",
+        "Image": "vacuum-cleaners/Screenshot_39_mwde-d5.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Teesa TSA5045",
+        "Power": "48Вт",
+        "Value": "0.6л",
+        "Price": "4599",
+        "Image": "vacuum-cleaners/1_nce5-ha.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Bosch BWD 41740",
+        "Power": "1700Вт",
+        "Value": "2.5л",
+        "Price": "4899",
+        "Image": "vacuum-cleaners/pylesosboschbwd41740__314923.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Thomas Perfect Air Feel Fresh X3 1700Вт",
+        "Power": "1700Вт",
+        "Value": "6л",
+        "Price": "4899",
+        "Image": "vacuum-cleaners/10_bkeg-1r.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Lydsto R1D White",
+        "Power": "50Вт",
+        "Value": "0.3л",
+        "Price": "5099",
+        "Image": "vacuum-cleaners/Screenshot_41_1tt0-07.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Polaris PVCS 7090",
+        "Power": "450Вт",
+        "Value": "0.6л",
+        "Price": "5399",
+        "Image": "vacuum-cleaners/Screenshot_60_do4m-h9.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Bosch BWD 421 PRO",
+        "Power": "2100Вт",
+        "Value": "2.5л",
+        "Price": "5599",
+        "Image": "vacuum-cleaners/3_twqm-5c.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Polaris PVCS 4000",
+        "Power": "450Вт",
+        "Value": "0.6л",
+        "Price": "5609",
+        "Image": "vacuum-cleaners/pylesospolarispvcs4000__184584.PNG",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Bosch BWD 421 POW",
+        "Power": "2100Вт",
+        "Value": "5л",
+        "Price": "5699",
+        "Image": "vacuum-cleaners/pylesosboschbwd421propow__197931.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VS15A6032R5/EV",
+        "Power": "410Вт",
+        "Value": "0.8л",
+        "Price": "5799",
+        "Image": "vacuum-cleaners/pylesossamsungvs15a6032r5ev__147122.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher VC 7 Cordless yourMax 1.198-700.0",
+        "Value": "0.8л",
+        "Price": "5921",
+        "Image": "vacuum-cleaners/pylesoskarchervc7cordlessyourmax11987000__207929.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher SE 5.100 1.081-200.0",
+        "Power": "1400Вт",
+        "Value": "4л",
+        "Price": "5999",
+        "Image": "vacuum-cleaners/Screenshot_21_ag4j-mc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Lydsto R1D Black",
+        "Power": "50Вт",
+        "Value": "0.3л",
+        "Price": "5999",
+        "Image": "vacuum-cleaners/Screenshot_37_5p22-z4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Thomas Cycloon Hybrid Led Parquet 1400Вт",
+        "Power": "1400Вт",
+        "Value": "1.7л",
+        "Price": "6099",
+        "Image": "vacuum-cleaners/1_rxdb-3h.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VS15T7031R4/EV",
+        "Power": "410Вт",
+        "Value": "0.8л",
+        "Price": "6199",
+        "Image": "vacuum-cleaners/pylesossamsungvs15t7031r4ev__40618.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Bosch BWD 421 PET",
+        "Power": "2100Вт",
+        "Value": "4л",
+        "Price": "6199",
+        "Image": "vacuum-cleaners/pylesosboschbwd421pet__47968.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Samsung VR30T80313W/EV",
+        "Power": "60Вт",
+        "Value": "0.4л",
+        "Price": "6374",
+        "Image": "vacuum-cleaners/pylesossamsungvr30t80313wev__192272.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Thomas Cycloon Hybrid Pet & Friends 1700Вт",
+        "Power": "1700Вт",
+        "Value": "2.6л",
+        "Price": "6399",
+        "Image": "vacuum-cleaners/1_wo6r-34.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Hisense RVCL144AB",
+        "Value": "0.5л",
+        "Price": "6499",
+        "Image": "vacuum-cleaners/1_v2vq-5y.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот для мытья окон Mamibot W200",
+        "Power": "73Вт",
+        "Price": "6599",
+        "Image": "vacuum-cleaners/1_5m1j-7e.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher RCV 3 *EU 1.269-620.0",
+        "Value": "0.5л",
+        "Price": "6799",
+        "Image": "vacuum-cleaners/1_r4w1-j2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner Q5 Pro Black",
+        "Value": "0.77л",
+        "Price": "6799",
+        "Image": "vacuum-cleaners/1_m9hx-vi.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Dyson V8 Origin",
+        "Power": "425Вт",
+        "Value": "0.54л",
+        "Price": "7199",
+        "Image": "vacuum-cleaners/Screenshot_164_dxci-o7.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Dyson V8 Extra SV25",
+        "Power": "425Вт",
+        "Value": "0.54л",
+        "Price": "7399",
+        "Image": "vacuum-cleaners/1_i7wp-a9.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner Q7 Max Black",
+        "Power": "66Вт",
+        "Value": "0.45л",
+        "Price": "7999",
+        "Image": "vacuum-cleaners/Screenshot_46_5402-d5.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Thomas Multi Clean X10 Parquet 1700Вт",
+        "Power": "1700Вт",
+        "Value": "1.8л",
+        "Price": "7999",
+        "Image": "vacuum-cleaners/6_m5un-e7.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VS15T7036R5/EV",
+        "Power": "410Вт",
+        "Value": "0.8л",
+        "Price": "8199",
+        "Image": "vacuum-cleaners/1_kikt-uc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Thomas Aqua Allergy & Family 1700Вт",
+        "Power": "1700Вт",
+        "Value": "6л",
+        "Price": "8299",
+        "Image": "vacuum-cleaners/1_3adx-bx.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VS20T7532T1/EV",
+        "Price": "8459",
+        "Image": "vacuum-cleaners/4_uhh1-tz.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос THOMAS Aqua Floorcleaner Cordless Plus",
+        "Power": "150Вт",
+        "Value": "0.75л",
+        "Price": "8799",
+        "Image": "vacuum-cleaners/1_sim5-yx.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VS20T7535T7/EV",
+        "Power": "550Вт",
+        "Value": "0.8л",
+        "Price": "8999",
+        "Image": "vacuum-cleaners/Screenshot_12_1sr6-8t.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Thomas Cycloon Drybox Amfibia 1700Вт",
+        "Power": "1700Вт",
+        "Value": "2.6л",
+        "Price": "9199",
+        "Image": "vacuum-cleaners/1_mcv8-sh.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Roborock Vacuum Cleaner S7 black",
+        "Power": "66Вт",
+        "Value": "0.47л",
+        "Price": "9264",
+        "Image": "vacuum-cleaners/4_z4rn-54.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Roborock Vacuum Cleaner S7 white",
+        "Power": "66Вт",
+        "Value": "0.47л",
+        "Price": "9809",
+        "Image": "vacuum-cleaners/Screenshot_1_gd2m-lo.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Karcher RCV 5 *EU 1.269-640.0",
+        "Value": "0.33л",
+        "Price": "9999",
+        "Image": "vacuum-cleaners/pylesoskarcherrcv3eu12696400__318899.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VS20C8524TB/UK",
+        "Power": "580Вт",
+        "Value": "0.8л",
+        "Price": "9999",
+        "Image": "vacuum-cleaners/1_vg2q-bv.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner Q5 Pro+ Black",
+        "Power": "59Вт",
+        "Value": "0.77л",
+        "Price": "10399",
+        "Image": "vacuum-cleaners/1_0cli-2d.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VS20R9046T3/EV",
+        "Power": "550Вт",
+        "Value": "0.8л",
+        "Price": "10499",
+        "Image": "vacuum-cleaners/2_pdk6-q2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VR30T85513W/EV",
+        "Power": "60Вт",
+        "Value": "0.3л",
+        "Price": "10599",
+        "Image": "vacuum-cleaners/pylesossamsungvr30t85513wev__191615.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner Q8 Max Black",
+        "Power": "59.2Вт",
+        "Value": "0.47л",
+        "Price": "10999",
+        "Image": "vacuum-cleaners/1_5n1h-3p.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Hisense RVCLS144AB S8+",
+        "Value": "0.5л",
+        "Price": "11069",
+        "Image": "vacuum-cleaners/1_pus2-hw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner S8 White",
+        "Power": "69Вт",
+        "Value": "0.4л",
+        "Price": "11499",
+        "Image": "vacuum-cleaners/Screenshot_19_iiqp-7a.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner S8 Black",
+        "Power": "69Вт",
+        "Value": "0.4л",
+        "Price": "12199",
+        "Image": "vacuum-cleaners/pylesosroborockvacuumcleaners8black__304849.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Dyson V11 SV28",
+        "Power": "610Вт",
+        "Value": "0.76л",
+        "Price": "12299",
+        "Image": "vacuum-cleaners/1_3can-3i.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Dyson V12 Detect Slim Absolute (394167-01) SV30",
+        "Power": "545Вт",
+        "Value": "0.35л",
+        "Price": "12799",
+        "Image": "vacuum-cleaners/Screenshot_34_sre0-xl.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner Q7 Max+ White",
+        "Power": "58Вт",
+        "Value": "0.47л",
+        "Price": "13049",
+        "Image": "vacuum-cleaners/Screenshot_39_61ax-e4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner S8+ Black",
+        "Power": "69Вт",
+        "Value": "0.3л",
+        "Price": "14599",
+        "Image": "vacuum-cleaners/Screenshot_27_0x2b-ej.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Roborock Vacuum Cleaner Q8 Max+ Black",
+        "Power": "59Вт",
+        "Value": "0.47л",
+        "Price": "14599",
+        "Image": "vacuum-cleaners/2_zndh-aa.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Samsung VS20A95973B/EV",
+        "Power": "1400Вт",
+        "Value": "0.2л",
+        "Price": "15299",
+        "Image": "vacuum-cleaners/4_q4z4-pz.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Робот-пылесос Roborock Vacuum Cleaner S7 Max V Black",
+        "Power": "74Вт",
+        "Value": "0.47л",
+        "Price": "15999",
+        "Image": "vacuum-cleaners/Screenshot_7_4lxi-og.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "пылесос Dyson V15 Detect Absolute",
+        "Power": "660Вт",
+        "Value": "0.56л",
+        "Price": "15999",
+        "Image": "vacuum-cleaners/Screenshot_27_ygrp-x9.jpg",
+        "Description": ""
+    }
+]

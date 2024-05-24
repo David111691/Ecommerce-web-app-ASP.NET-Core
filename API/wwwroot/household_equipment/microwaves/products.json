@@ -1,0 +1,547 @@
+[
+    {
+        "Name": "Микроволновая печь UD MM20L-WA",
+        "Volume": "20л",
+        "Price": "999",
+        "Image": "microwaves/Дизайн_без_названия__3_.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Daewoo DM-2011MW",
+        "Volume": "20л",
+        "Price": "1142",
+        "Image": "microwaves/Screenshot_1_8yto-5p.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Sharp YC-MS01EC",
+        "Volume": "20л",
+        "Price": "1169",
+        "Image": "microwaves/1_i7ne-mo.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO20E1W2",
+        "Volume": "20л",
+        "Power": "1280Вт",
+        "Price": "1179",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo20e1w2__207819.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO17E1W",
+        "Price": "1199",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo17e1w__13041.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO20E1W",
+        "Volume": "20л",
+        "Power": "1280Вт",
+        "Price": "1199",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo20e1w__4356.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь MILANO MW-4002BR",
+        "Volume": "20л",
+        "Price": "1199",
+        "Image": "microwaves/1_yg3e-bl.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь MILANO MW-4002BY",
+        "Volume": "20л",
+        "Price": "1199",
+        "Image": "microwaves/1_iaao-4r.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO17E1S",
+        "Volume": "17л",
+        "Price": "1249",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo17e1s__9117.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO17E1WH",
+        "Volume": "17л",
+        "Price": "1249",
+        "Image": "microwaves/1_zfel-h2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Candy CMW20SMW",
+        "Volume": "20л",
+        "Price": "1259",
+        "Image": "microwaves/1_ynhf-u4.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Daewoo DM-2012MB",
+        "Volume": "20л",
+        "Price": "1269",
+        "Image": "microwaves/1_yh56-jd.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Heinner HMW-20GRD",
+        "Volume": "20л",
+        "Price": "1274",
+        "Image": "microwaves/mikrovolnovayapechheinnerhmw20grd__180070.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO20E1B",
+        "Volume": "20л",
+        "Power": "1280Вт",
+        "Price": "1299",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo20e1b__197810.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Sharp YC-MS01ES",
+        "Volume": "20л",
+        "Power": "1270Вт",
+        "Price": "1299",
+        "Image": "microwaves/Screenshot_1_xh8b-go.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Sharp YC-GS01EB",
+        "Volume": "20л",
+        "Power": "1200Вт",
+        "Price": "1299",
+        "Image": "microwaves/1_ww9r-jh.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Brock MWO 2012 SS",
+        "Volume": "20л",
+        "Power": "700Вт",
+        "Price": "1299",
+        "Image": "microwaves/mikrovolnovayapechbrockmwo2012ss__305462.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H20MOBP1",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1299",
+        "Image": "microwaves/1_lk25-79.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Sharp YC-MS01E-B",
+        "Volume": "20л",
+        "Price": "1299",
+        "Image": "microwaves/1_4iiu-hc.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Daewoo DM-2022DB",
+        "Volume": "20л",
+        "Price": "1313",
+        "Image": "microwaves/Screenshot_3_nbva-0b.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Daewoo DM-2021DW",
+        "Volume": "20л",
+        "Price": "1399",
+        "Image": "microwaves/1_p7i4-bz.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO20E2BH",
+        "Volume": "20л",
+        "Power": "1000Вт",
+        "Price": "1399",
+        "Image": "microwaves/Screenshot_17_na1m-gd.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Toshiba MW-MM20P(BK)-P",
+        "Volume": "20л",
+        "Power": "1270Вт",
+        "Price": "1399",
+        "Image": "microwaves/1_escr-gq.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Toshiba MW-MM20P(WH)-P",
+        "Volume": "20л",
+        "Power": "1270Вт",
+        "Price": "1399",
+        "Image": "microwaves/1_u6tt-od.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H20MOBSD1H",
+        "Volume": "20л",
+        "Power": "1100Вт",
+        "Price": "1399",
+        "Image": "microwaves/1_pifg-40.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO17E1BH",
+        "Volume": "17л",
+        "Price": "1399",
+        "Image": "microwaves/1_5scr-zx.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Heinner HMW-D2060SS",
+        "Volume": "20л",
+        "Price": "1399",
+        "Image": "microwaves/1_hktn-pp.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Fram FMW-20DGCR",
+        "Volume": "20л",
+        "Price": "1439",
+        "Image": "microwaves/mikrovolnovayapechframfmw20dgcr__189112.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Fram FMW-20DGGR",
+        "Volume": "20л",
+        "Price": "1439",
+        "Image": "microwaves/mikrovolnovayapechframfmw20dggr__208909.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO20A3B",
+        "Volume": "20л",
+        "Power": "1280Вт",
+        "Price": "1459",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo20a3b__6400.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Heinner HMW-20DBKSS",
+        "Volume": "20л",
+        "Price": "1459",
+        "Image": "microwaves/1_m2sx-01.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO20A3X",
+        "Volume": "20л",
+        "Power": "1280Вт",
+        "Price": "1499",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo20a3x__21462.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-SM221WZPE",
+        "Volume": "20л",
+        "Price": "1499",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnsm221wzpe__197806.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H20MOMP1H*H20MOMP1",
+        "Volume": "20л",
+        "Power": "1100Вт",
+        "Price": "1499",
+        "Image": "microwaves/Screenshot_12_etqx-ec.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H20MOWS4",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1529",
+        "Image": "microwaves/1_8g19-cx.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Daewoo DM-2044DSG",
+        "Volume": "20л",
+        "Price": "1599",
+        "Image": "microwaves/1_1sc2-gs.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H20MOBSD1HG",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1599",
+        "Image": "microwaves/1_hi3w-11.webp",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H20MOMS4",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1599",
+        "Image": "microwaves/1_pikf-l2.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-GT261WZPE",
+        "Volume": "20л",
+        "Price": "1699",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnngt261wzpe__197825.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO20S4BC",
+        "Volume": "20л",
+        "Power": "1150Вт",
+        "Price": "1699",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo20s4bc__232319.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H20MOMS4HG",
+        "Volume": "20л",
+        "Power": "1100Вт",
+        "Price": "1699",
+        "Image": "microwaves/1_tmkg-fi.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST254MZPE",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1709",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst254mzpe__197818.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST27HMZPE",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1709",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst27hmzpe__197814.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST25HBZPE",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1799",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst25hbzpe__19687.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H23MOBS5H",
+        "Volume": "23л",
+        "Power": "1250Вт",
+        "Price": "1799",
+        "Image": "microwaves/1_jwis-yl.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-GT264MZPE",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1844",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnngt264mzpe__197826.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST251WZPE",
+        "Volume": "20л",
+        "Power": "1250Вт",
+        "Price": "1849",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst251wzpe__197815.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO4250CLB",
+        "Volume": "20л",
+        "Power": "1080Вт",
+        "Price": "1899",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo4250clb__197836.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-SB26MBZPE",
+        "Volume": "20л",
+        "Price": "1899",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnsb26mbzpe__179317.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Hisense H25MOBS7H",
+        "Volume": "25л",
+        "Price": "1899",
+        "Image": "microwaves/1_rkhx-89.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-GT352WZPE",
+        "Volume": "23л",
+        "Power": "1270Вт",
+        "Price": "1979",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnngt352wzpe__197840.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST32MMZPE",
+        "Volume": "25л",
+        "Price": "1979",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst32mmzpe__179315.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST34HMZPE Уценка1",
+        "Volume": "25л",
+        "Power": "1270Вт",
+        "Price": "1979",
+        "Image": "microwaves/1_pz8z-gs.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO4250CLI",
+        "Volume": "20л",
+        "Power": "1080Вт",
+        "Price": "1999",
+        "Image": "microwaves/mikrovolnovayapechgoreniemo4250cli__197839.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST342WZPE",
+        "Volume": "25л",
+        "Power": "1270Вт",
+        "Price": "1999",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst342wzpe__197831.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST342MZPE",
+        "Volume": "25л",
+        "Power": "1270Вт",
+        "Price": "1999",
+        "Image": "microwaves/Screenshot_110_zrhh-0l.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-GT35HBZPE",
+        "Volume": "23л",
+        "Price": "2069",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnngt35hbzpe__197847.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung GE81MRTB/BW",
+        "Volume": "23л",
+        "Power": "1100Вт",
+        "Price": "2079",
+        "Image": "microwaves/Screenshot_28_kv0h-fn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST34HMZPE",
+        "Volume": "25л",
+        "Power": "1270Вт",
+        "Price": "2199",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst34hmzpe__197867.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST34HWZPE",
+        "Volume": "25л",
+        "Power": "1270Вт",
+        "Price": "2199",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst34hwzpe__197845.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Panasonic NN-ST35MKZPE",
+        "Volume": "25л",
+        "Price": "2199",
+        "Image": "microwaves/mikrovolnovayapechpanasonicnnst35mkzpe__186938.PNG",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MG23K3614AK/BW",
+        "Volume": "23л",
+        "Price": "2209",
+        "Image": "microwaves/mikrovolnovayapechsamsungmg23k3614akbw__25645.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MG23K3614AS/BW",
+        "Volume": "23л",
+        "Power": "1250Вт",
+        "Price": "2209",
+        "Image": "microwaves/mikrovolnovayapechsamsungmg23k3614asbw__18677.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Gorenje MO235SYW",
+        "Volume": "23л",
+        "Power": "1200Вт",
+        "Price": "2294",
+        "Image": "microwaves/Screenshot_118_8r7e-0p.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MS23K3513AK/OL",
+        "Volume": "23л",
+        "Power": "1150Вт",
+        "Price": "2299",
+        "Image": "microwaves/1_fuvu-nn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MS23K3513AS/OL",
+        "Volume": "23л",
+        "Power": "1150Вт",
+        "Price": "2299",
+        "Image": "microwaves/1_wx6m-wd.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung ME83KRS-1/BW",
+        "Volume": "23л",
+        "Power": "1150Вт",
+        "Price": "2379",
+        "Image": "microwaves/mikrovolnovayapechsamsungme83krs1bw__197857.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MG23F302TAS/BW",
+        "Volume": "23л",
+        "Power": "1200Вт",
+        "Price": "2429",
+        "Image": "microwaves/mikrovolnovayapechsamsungmg23f302tasbw__197882.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MS23F302TAK/BW",
+        "Volume": "23л",
+        "Power": "1150Вт",
+        "Price": "2499",
+        "Image": "microwaves/mikrovolnovayapechsamsungms23f302takbw__186793.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MS23F302TAS/BW",
+        "Volume": "23л",
+        "Power": "1150Вт",
+        "Price": "2499",
+        "Image": "microwaves/mikrovolnovayapechsamsungms23f302tasbw__197870.png",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MS23F301TAK/OL",
+        "Price": "2499",
+        "Image": "microwaves/1_ktuv-sy.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Микроволновая печь Samsung MS23F301TAS/OL",
+        "Volume": "23л",
+        "Power": "1150Вт",
+        "Price": "2499",
+        "Image": "microwaves/1_rur2-ai.jpg",
+        "Description": ""
+    }
+]

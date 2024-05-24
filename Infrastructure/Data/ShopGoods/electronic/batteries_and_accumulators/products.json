@@ -1,0 +1,534 @@
+[
+    {
+        "Name": "Батарейка Energenie EG-BA-CR1220-01",
+        "Type": "CR",
+        "Price": "4",
+        "Image": "batteries/Screenshot_8_jcu7-vs.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Energenie EG-BA-CR2016-01",
+        "Type": "CR",
+        "Price": "4",
+        "Image": "batteries/Screenshot_13_t30u-bn.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Energenie EG-BA-AA4-01",
+        "Type": "AA",
+        "Price": "5",
+        "Image": "batteries/Screenshot_3_d5kj-mf.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Energenie EG-BA-AAA4-01",
+        "Type": "AAA",
+        "Price": "5",
+        "Image": "batteries/Screenshot_6_pn60-1o.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Energenie EG-BA-CR2025-01",
+        "Type": "CR",
+        "Price": "5",
+        "Image": "batteries/Screenshot_15_2jhq-0x.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-1025EL/1B",
+        "Brand": "Китай",
+        "Type": "CR1025",
+        "Price": "9",
+        "Image": "batteries/batareykapanasoniccr1025el1b__33084.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-1216EL/1B",
+        "Brand": "Китай",
+        "Type": "CR1216",
+        "Price": "9",
+        "Image": "batteries/batareykapanasoniccr1216el1b__33083.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Адаптер-переходник для аккум. Panasonic BQ-BS2E/2E",
+        "Brand": "Китай",
+        "Type": "C",
+        "Price": "11",
+        "Image": "batteries/adapterperehodnikdlyaakkumpanasonicbqbs2e2e__32970.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR03REB/4BPR 4уп",
+        "Brand": "Бельгия",
+        "Type": "AAA",
+        "Price": "12",
+        "Image": "batteries/batareykapanasoniclr03reb4bpr4up__33093.png",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR6REB/4BPR 4уп",
+        "Type": "AA",
+        "Price": "12",
+        "Image": "batteries/batareykapanasoniclr6reb4bpr4up__33091.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR03REE/10B4F",
+        "Brand": "Бельгия",
+        "Type": "AAA",
+        "Price": "14",
+        "Image": "batteries/batareykapanasoniclr03ree10b4f__33068.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR03REE/8B2F",
+        "Brand": "Бельгия",
+        "Type": "AAA",
+        "Price": "14",
+        "Image": "batteries/batareykapanasoniclr03ree8b2f__33092.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR6REE/10B4F",
+        "Brand": "Бельгия",
+        "Type": "AA",
+        "Price": "14",
+        "Image": "batteries/batareykapanasoniclr6ree10b4f__32173.png",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR6REE/8B2F 8уп",
+        "Type": "AA",
+        "Price": "14",
+        "Image": "batteries/batareykapanasoniclr6ree8b2f8up__33087.png",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR03REE/6B2F",
+        "Type": "AAA",
+        "Price": "14",
+        "Image": "batteries/batareykapanasoniclr03ree6b2f__187931.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR6REE/6B2F",
+        "Type": "AA",
+        "Price": "14",
+        "Image": "batteries/batareykapanasoniclr6ree6b2f__187930.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR03XEG/6B2F 6уп.",
+        "Brand": "Китай",
+        "Type": "AAA",
+        "Price": "15",
+        "Image": "batteries/batareykapanasoniclr03xeg6b2f6up__33099.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR6XEG/6B2F",
+        "Type": "AA",
+        "Price": "15",
+        "Image": "batteries/batareykapanasoniclr6xeg6b2f__10385.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic SR-721EL/1B",
+        "Brand": "Китай",
+        "Type": "SR58",
+        "Price": "17",
+        "Image": "batteries/batareykapanasonicsr721el1b__39252.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Energenie EG-BA-LR14-01",
+        "Type": "C",
+        "Price": "17",
+        "Image": "batteries/Screenshot_19_drwq-mw.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR03EGE/8B2F 8уп",
+        "Type": "AAA",
+        "Price": "19",
+        "Image": "batteries/batareykapanasoniclr03ege8b2f8up__33088.png",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR6EGE/8B2F 8уп",
+        "Type": "AA",
+        "Price": "19",
+        "Image": "batteries/batareykapanasoniclr6ege8b2f8up__19690.png",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR6EGE/6B2F",
+        "Type": "AA",
+        "Price": "19",
+        "Image": "batteries/U0224180_2big.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Energenie EG-BA-AAA10-01",
+        "Type": "AAA",
+        "Price": "21",
+        "Image": "batteries/Screenshot_27_sqc0-q9.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2025EL/1B",
+        "Brand": "Китай",
+        "Type": "CR2025",
+        "Price": "22",
+        "Image": "batteries/600x800.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2025EL/2B",
+        "Brand": "Китай",
+        "Type": "CR2025",
+        "Price": "22",
+        "Image": "batteries/batareykapanasoniccr2025el2b__30332.jpeg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2025EL/6B",
+        "Brand": "Индонезия",
+        "Type": "CR2025",
+        "Price": "22",
+        "Image": "batteries/batareykapanasoniccr2025el6b__33100.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2032EL/2B",
+        "Brand": "Индонезия",
+        "Type": "CR2032",
+        "Price": "22",
+        "Image": "batteries/batareykapanasoniccr2032el2b__40455.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2032EL/6B",
+        "Brand": "Китай",
+        "Type": "CR2032",
+        "Price": "22",
+        "Image": "batteries/batareykapanasoniccr2032el6b__33095.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LRV08L/2BE",
+        "Type": "LR",
+        "Price": "22",
+        "Image": "batteries/batareykapanasoniclrv08l2be__33072.png",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Energenie EG-BA-LR20-01",
+        "Type": "D",
+        "Price": "22",
+        "Image": "batteries/Screenshot_21_gjgp-c8.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2016EL/1B",
+        "Brand": "Индонезия",
+        "Type": "CR2016",
+        "Price": "23",
+        "Image": "batteries/batareykapanasoniccr2016el1b__33080.jpeg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2016EL/2B",
+        "Brand": "Индонезия",
+        "Type": "CR2016",
+        "Price": "23",
+        "Image": "batteries/batareykapanasoniccr2016el2b__33079.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LRV08L/1BE",
+        "Brand": "Китай",
+        "Type": "LRV08",
+        "Price": "23",
+        "Image": "batteries/batareykapanasoniclrv08l1be__33073.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "бат. Panasonic LR-44EL/1B",
+        "Brand": "Япония",
+        "Type": "LR44",
+        "Price": "25",
+        "Image": "batteries/batpanasoniclr44el1b__33076.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR-44EL/2B",
+        "Brand": "Китай",
+        "Type": "AG13",
+        "Price": "25",
+        "Image": "batteries/batareykapanasoniclr44el2b__33075.png",
+        "Description": ""
+    },
+    {
+        "Name": "бат. Panasonic CR-1220EL/1B",
+        "Brand": "Индонезия",
+        "Type": "CR",
+        "Price": "28",
+        "Image": "batteries/batpanasoniccr1220el1b__33082.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-1616EL/1B",
+        "Brand": "Китай",
+        "Type": "CR1616",
+        "Price": "29",
+        "Image": "batteries/batareykapanasoniccr1616el1b__33098.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR14REB/2BP",
+        "Brand": "Китай",
+        "Type": "LR14",
+        "Price": "29",
+        "Image": "batteries/batareykapanasoniclr14reb2bp__39258.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Energenie EG-BA-AA20R4-01",
+        "Type": "AA",
+        "Price": "29",
+        "Image": "batteries/Screenshot_23_ovdm-6u.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка GP ULTRA + ALKALINE 14AUP-2UE2 2уп",
+        "Type": "LR14",
+        "Price": "34",
+        "Image": "batteries/batareykagpultraalkaline14aup2ue22up__186464.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-1632EL/1B",
+        "Brand": "Китай",
+        "Type": "CR1632",
+        "Price": "35",
+        "Image": "batteries/batareykapanasoniccr1632el1b__33096.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR14XEG/2BPR 2уп",
+        "Type": "C",
+        "Price": "37",
+        "Image": "batteries/batareykapanasoniclr14xeg2bpr2up__33090.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Energenie EG-BA-CR123-01",
+        "Type": "CR",
+        "Price": "37",
+        "Image": "batteries/Screenshot_10_b5ae-rs.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Energenie EG-BA-AA26-01",
+        "Type": "AA",
+        "Price": "37",
+        "Image": "batteries/Screenshot_25_24cq-r5.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-1620EL/1B",
+        "Brand": "Китай",
+        "Type": "CR1620",
+        "Price": "39",
+        "Image": "batteries/batareykapanasoniccr1620el1b__33097.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. GP NіMH 65AAAHCE-2EB2",
+        "Type": "AAA",
+        "Price": "40",
+        "Image": "batteries/batakkumgpnimh65aaahce2eb2__188392.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2012EL/1B",
+        "Brand": "Китай",
+        "Type": "CR2012",
+        "Price": "42",
+        "Image": "batteries/batareykapanasoniccr2012el1b__33081.jpeg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic LR20XEG/2BPR 2уп",
+        "Type": "D",
+        "Price": "49",
+        "Image": "batteries/batareykapanasoniclr20xeg2bpr2up__33089.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic SR-626EL/1B",
+        "Price": "49",
+        "Image": "batteries/batareykapanasonicsr626el1b__39251.JPG",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic 6LR61EGE/1BP",
+        "Brand": "Бельгия",
+        "Type": "6F22",
+        "Price": "59",
+        "Image": "batteries/batareykapanasonic6lr61ege1bp__33085.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-123AL/1BP",
+        "Brand": "Китай",
+        "Type": "CR123",
+        "Price": "59",
+        "Image": "batteries/batareykapanasoniccr123al1bp__33071.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-3LCCE/2BE",
+        "Type": "AA",
+        "Price": "59",
+        "Image": "batteries/batakkumpanasonicbk3lcce2be__207693.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4LCCE/2BE",
+        "Type": "AAA",
+        "Price": "59",
+        "Image": "batteries/batakkumpanasonicbk4lcce2be__207628.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4LCCE/4BE",
+        "Type": "AAA",
+        "Price": "59",
+        "Image": "batteries/batakkumpanasonicbk4lcce4be__207658.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4LCCE/2CP",
+        "Type": "AAA",
+        "Price": "59",
+        "Image": "batteries/e35f554656f3dfe78ad7c36346d87f37.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4LCCE/4CP",
+        "Type": "AAA",
+        "Price": "59",
+        "Image": "batteries/batakkumpanasonicbk4lcce2be__207628.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4MCDE/2BE",
+        "Type": "AAA",
+        "Price": "63",
+        "Image": "batteries/batakkumpanasonicbk4mcde2be__207558.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4MCDE/4BE",
+        "Type": "AAA",
+        "Price": "63",
+        "Image": "batteries/batakkumpanasonicbk4mcde4be__207502.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4MCDE/2CP",
+        "Type": "AAA",
+        "Price": "63",
+        "Image": "batteries/batakkumpanasonicbk4mcde4be__207502_yukd-px.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic CR-2450EL/1B",
+        "Brand": "Китай",
+        "Type": "CR2450",
+        "Price": "65",
+        "Image": "batteries/batareykapanasoniccr2450el1b__33077.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-3MCDE/8BE",
+        "Type": "AA",
+        "Price": "66",
+        "Image": "batteries/batakkumpanasonicbk3mcce8be__208134.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-3MCDE/8HH",
+        "Type": "AA",
+        "Price": "70",
+        "Image": "batteries/batakkumpanasonicbk4mcde4be__207502.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-3MCDE/4CP",
+        "Type": "AA",
+        "Price": "71",
+        "Image": "batteries/acumulator-panasonic-eneloop-lite-bk-3mcde-4be-lithium-aa-17920624.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4HCDE/2BE",
+        "Type": "AAA",
+        "Price": "79",
+        "Image": "batteries/batakkumpanasonicbk4hcde2be__208127.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4HCDE/2CP",
+        "Type": "AAA",
+        "Price": "79",
+        "Image": "batteries/batakkumpanasonicbk4hcde2be__208127.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-3MCDE/4BE",
+        "Type": "AA",
+        "Price": "83",
+        "Image": "batteries/batakkumpanasonicbk3mcde4be__208142.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-3HCDE/2CP",
+        "Type": "AA",
+        "Price": "84",
+        "Image": "batteries/bdfb74e12c09360dd41492159940bc58.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Батарейка Panasonic 4SR-44EL/1B",
+        "Brand": "Япония",
+        "Type": "SR44",
+        "Price": "98",
+        "Image": "batteries/batareykapanasonic4sr44el1b__33706.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-3HCDE/4BE",
+        "Type": "AA",
+        "Price": "99",
+        "Image": "batteries/batakkumpanasonicbk3hcde4be__208118.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-4HCDE/4BE",
+        "Type": "AAA",
+        "Price": "99",
+        "Image": "batteries/batakkumpanasonicbk4hcde4be__208131.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Бат.аккум. Panasonic BK-3HCDE/4CP",
+        "Type": "AA",
+        "Price": "99",
+        "Image": "batteries/f565dc799a974119591f4b923466c4b6.jpg",
+        "Description": ""
+    }
+]

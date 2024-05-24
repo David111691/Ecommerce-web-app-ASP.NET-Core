@@ -1,0 +1,576 @@
+[
+    {
+        "Name": "Монитор Philips 221V8/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "1799",
+        "Image": "DISPLAYS/monitor__philips__221v8__00__19014.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 22MP410-B",
+        "Brand": "LG",
+        "Clock": "75 Гц",
+        "Price": "1849",
+        "Image": "DISPLAYS/monitor__lg__22mp410__b__212060.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24A310NH (LS24A310NHUXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "60 Гц",
+        "Price": "2199",
+        "Image": "DISPLAYS/monitor__samsung__s24a310nh__ls24a310nhuxen__242468.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24C366EA (LS24C366EAIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2199",
+        "Image": "DISPLAYS/331411683.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24C360EA (LS24C360EAIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2199",
+        "Image": "DISPLAYS/ru-essential-s3-s36c-24inch-round-stand-ls24c360eaixci-537969746.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 241V8L/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2239",
+        "Image": "DISPLAYS/monitor__philips__241v8l__00__196325.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 24MP400P-B",
+        "Brand": "LG",
+        "Clock": "60 Гц",
+        "Price": "2249",
+        "Image": "DISPLAYS/dw123cd32.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 241V8LA/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2299",
+        "Image": "DISPLAYS/monitor__philips__241v8la__00__164317.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 242S9JAL/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2399",
+        "Image": "DISPLAYS/1939065_v01_b.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 242S9AL/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2399",
+        "Image": "DISPLAYS/327702365.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24C310E (LS24C310EAUXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2449",
+        "Image": "DISPLAYS/Samsung-S24C310E-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 24BN55YP-B",
+        "Brand": "LG",
+        "Clock": "75 Гц",
+        "Price": "2499",
+        "Image": "DISPLAYS/Monitor-LG-24BN550YB-3.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 272S9JAL/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2599",
+        "Image": "DISPLAYS/1939071_v01_b.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 24BK55YP-B",
+        "Brand": "LG",
+        "Clock": "75 Гц",
+        "Price": "2599",
+        "Image": "DISPLAYS/DZ-1-new.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 271V8L/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2649",
+        "Image": "DISPLAYS/monitor__philips__271v8l__00__196426.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung F24T370FH (LF24T370FWRXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2649",
+        "Image": "DISPLAYS/1795449_v01_b.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 273V7QDSB/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2689",
+        "Image": "DISPLAYS/monitor__philips__273v7qdsb__00__30176.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung F24T450FQ (LF24T450FQIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2699",
+        "Image": "DISPLAYS/monitor__samsung__f24t450fq__40054.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 271V8LA/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2699",
+        "Image": "DISPLAYS/monitor__philips__271v8la__00__193720.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung F24T450GY (LF24T450GYIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2699",
+        "Image": "DISPLAYS/monitor__samsung__f24t450gy__lf24t450gyixci__210152.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24C330GA (LS24C330GAIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "100 Гц",
+        "Price": "2699",
+        "Image": "DISPLAYS/157598a7-8a3e-4717-afab-a16b71b08058.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 273V7QDAB/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2789",
+        "Image": "DISPLAYS/monitor__philips__273v7qdab__00__194582.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung C27R500FH (LC27R500FHIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "60 Гц",
+        "Price": "2799",
+        "Image": "DISPLAYS/monitor__samsung__c27r500fh__25241.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung C27R500FH (LC27R500FHPXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "60 Гц",
+        "Price": "2799",
+        "Image": "DISPLAYS/12768219_0_f.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27C360EA (LS27C360EAIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2799",
+        "Image": "DISPLAYS/2425065.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27C366EA (LS27C366EAIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2799",
+        "Image": "DISPLAYS/kz-ru-essential-s3-s36c-24-inch-y-feet-stand-459096-ls27c366eaixci-537245682.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 241E1SCA/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2849",
+        "Image": "DISPLAYS/monitor__philips__241e1sca__00__21844.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 273V7QJAB/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "2889",
+        "Image": "DISPLAYS/monitor__philips__273v7qiab__00__241654.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27C310EA (LS27C310EAUXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2899",
+        "Image": "DISPLAYS/ch-essential-s3-24s31c-446367-ls27c310eauxen-534813575.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27C312EA (LS27C312EAUXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2899",
+        "Image": "DISPLAYS/359093362.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27C310EA (LS27C310EAIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "2899",
+        "Image": "DISPLAYS/Samsung-LS27C310EAIXCI--1-.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 27MP400-B",
+        "Price": "2949",
+        "Image": "DISPLAYS/monitor__lg__27mp400__b__207047.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 27MP400P-B",
+        "Brand": "LG",
+        "Clock": "75 Гц",
+        "Price": "2999",
+        "Image": "DISPLAYS/large01_loj7-55.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27C330GA (LS27C330GAIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "100 Гц",
+        "Price": "2999",
+        "Image": "DISPLAYS/f086ee2c-4b1f-4d92-ab1a-254b62d1265c.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 27MP60GP-B",
+        "Brand": "LG",
+        "Clock": "75 Гц",
+        "Price": "3129",
+        "Image": "DISPLAYS/1600_01.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 24M1N3200VS/00",
+        "Brand": "Philips",
+        "Clock": "165 Гц",
+        "Price": "3149",
+        "Image": "DISPLAYS/24M1N3200VS_00-IMS-en_GB.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 24M1N3200ZS/00",
+        "Brand": "Philips",
+        "Clock": "165 Гц",
+        "Price": "3149",
+        "Image": "DISPLAYS/24M1N3200ZS_00-IMS-ru_RU.webp",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 271E1SCA/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "3249",
+        "Image": "DISPLAYS/monitor__philips__271e1sca__00__30135.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24R650FD (LS24R650FDIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "3249",
+        "Image": "DISPLAYS/monitor__samsung__s24r650fd__164937.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24R650FD (LS24R650FDUXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "3249",
+        "Image": "DISPLAYS/5aa638a3-093d-4274-8823-dff7de07e1d6.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 272E2FA/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "3289",
+        "Image": "DISPLAYS/monitor__philips__272e2fa__00__164322.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 24M1N3200VA/00",
+        "Brand": "Philips",
+        "Clock": "165 Гц",
+        "Price": "3349",
+        "Image": "DISPLAYS/monitor__philips__24m1n3200va__00__246273.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 24M1N3200ZA/00",
+        "Brand": "Philips",
+        "Clock": "165 Гц",
+        "Price": "3349",
+        "Image": "DISPLAYS/monitor__philips__24m1n3200za__00__246298.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24AG300NR (LS24AG300NRXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "144 Гц",
+        "Price": "3399",
+        "Image": "DISPLAYS/samsung-s24ag300nr-61-cm-24-1920-x-1080-pixel-full-hd-led-negru_1hu8-65.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24AG302NI (LS24AG302NIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "144 Гц",
+        "Price": "3449",
+        "Image": "DISPLAYS/ru-odyssey-g3-g30a-414068-ls24ag302nixci-531217657.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S24AG320NU (LS24AG320NUXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "165 Гц",
+        "Price": "3499",
+        "Image": "DISPLAYS/uk-odyssey-g3-g32a-ls24ag320nuxxu-530292030.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung F27T450FQ (LF27T450FQIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "3599",
+        "Image": "DISPLAYS/monitor__samsung__f27t450fq__40068.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung F27T450FQ (LF27T450FQRXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "3599",
+        "Image": "DISPLAYS/monitor__samsung__f27t450fq__lf27t450fqrxen__253801.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 27M1N3200ZS/00",
+        "Brand": "Philips",
+        "Clock": "165 Гц",
+        "Price": "3599",
+        "Image": "DISPLAYS/27M1N3200ZS_00-_FP-global-001.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 24GN60R-B",
+        "Brand": "LG",
+        "Clock": "144 Гц",
+        "Price": "3599",
+        "Image": "DISPLAYS/large01_oqz7-dx.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 24GN65R-B",
+        "Brand": "LG",
+        "Clock": "144 Гц",
+        "Price": "3699",
+        "Image": "DISPLAYS/0a267ca1-7944-4673-bf12-e15236d92a79.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 272E1CA/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "3849",
+        "Image": "DISPLAYS/monitor__philips__272e1ca__00__194585.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 27M1N3200ZA/00",
+        "Brand": "Philips",
+        "Clock": "165 Гц",
+        "Price": "3989",
+        "Image": "DISPLAYS/monitor__philips__27m1n3200za__00__241534.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 27E1N3300A/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "3999",
+        "Image": "DISPLAYS/monitor__philips__27e1n3300a__00__246291.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 27M1C3200VL/00",
+        "Brand": "Philips",
+        "Clock": "165 Гц",
+        "Price": "3999",
+        "Image": "DISPLAYS/Philips-27M1C3200VL-1.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 27M1N3500LS/00",
+        "Brand": "Philips",
+        "Clock": "144 Гц",
+        "Price": "4139",
+        "Image": "DISPLAYS/302341241.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27R650FD (LS27R650FDIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "4189",
+        "Image": "DISPLAYS/monitor__samsung__s27r650fd__ls27r650fdixci__157793.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 275E1S/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "4349",
+        "Image": "DISPLAYS/monitor__philips__275e1s__00__5531.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27AG300NI (LS27AG300NIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "144 Гц",
+        "Price": "4349",
+        "Image": "DISPLAYS/monitor__samsung__s27ag300ni__ls27ag300nixci__212673.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 275S1AE",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "4899",
+        "Image": "DISPLAYS/img_id3120799530439812422.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27CG510EI (LS27CG510EIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "165 Гц",
+        "Price": "4899",
+        "Image": "DISPLAYS/kz-ru-odyssey-g5-g51c-ls27cg510eixci-538009410_94kb-sr.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27CG550EI (LS27CG550EIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "165 Гц",
+        "Price": "4899",
+        "Image": "DISPLAYS/samsung-32-odyssey-g5-s32cg550-ls32cg550eixci-black_96rn-3a.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор LG 32GN550-B",
+        "Brand": "LG",
+        "Clock": "165 Гц",
+        "Price": "4999",
+        "Image": "DISPLAYS/monitor__lg__32gn550__b__45917.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S32AG320N (LS32AG320NUXEN)",
+        "Brand": "SAMSUNG",
+        "Clock": "165 Гц",
+        "Price": "4999",
+        "Image": "DISPLAYS/monitor__samsung__s32ag320n__ls32ag320nuxen__239449.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 32M1C5200W/00",
+        "Brand": "Philips",
+        "Clock": "240 Гц",
+        "Price": "5149",
+        "Image": "DISPLAYS/340743886.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 276E8VJSB/00",
+        "Brand": "Philips",
+        "Clock": "60 Гц",
+        "Price": "5549",
+        "Image": "DISPLAYS/276E8VJSB_00-_FP-global-001.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S27BG400EI (LS27BG400EIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "240 Гц",
+        "Price": "5599",
+        "Image": "DISPLAYS/8182556-1670412944.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S32CG550EI (LS32CG550EIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "165 Гц",
+        "Price": "5599",
+        "Image": "DISPLAYS/samsung-32-odyssey-g5-s32cg550-ls32cg550eixci-black.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S32BM500E (LS32BM500EIXUA)",
+        "Brand": "SAMSUNG",
+        "Clock": "60 Гц",
+        "Price": "5899",
+        "Image": "DISPLAYS/836023c18269f704a96bc93216086874647fe26f10f95ea1863c4dd4d78cb675.jpg.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 288E2UAE/00",
+        "Brand": "Philips",
+        "Clock": "60 Гц",
+        "Price": "5989",
+        "Image": "DISPLAYS/288E2UAE_00-_FP-global-001.jpg",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Philips 325E1C/00",
+        "Brand": "Philips",
+        "Clock": "75 Гц",
+        "Price": "5999",
+        "Image": "DISPLAYS/monitor__philips__325e1c__00__164932.png",
+        "Description": ""
+    },
+    {
+        "Name": "Монитор Samsung S32A600NW (LS32A600NWIXCI)",
+        "Brand": "SAMSUNG",
+        "Clock": "75 Гц",
+        "Price": "5999",
+        "Image": "DISPLAYS/monitor__samsung__s32a600nw__ls32a600nwixci__178532.jpg",
+        "Description": ""
+    }
+]

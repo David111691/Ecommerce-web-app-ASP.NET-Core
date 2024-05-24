@@ -1,20 +1,20 @@
 <div class="bg-light px-4 py-3 text-uppercase fw-bold">
-    Order Summary
+    Итог заказа
 </div>
 <div>
-    <p class="fst-italic mb-4">Shipping cost will be added depending on choices made during checkout</p>
+    <p class="fst-italic mb-4"></p>
     <ul class="list-unstyled mb-4" *ngIf="(basketTotal$ | async) as totals">
         <li class="d-flex justify-content-between py-3 border-bottom">
-            <strong class="text-muted">Order subtotal</strong>
-            <strong>{{totals.subtotal | currency}}</strong>
+            <strong class="text-muted">Цена заказа</strong>
+            <strong>{{totals.subtotal}}.00 руб.</strong>
         </li>
         <li class="d-flex justify-content-between py-3 border-bottom">
-            <strong class="text-muted">Shipping and handling</strong>
-            <strong>{{totals.shipping | currency}}</strong>
+            <strong class="text-muted">Доставка</strong>
+            <strong>{{totals.shipping}}.00 руб.</strong>
         </li>
         <li class="d-flex justify-content-between py-3 border-bottom">
-            <strong class="text-muted">Total</strong>
-            <strong>{{totals.total | currency}}</strong>
+            <strong class="text-muted">Всего</strong>
+            <strong>{{totals.total}}.00 руб.</strong>
         </li>
     </ul>
 </div>
