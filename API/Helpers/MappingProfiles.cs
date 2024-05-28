@@ -114,6 +114,11 @@ namespace API.Helpers
             CreateMap<PCPortableTabletItem, PCPortableTabletItemToReturnDto>()
                                         .ForMember(d => d.ShopSubsubcategoryName, o => o.MapFrom(s => s.PCPortable.SubSubcategoryName));
             CreateMap<Address, AddressDto>().ReverseMap();
+
+            CreateMap<CustomerBasketDto, CustomBasket>();
+
+            CreateMap<BasketItemDto, BasketItem>();
+            
         }
     }
 }
