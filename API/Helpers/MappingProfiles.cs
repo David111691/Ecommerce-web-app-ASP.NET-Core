@@ -1,6 +1,7 @@
 using API.Dtos;
 using AutoMapper;
 using Core.Entities;
+using Core.Entities.Identity;
 using Core.Entities.ShopGoods;
 
 namespace API.Helpers
@@ -112,6 +113,7 @@ namespace API.Helpers
 
             CreateMap<PCPortableTabletItem, PCPortableTabletItemToReturnDto>()
                                         .ForMember(d => d.ShopSubsubcategoryName, o => o.MapFrom(s => s.PCPortable.SubSubcategoryName));
+            CreateMap<Address, AddressDto>().ReverseMap();
         }
     }
 }
