@@ -14,7 +14,7 @@ namespace API.Extensions
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPIv5", Version = "v1" });
 
-                var securitySchema = new OpenApiSecurityScheme
+                /*var securitySchema = new OpenApiSecurityScheme
                 {
                     Description = "JWT Auth Bearer Scheme",
                     Name = "Authorization",
@@ -30,7 +30,7 @@ namespace API.Extensions
 
                 c.AddSecurityDefinition("Bearer", securitySchema);
                 var securityRequirment = new OpenApiSecurityRequirement {{securitySchema, new[] {"Bearer"}}};
-                c.AddSecurityRequirement(securityRequirment);
+                c.AddSecurityRequirement(securityRequirment);*/
 
             });
 

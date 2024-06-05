@@ -1,0 +1,41 @@
+<form [formGroup]="registerForm" (ngSubmit)="onSubmit()" class="form-signin">
+    <div class="text-center mb-4">
+        <h1 class="h3 mb-3 font-weight-normal">Форма регистрации</h1>
+    </div>
+
+    <div style="text-align: center; display:inline-block;"><span><strong>Имя</strong></span>
+    </div>
+
+    <app-text-input style="margin: 0.2rem;" formControlName="displayName"></app-text-input>
+
+    <div style="text-align: center; display:inline-block;"><span><strong>Email</strong></span>
+    </div>
+
+    <app-text-input style="margin: 0.2rem;" formControlName="email"></app-text-input>
+    <div style="text-align: center; display:inline-block;"> <span><strong>Пароль</strong></span>
+
+    </div>
+
+    <app-text-input style="margin: 0.2rem;" formControlName="password" type="password">
+    </app-text-input>
+
+    <ul class="text-danger" *ngIf="errors">
+        <li *ngIf="checkForEmail()">
+            Данный email-адрес уже используется
+        </li>
+        <li *ngIf="checkForPassword()">
+            Пароль должен содержать, по крайней мере, одну прописную букву, одну строчную, спец. символ и цифру.
+            Мин. длина: 8 символов.
+        </li>
+    </ul>
+
+    <button [disabled]="registerForm.invalid" class="btn btn-lg btn-primary" style="display: block; width: 100%;"
+        type="submit">Зарегистрироваться</button>
+</form>
+<!--<div class="d-flex flex-column align-items-center justify-content-center">
+    <p>Статус авторизации: {{loginForm.status}}</p>
+    <p>Статус Email: {{loginForm.get('email').status}}</p>
+    <p>Email touched: {{loginForm.get('email').status}}</p>
+    <p>Email dirty: {{loginForm.get('email').touched}}</p>
+    <pre>{{loginForm.value | json}}</pre>
+</div>-->

@@ -1,0 +1,22 @@
+<div class="form-label-group">
+    <input 
+    [ngClass]="(controlDir &&
+    controlDir.control &&
+    controlDir.control.touched) ? !controlDir.control.valid 
+    ? 'is-invalid' : 'in-valid' : null"
+    [type]="type"
+    (input)="this.onChange($event.target.value)" 
+    (blur)="onTouched()"
+    id="{{label}}"
+    #input 
+    class="form-control" 
+    autofocus="" 
+    placeholder="{{label}}">
+
+    <div class="invalid-feedback" *ngIf="(controlDir &&
+        controlDir.control && !controlDir.control.valid &&
+        controlDir.control.touched)">
+        <span *ngIf="controlDir.control.errors?.required">{{label}} Необходимо</span>
+        <span *ngIf="controlDir.control.errors?.pattern">Некорректный Email</span>
+    </div>
+</div>
