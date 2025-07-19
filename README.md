@@ -2,7 +2,7 @@
 
 **A demo E-commerce application built with .NET Core using the Generic Repository and Specification Pattern / Angular 10 / Redis / Stripe**
 
-![Demo animation](demo.gif)
+![Demo animation](Shopping_Cart.gif)
 
 This project is a proof-of-concept online store showcasing how to build a modern e-commerce platform using a .NET Core Web API backend and an Angular 10 frontend, developed with Angular CLI.
 
